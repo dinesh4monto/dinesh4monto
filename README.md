@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Chaquopy: Using Python In Android Apps](https://app.daily.dev/posts/BWnJn7KWi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Building Scalable and Secure Web Applications with Three-Tier Architecture on AWS](https://app.daily.dev/posts/nvitugvrC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Awesome portfolio - Generate Portfolio website on the go 🚀](https://app.daily.dev/posts/kVLr0UBRm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Maximize Your Workflow with Self-Hosted IT-Tools Collection for Developers](https://app.daily.dev/posts/fNBcNqXp6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [CheatGPT](https://app.daily.dev/posts/mspMLyYFV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Git fundamentals, a complete guide](https://app.daily.dev/posts/x5EV21WiM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [What is Strict Mode in React?](https://app.daily.dev/posts/dkDOpwGKo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Currying in JavaScript](https://app.daily.dev/posts/A0VFjCOYl?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [OpenAI connects ChatGPT to the internet](https://app.daily.dev/posts/XzT75mRA6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A Crash Course in Caching - Part 1](https://app.daily.dev/posts/usZYlOdKs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
