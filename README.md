@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Secure database connection in Nodejs application](https://app.daily.dev/posts/ybSx2pYuB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Natural Language Processing in Software Testing](https://app.daily.dev/posts/3MBv2Jje3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How To Optimize Your React App’s Performance](https://app.daily.dev/posts/sujut9WPa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Theatre.js Tutorial](https://app.daily.dev/posts/YdlFDPuxh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Learn How to Setup a CI/CD Pipeline from Scratch](https://app.daily.dev/posts/lExdnGqOh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The most failed JavaScript interview questions](https://app.daily.dev/posts/tCa72oNcC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [16 little UI design rules that make a big impact](https://app.daily.dev/posts/9KvBp6poj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Git fundamentals, a complete guide](https://app.daily.dev/posts/x5EV21WiM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
