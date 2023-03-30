@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [16 little UI design rules that make a big impact](https://app.daily.dev/posts/9KvBp6poj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Git fundamentals, a complete guide](https://app.daily.dev/posts/x5EV21WiM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [What is Strict Mode in React?](https://app.daily.dev/posts/dkDOpwGKo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Currying in JavaScript](https://app.daily.dev/posts/A0VFjCOYl?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [OpenAI connects ChatGPT to the internet](https://app.daily.dev/posts/XzT75mRA6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A Crash Course in Caching - Part 1](https://app.daily.dev/posts/usZYlOdKs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
