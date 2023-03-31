@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Secure database connection in Nodejs application](https://app.daily.dev/posts/ybSx2pYuB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Natural Language Processing in Software Testing](https://app.daily.dev/posts/3MBv2Jje3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How To Optimize Your React App’s Performance](https://app.daily.dev/posts/sujut9WPa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Theatre.js Tutorial](https://app.daily.dev/posts/YdlFDPuxh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Learn How to Setup a CI/CD Pipeline from Scratch](https://app.daily.dev/posts/lExdnGqOh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Rekeleton - Create a pixel-perfect React skeleton UI in seconds](https://app.daily.dev/posts/AZoqMKKXR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [6 Reasons why you Should Start Self-Hosting in 2023](https://app.daily.dev/posts/DZQBtEUjt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [15 Awesome CSS Properties You Need to Know 🎯](https://app.daily.dev/posts/EO4qnpfbJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Open Source ChatGPT Models: A Step-by-Step Guide](https://app.daily.dev/posts/gtPENozB9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A Full Guide: Understand Everything About APIs with Examples](https://app.daily.dev/posts/jyZQzyeMT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
