@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Basic Pentesting 02 Walkthrough](https://app.daily.dev/posts/8CgGyTpfX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Creating a resume builder with React, NodeJS and AI 🚀](https://app.daily.dev/posts/GnkTTwgdC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [How to Build an App and Make Money with It?](https://app.daily.dev/posts/rP5SOv8zX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Repository security advisories REST API](https://app.daily.dev/posts/ikAd8ALgU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Top 6 tools for Node.js monitoring](https://app.daily.dev/posts/6sCbk0umA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Best practices for JWT tokens](https://app.daily.dev/posts/03Cv04456?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
