@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [ChatGPT + Code Interpreter = Magic](https://app.daily.dev/posts/cG0Nuopsh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Create a Personal Website with Next.js 13, Sanity.io, TailwindCSS, and TypeScript](https://app.daily.dev/posts/0h6E8tPyY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [What&#39;s new in PHP 8.3](https://app.daily.dev/posts/7Iq5aLJ1v?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Learn Functional Programming in JavaScript](https://app.daily.dev/posts/KFJXOe7cj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Build CRUD APIs Using Apollo Server&lpar;Graphql&rpar;, MongoDB and Node.Js](https://app.daily.dev/posts/J7j580Olp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Mastering React useEffect Hook: A Comprehensive Guide](https://app.daily.dev/posts/uAd2A7TJn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Top 5 MERN STACK projects to improve your practical understanding🚀](https://app.daily.dev/posts/iCNgfUwZv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [EP 51: How does DNS work?](https://app.daily.dev/posts/M04SeAA9h?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Deploy your React app using GitHub pages](https://app.daily.dev/posts/mpeNWNfIm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to easily get started with ThreeJS - Part 1](https://app.daily.dev/posts/rZOhmxgk1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
