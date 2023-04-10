@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Best Practices for Building Large-Scale Node.js Applications](https://app.daily.dev/posts/YmaZGnJi8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Mastering React useEffect Hook: A Comprehensive Guide](https://app.daily.dev/posts/uAd2A7TJn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Top 5 MERN STACK projects to improve your practical understanding🚀](https://app.daily.dev/posts/iCNgfUwZv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [EP 51: How does DNS work?](https://app.daily.dev/posts/M04SeAA9h?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Deploy your React app using GitHub pages](https://app.daily.dev/posts/mpeNWNfIm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to easily get started with ThreeJS - Part 1](https://app.daily.dev/posts/rZOhmxgk1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
