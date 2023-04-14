@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [ReaPer : An open-source dev tool to analyze React application performance](https://app.daily.dev/posts/fWc8qe1bD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Module Pattern](https://app.daily.dev/posts/I5JZD1Eth?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Best Practices for Building Large-Scale Node.js Applications](https://app.daily.dev/posts/YmaZGnJi8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Mastering React useEffect Hook: A Comprehensive Guide](https://app.daily.dev/posts/uAd2A7TJn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Top 5 MERN STACK projects to improve your practical understanding🚀](https://app.daily.dev/posts/iCNgfUwZv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [EP 51: How does DNS work?](https://app.daily.dev/posts/M04SeAA9h?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
