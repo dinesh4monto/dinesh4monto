@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Get Screen Size in Pure CSS](https://app.daily.dev/posts/VSd3G1WbD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Build a Python Website in 15 Minutes With Streamlit](https://app.daily.dev/posts/NGUWSry9B?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Codeium: The Best Github Copilot Alternative](https://app.daily.dev/posts/XEy5UyPsv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Python Cheatsheet 🐍](https://app.daily.dev/posts/OGKHljvLO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [JavaScript design patterns guide](https://app.daily.dev/posts/vdeLaySdV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [HTML5 Input Types You May Not Be Using](https://app.daily.dev/posts/gjUMCZSHI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
