@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How to detect VPN users on your website/app](https://app.daily.dev/posts/pXLcEMEPK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/7NpDrZTnD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Awesome Docker Compose](https://app.daily.dev/posts/UEc1xDc73?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Build a Python Website in 15 Minutes With Streamlit](https://app.daily.dev/posts/NGUWSry9B?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Building a Comprehensive Calendly Clone with Next.js, TypeScript, and Tailwind CSS](https://app.daily.dev/posts/Jgj4XbXFu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [15 Best Website Concepts Every Web Designer Should Know](https://app.daily.dev/posts/kA0IigyKM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
