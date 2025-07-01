@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/7NpDrZTnD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Awesome Docker Compose](https://app.daily.dev/posts/UEc1xDc73?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Build a Python Website in 15 Minutes With Streamlit](https://app.daily.dev/posts/NGUWSry9B?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Building a Comprehensive Calendly Clone with Next.js, TypeScript, and Tailwind CSS](https://app.daily.dev/posts/Jgj4XbXFu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [15 Best Website Concepts Every Web Designer Should Know](https://app.daily.dev/posts/kA0IigyKM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/YKe7MjjXp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Self-Host Weekly &lpar;20 June 2025&rpar;](https://app.daily.dev/posts/xLw8wMIvx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
