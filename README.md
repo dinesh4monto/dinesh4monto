@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How to Turn Figma Designs into code with Next.js, Tailwind CSS,  Shadcn in 2025](https://app.daily.dev/posts/WydmiwSYc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/Spko73Czr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Using CSS backdrop-filter for UI Effects](https://app.daily.dev/posts/ytnXwI0lg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/ylHz0UdGg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Every Senior Developer Needs To Know This!](https://app.daily.dev/posts/8kACmVKEo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How To Self-Host n8n &lpar;VPS vs Your Computer&rpar;](https://app.daily.dev/posts/jAQ6Frb9A?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [EP161: A Cheatsheet on REST API Design Best Practices](https://app.daily.dev/posts/phIwaS3gg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How To Implement Css Scroll Driven Animations](https://app.daily.dev/posts/H0RznjdeS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
