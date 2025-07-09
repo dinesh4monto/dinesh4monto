@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Train Your Own Large Language Model: A Comprehensive Course](https://app.daily.dev/posts/IVxYMV4OO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [10 MCP, AI Agents, and RAG projects for AI Engineers](https://app.daily.dev/posts/ftClIjNpJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [MySQL vs PostgreSQL vs SingleStore Performance in Docker](https://app.daily.dev/posts/3QA2pUSUI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Build RAG AI Agents with TypeScript](https://app.daily.dev/posts/9nJ7z83uG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [php-mcp/server: Core PHP implementation for the Model Context Protocol &lpar;MCP&rpar; server](https://app.daily.dev/posts/Ys6sAPKeB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [10 Best DevOps Platforms to Know in 2025](https://app.daily.dev/posts/TJAV2jjBW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [I Backdoored Cursor AI](https://app.daily.dev/posts/f6FhxCLSw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/5QS1S3nuW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Top 11 Free AI Image Generators: Best AI Image Tools of 2025](https://app.daily.dev/posts/bZGrRG4qy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [What is MCP &lpar;Model Context Protocol&rpar;?](https://app.daily.dev/posts/s16b1IAJT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
