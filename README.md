@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Train Your Own Large Language Model: A Comprehensive Course](https://app.daily.dev/posts/IVxYMV4OO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [10 MCP, AI Agents, and RAG projects for AI Engineers](https://app.daily.dev/posts/ftClIjNpJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [MySQL vs PostgreSQL vs SingleStore Performance in Docker](https://app.daily.dev/posts/3QA2pUSUI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Build RAG AI Agents with TypeScript](https://app.daily.dev/posts/9nJ7z83uG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [php-mcp/server: Core PHP implementation for the Model Context Protocol &lpar;MCP&rpar; server](https://app.daily.dev/posts/Ys6sAPKeB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Turn Figma Designs into code with Next.js, Tailwind CSS,  Shadcn in 2025](https://app.daily.dev/posts/WydmiwSYc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/Spko73Czr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Using CSS backdrop-filter for UI Effects](https://app.daily.dev/posts/ytnXwI0lg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/ylHz0UdGg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
