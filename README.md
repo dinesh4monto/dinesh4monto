@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/4q4nQfZmZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Prompt Engineering as a Developer Discipline](https://app.daily.dev/posts/Xgx99eSfI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [10 System Design Concepts You Must Master Before Your Next SDE Interview &lpar;with Resources&rpar;](https://app.daily.dev/posts/NDYIsf46c?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [10 Best DevOps Platforms to Know in 2025](https://app.daily.dev/posts/TJAV2jjBW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [I Backdoored Cursor AI](https://app.daily.dev/posts/f6FhxCLSw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/5QS1S3nuW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Top 11 Free AI Image Generators: Best AI Image Tools of 2025](https://app.daily.dev/posts/bZGrRG4qy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [What is MCP &lpar;Model Context Protocol&rpar;?](https://app.daily.dev/posts/s16b1IAJT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
