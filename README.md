@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/4q4nQfZmZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Prompt Engineering as a Developer Discipline](https://app.daily.dev/posts/Xgx99eSfI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [10 System Design Concepts You Must Master Before Your Next SDE Interview &lpar;with Resources&rpar;](https://app.daily.dev/posts/NDYIsf46c?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [10 Best DevOps Platforms to Know in 2025](https://app.daily.dev/posts/TJAV2jjBW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [I Backdoored Cursor AI](https://app.daily.dev/posts/f6FhxCLSw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Ultimate Web Development Resources](https://app.daily.dev/posts/n2cN0cTCu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [React feels insane](https://app.daily.dev/posts/TEL2LUMBM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Ultimate Laravel App Is Here!](https://app.daily.dev/posts/IeQD90HDY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/7Xc7mscEH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Build a Smart AI Task Manager with Laravel, Livewire &amp; PrismPHP](https://app.daily.dev/posts/qPbK4k9u6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
