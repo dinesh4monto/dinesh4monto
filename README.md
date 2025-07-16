@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Ultimate Web Development Resources](https://app.daily.dev/posts/n2cN0cTCu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [React feels insane](https://app.daily.dev/posts/TEL2LUMBM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Ultimate Laravel App Is Here!](https://app.daily.dev/posts/IeQD90HDY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/7Xc7mscEH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Build a Smart AI Task Manager with Laravel, Livewire &amp; PrismPHP](https://app.daily.dev/posts/qPbK4k9u6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Ubuntu 25.04 vs. Windows 11 CPU Performance For The AMD Ryzen AI 7 PRO 360 Review](https://app.daily.dev/posts/xltM6gOKU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Learning Software Skills fast: what worked for us best in the last 15 years](https://app.daily.dev/posts/Leatr0x7x?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Build an AI Agent to Help with Daily Tasks](https://app.daily.dev/posts/BkoqevALk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/oAK7iNNF8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Claude Code UI](https://app.daily.dev/posts/5GjRVUSAH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
