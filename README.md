@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Learn Object-Oriented Programming in TypeScript](https://app.daily.dev/posts/GYh9tELoJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Web Is Your Component Library](https://app.daily.dev/posts/7b73MtaBD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Hacker Screen Builder](https://app.daily.dev/posts/7nlc9WfsU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/wrZOUzxxO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Top 5 MCP Server Best Practices](https://app.daily.dev/posts/vxxUiPxQ9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Ubuntu 25.04 vs. Windows 11 CPU Performance For The AMD Ryzen AI 7 PRO 360 Review](https://app.daily.dev/posts/xltM6gOKU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Learning Software Skills fast: what worked for us best in the last 15 years](https://app.daily.dev/posts/Leatr0x7x?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
