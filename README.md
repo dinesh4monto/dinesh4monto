@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [From SplitText to MorphSVG: 5 Creative Demos Using Free GSAP Plugins](https://app.daily.dev/posts/e5B7yGR9j?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How I&#39;d Learn ML/AI FAST If I Had to Start Over](https://app.daily.dev/posts/gw6CDsSCG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [99% of frontend devs don&#39;t use this](https://app.daily.dev/posts/KGy8yBYHy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [14 web performance tips for 2025](https://app.daily.dev/posts/3xchMwgAi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [How to Build Your Own Local AI: Create Free RAG and AI Agents with Qwen 3 and Ollama](https://app.daily.dev/posts/0ioI1JdOm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Build a Flutter Expense Tracker with Advanced Transaction Features](https://app.daily.dev/posts/wImRhLa7o?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Learn Object-Oriented Programming in TypeScript](https://app.daily.dev/posts/GYh9tELoJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
