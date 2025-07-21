@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Laravel AI Chat Starter Kit](https://app.daily.dev/posts/B8Qenayhy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to run the Homepage app via its Docker image](https://app.daily.dev/posts/mOLKSx1Ix?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Developing a Real-time Dashboard with FastAPI, MongoDB, and WebSockets](https://app.daily.dev/posts/sBn6HgxdX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [From SplitText to MorphSVG: 5 Creative Demos Using Free GSAP Plugins](https://app.daily.dev/posts/e5B7yGR9j?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [How I&#39;d Learn ML/AI FAST If I Had to Start Over](https://app.daily.dev/posts/gw6CDsSCG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [99% of frontend devs don&#39;t use this](https://app.daily.dev/posts/KGy8yBYHy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [14 web performance tips for 2025](https://app.daily.dev/posts/3xchMwgAi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Build Your Own Local AI: Create Free RAG and AI Agents with Qwen 3 and Ollama](https://app.daily.dev/posts/0ioI1JdOm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
