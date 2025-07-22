@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [600+ Free UI Design Assets!](https://app.daily.dev/posts/0y2i3dm1A?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A Brief Introduction to React](https://app.daily.dev/posts/WyKADwNC6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [What Is a DNS Server and How Does It Work](https://app.daily.dev/posts/tlh4ezix6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Ultimate repo: List of Great MCP servers](https://app.daily.dev/posts/IpdrSTzex?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [How to Build an Agent](https://app.daily.dev/posts/Nar2dgA30?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Animated 3D Sphere Intersection Using CSS And Trigonometry](https://app.daily.dev/posts/zJFJbtrTE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Install a Honeypot to Catch Hackers](https://app.daily.dev/posts/xG8XHvlC8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
