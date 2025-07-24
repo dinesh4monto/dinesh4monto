@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How to Build a Production-Ready DevOps Pipeline with Free Tools](https://app.daily.dev/posts/1Csk1l3Bk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Watermill: from a hobby project to 8k stars on GitHub](https://app.daily.dev/posts/miGGZgeIj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Spectral.js](https://app.daily.dev/posts/2zwdCxdOv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/Ulj4WN7bW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/anB69lxHE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Run Frontend &amp; Backend Together with One Command &lpar;No Docker Needed&rpar;](https://app.daily.dev/posts/c6Bgvfk0E?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
