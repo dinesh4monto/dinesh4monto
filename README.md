@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [How to Build a Dynamic Wardrobe App with React Drag and Drop](https://app.daily.dev/posts/9LNaoW9YT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Build a Production-Ready DevOps Pipeline with Free Tools](https://app.daily.dev/posts/1Csk1l3Bk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Watermill: from a hobby project to 8k stars on GitHub](https://app.daily.dev/posts/miGGZgeIj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Spectral.js](https://app.daily.dev/posts/2zwdCxdOv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/Ulj4WN7bW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Best Programming Language for 2026](https://app.daily.dev/posts/zrgQW8g1i?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Is PHP the new JS?](https://app.daily.dev/posts/u2xgdNJKg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [What I Learned Building My First Self-Hosted App](https://app.daily.dev/posts/Hta5weemJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/FottCrG5f?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Case for Using Plain HTML in Web Development](https://app.daily.dev/posts/WUXvJshiJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
