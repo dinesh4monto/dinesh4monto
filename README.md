@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Building a 100% local MCP Client](https://app.daily.dev/posts/Xhl5tVrJu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Building an end-to-end Retrieval- Augmented Generation &lpar;RAG&rpar; workflow](https://app.daily.dev/posts/7QcN6hpBK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [A 1KB Frontend Library in Just 135 Lines](https://app.daily.dev/posts/voKLM73Di?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [How Facebook Live Scaled to a Billion Users](https://app.daily.dev/posts/S8JUxv1GE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [epanet-js](https://app.daily.dev/posts/6YuvbrLpp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/l1PPDXu5U?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Arindam200/awesome-ai-apps: Collection of AI Applications](https://app.daily.dev/posts/Kveg9cxaw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
