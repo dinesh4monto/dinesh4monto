@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Vapi: Voice AI for developers](https://app.daily.dev/posts/BlKtG7vl2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Simplify Your Finances with the Flutter Expense Tracker](https://app.daily.dev/posts/OBZDAfBTO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Free GenAI 65-Hour Bootcamp](https://app.daily.dev/posts/hJlHo8LpR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [This guy has good articles on GoLang...](https://app.daily.dev/posts/hmb2gPsHF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Dashboards and detergent: How two students monitor laundry machines in a college dorm with Grafana](https://app.daily.dev/posts/yc5vU1rXX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [JavaScript Utilities, AI Tools, Vue.js](https://app.daily.dev/posts/A1KKtNcYE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to version APIs with API Gateway and Lambda](https://app.daily.dev/posts/ReBy3f8Ub?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Usertour - is an open-source user onboarding platform](https://app.daily.dev/posts/zVVYrw7OH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/Vz6GNp4vW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/PlC9jnHOC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
