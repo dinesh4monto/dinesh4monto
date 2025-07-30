@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Vapi: Voice AI for developers](https://app.daily.dev/posts/BlKtG7vl2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Simplify Your Finances with the Flutter Expense Tracker](https://app.daily.dev/posts/OBZDAfBTO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Free GenAI 65-Hour Bootcamp](https://app.daily.dev/posts/hJlHo8LpR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [This guy has good articles on GoLang...](https://app.daily.dev/posts/hmb2gPsHF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Dashboards and detergent: How two students monitor laundry machines in a college dorm with Grafana](https://app.daily.dev/posts/yc5vU1rXX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/uCptSJGLF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/bgXa9fIbu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Tips To Get the Most out of the AI Editor Cursor](https://app.daily.dev/posts/BY8ohUIkC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A Brief Introduction to Web Components](https://app.daily.dev/posts/uIusBtCEK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
