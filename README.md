@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [JavaScript Utilities, AI Tools, Vue.js](https://app.daily.dev/posts/A1KKtNcYE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to version APIs with API Gateway and Lambda](https://app.daily.dev/posts/ReBy3f8Ub?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Usertour - is an open-source user onboarding platform](https://app.daily.dev/posts/zVVYrw7OH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/Vz6GNp4vW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/PlC9jnHOC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Postman is logging all your secrets and environment variables](https://app.daily.dev/posts/0rZc8mjIA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Build Your Own SaaS Cloud Platform with Kamaji and GitOps](https://app.daily.dev/posts/fq9pXJjfN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [5 weird &lpar;but useful&rpar; data structures in computer science](https://app.daily.dev/posts/1SYJ34UHf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Hashing in Coding Interviews](https://app.daily.dev/posts/PjTMJNzuN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Using the OpenTelemetry Operator to boost your observability](https://app.daily.dev/posts/C54h3qfHy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
