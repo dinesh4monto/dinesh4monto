@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Postman is logging all your secrets and environment variables](https://app.daily.dev/posts/0rZc8mjIA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Build Your Own SaaS Cloud Platform with Kamaji and GitOps](https://app.daily.dev/posts/fq9pXJjfN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [5 weird &lpar;but useful&rpar; data structures in computer science](https://app.daily.dev/posts/1SYJ34UHf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Hashing in Coding Interviews](https://app.daily.dev/posts/PjTMJNzuN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Using the OpenTelemetry Operator to boost your observability](https://app.daily.dev/posts/C54h3qfHy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [From Zero to Maintainer: My Open Source Journey with Backstage](https://app.daily.dev/posts/PxaOdjeAR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Scrappy](https://app.daily.dev/posts/QsCA1M7uS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Python For Everything](https://app.daily.dev/posts/ZxOwHzzGE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [React Is the last framework.](https://app.daily.dev/posts/VQ5Ymnn8Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Data Structures #2: Binary Heap](https://app.daily.dev/posts/wVlXgsbyt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
