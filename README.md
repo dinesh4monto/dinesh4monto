@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [GPT-4.1 Prompting Guide](https://app.daily.dev/posts/5fCryHVk2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [From Zero to Maintainer: My Open Source Journey with Backstage](https://app.daily.dev/posts/PxaOdjeAR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Scrappy](https://app.daily.dev/posts/QsCA1M7uS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Python For Everything](https://app.daily.dev/posts/ZxOwHzzGE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [React Is the last framework.](https://app.daily.dev/posts/VQ5Ymnn8Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Data Structures #2: Binary Heap](https://app.daily.dev/posts/wVlXgsbyt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
