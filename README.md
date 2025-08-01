@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/HgycNnnqs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Built-in AI in Chrome](https://app.daily.dev/posts/ByrvC0ZsF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Kew: Pretty Music In Your Terminal](https://app.daily.dev/posts/tYtykRjzM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Can AI Replace UI Developers?](https://app.daily.dev/posts/XxUxn9Sqz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/48vlAq4nN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [eli64s/readme-ai: README file generator, powered by AI.](https://app.daily.dev/posts/kL9dP46Zd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Go vs Python vs Rust: Which One Should You Learn in 2025? Benchmarks, Jobs &amp; Trade‑offs](https://app.daily.dev/posts/bJsWHj0oX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to optimize your Next.js app with after&lpar;&rpar;](https://app.daily.dev/posts/kXH4djXLg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/FYV2LRF3w?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Top 5 Monorepo Tools for 2025](https://app.daily.dev/posts/Okzn9X1U4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
