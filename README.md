@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/VCVF24Xky?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [eli64s/readme-ai: README file generator, powered by AI.](https://app.daily.dev/posts/kL9dP46Zd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Go vs Python vs Rust: Which One Should You Learn in 2025? Benchmarks, Jobs &amp; Trade‑offs](https://app.daily.dev/posts/bJsWHj0oX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to optimize your Next.js app with after&lpar;&rpar;](https://app.daily.dev/posts/kXH4djXLg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/FYV2LRF3w?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/0Z7pCoR8z?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Why Coding Is No Longer the Most Valuable Skill for Developers? While some people are fleeing tech because they think AI is taking over, I think the opposite is true: Good engineers are going to be even more in demand.](https://app.daily.dev/posts/8e7Dkholl?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/Z8LT0KZNs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/lWFIeEJDQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [This Chinese coding model finally caught up to Claude...](https://app.daily.dev/posts/IFizDHhKv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
