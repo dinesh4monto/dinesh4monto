@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [10 Unspoken NestJS Secrets for Production at Scale](https://app.daily.dev/posts/xHJ4VgMDg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [OpenCode: An Advanced Open-Source AI Coding Agent for Terminal](https://app.daily.dev/posts/zT005veGX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [CSS conditionals with the new if&lpar;&rpar; function](https://app.daily.dev/posts/Fo9U1cunJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Breaking into AI Engineering in 2025.](https://app.daily.dev/posts/93xjrYFpI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Highlights from the Claude 4 system prompt](https://app.daily.dev/posts/zRt7XPdjt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/eG9OBEYKd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
