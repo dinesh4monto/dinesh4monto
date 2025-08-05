@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [THE WAY OF CODE](https://app.daily.dev/posts/U63G1BAgB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Build an AI Music Generation SaaS: Python, Next.js, AWS, Polar, Tailwind, TS, Modal, Inngest &lpar;2025&rpar;](https://app.daily.dev/posts/OVfcNgyRk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Devex: Your Own Open-Source, Containerized and Shareable Cloud IDE.](https://app.daily.dev/posts/yU6iNuT8H?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [jujumilk3/leaked-system-prompts: Collection of leaked system prompts](https://app.daily.dev/posts/VA8ECDxOd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [10 Unspoken NestJS Secrets for Production at Scale](https://app.daily.dev/posts/xHJ4VgMDg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [OpenCode: An Advanced Open-Source AI Coding Agent for Terminal](https://app.daily.dev/posts/zT005veGX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [CSS conditionals with the new if&lpar;&rpar; function](https://app.daily.dev/posts/Fo9U1cunJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Breaking into AI Engineering in 2025.](https://app.daily.dev/posts/93xjrYFpI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
