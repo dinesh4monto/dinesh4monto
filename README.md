@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [EP171: The Generative AI Tech Stack](https://app.daily.dev/posts/kH6aEzhJc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Your go-to list of Shadcn/UI resources and components](https://app.daily.dev/posts/v6Wv2Jywm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Enhance productivity with AI + Remote Dev](https://app.daily.dev/posts/ynVu0rKQ1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [My Official Developer Portfolio – DevMasterMind](https://app.daily.dev/posts/AC3pYFjwm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/entYqIP2c?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Programming Is Becoming Prompting](https://app.daily.dev/posts/7udOfNjuP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Top UI/UX design trends to watch in 2025](https://app.daily.dev/posts/HAUR9qmPZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/2wNi4wEV3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
