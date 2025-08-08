@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [How to Start Your Own MCP Server with n8n](https://app.daily.dev/posts/29jQECu6r?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/5IH49Iblr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A compact and developer-friendly ReactJS Cheatsheet covering core concepts, essential hooks, routing, performance tips, and modern React 18 features all in one place.](https://app.daily.dev/posts/nfZD2X24p?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/DEbnDobgl?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Self-Host Weekly &lpar;6 June 2025&rpar;](https://app.daily.dev/posts/qYDEVWSTb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Anthropic&#39;s Interactive Prompt Engineering Tutorial](https://app.daily.dev/posts/TIjKdxgnv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Layout Maestro Course](https://app.daily.dev/posts/NkbqlVhUv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [10 Most Popular GitHub Actions Alternatives for CI/CD](https://app.daily.dev/posts/yZh8oA6mm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The ultimate React component library and Figma UI kit](https://app.daily.dev/posts/ul2OLSZaP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Get Started with AWS in 2025](https://app.daily.dev/posts/A3WEE9hQu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
