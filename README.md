@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Cursor YOLO deleted everything in my computer](https://app.daily.dev/posts/zSjmFrsKW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [I built and deployed a Voice AI Agent to my portfolio in 30 minutes](https://app.daily.dev/posts/15W85m8e2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [JS Utilities, Git/CLI Tools, AI Tools](https://app.daily.dev/posts/cNcBxFQru?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/EqlvRWkhH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/KUKMaVfOS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Figma MCP: Complete Guide](https://app.daily.dev/posts/HqSIT2X70?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Explore 5400+ Web Templates of UIHut](https://app.daily.dev/posts/Kk75yQB35?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/tPQ2qMmnf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Web Dev Kent Dodds on Remix and His Frontend Secret Weapon](https://app.daily.dev/posts/ctR8HcvCM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Instant Codebase Understanding](https://app.daily.dev/posts/9FmF3aES8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
