@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Liquid Glass on the Web – Frontend Masters Blog](https://app.daily.dev/posts/YLBrjGz30?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [everywhere.tools](https://app.daily.dev/posts/mmvTb9hBI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Building an MCP-powered Financial Analyst](https://app.daily.dev/posts/Em7iIOXyq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Figma MCP: Complete Guide](https://app.daily.dev/posts/HqSIT2X70?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Explore 5400+ Web Templates of UIHut](https://app.daily.dev/posts/Kk75yQB35?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/tPQ2qMmnf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Web Dev Kent Dodds on Remix and His Frontend Secret Weapon](https://app.daily.dev/posts/ctR8HcvCM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Instant Codebase Understanding](https://app.daily.dev/posts/9FmF3aES8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
