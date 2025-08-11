@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [google medical ai](https://app.daily.dev/posts/IroJT0Loq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Grep a million GitHub repositories via MCP](https://app.daily.dev/posts/3DJ9IWu9u?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/mwu89xBW4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Open Source Project That Became an Essential Library for Modern AI Engineering](https://app.daily.dev/posts/EeUSsqXgI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Liquid Glass on the Web – Frontend Masters Blog](https://app.daily.dev/posts/YLBrjGz30?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [everywhere.tools](https://app.daily.dev/posts/mmvTb9hBI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Building an MCP-powered Financial Analyst](https://app.daily.dev/posts/Em7iIOXyq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Figma MCP: Complete Guide](https://app.daily.dev/posts/HqSIT2X70?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Explore 5400+ Web Templates of UIHut](https://app.daily.dev/posts/Kk75yQB35?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
