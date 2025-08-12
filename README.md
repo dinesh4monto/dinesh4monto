@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [1000+ website design ideas &lpar;categorized by section&rpar;](https://app.daily.dev/posts/MerD9Mf6F?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [google medical ai](https://app.daily.dev/posts/IroJT0Loq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Grep a million GitHub repositories via MCP](https://app.daily.dev/posts/3DJ9IWu9u?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/mwu89xBW4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [The Open Source Project That Became an Essential Library for Modern AI Engineering](https://app.daily.dev/posts/EeUSsqXgI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Liquid Glass on the Web – Frontend Masters Blog](https://app.daily.dev/posts/YLBrjGz30?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
