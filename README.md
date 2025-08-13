@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [5 Best React Data Grid Libraries Every Developer Should Know in 2025](https://app.daily.dev/posts/Q4pra6VQm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [10 AI Frameworks and Libraries Every Developer Should Learn in 2025](https://app.daily.dev/posts/VvmGkSd2b?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Gemini 2.5 and the future of AI reasoning for frontend devs](https://app.daily.dev/posts/w70Z1kkB1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Supercharging Claude Code](https://app.daily.dev/posts/07ePxRcLR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Blink: Build any app in seconds with AI](https://app.daily.dev/posts/TeBiChcvu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Announcing Deepgram Saga: The Voice OS for Developers](https://app.daily.dev/posts/rOdidj7Wy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How server actually works?](https://app.daily.dev/posts/BBIChyMbV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [26 tools, one local development environment](https://app.daily.dev/posts/4fVcnZiXW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [6 skills every engineer needs for the AI era](https://app.daily.dev/posts/ZWurgfJWc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
