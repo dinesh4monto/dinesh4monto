@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/lMdAk2hDx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Bash Explained: How the Most Popular Linux Shell Works](https://app.daily.dev/posts/yokjhLiKQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/0naYdWW85?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Nitrode – AI Game Engine: AI Game Engine to Prototype 3D Games in a Day](https://app.daily.dev/posts/ihOKSPYwk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [React Native Bootcamp in 30 HOURS for FREE 🎉](https://app.daily.dev/posts/3MSKBkazS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Stop Prompting, Start Designing: 5 Agentic AI Patterns That Actually Work](https://app.daily.dev/posts/4wLYRvtoE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How I Plan My Coding Projects](https://app.daily.dev/posts/q197xzo1I?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [45+ Premium Shadcn UI Blocks](https://app.daily.dev/posts/gaCbv00jF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Neon Now Runs in VS Code](https://app.daily.dev/posts/KVTOBoS5k?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [What’s the difference between Type and Interface in TypeScript?](https://app.daily.dev/posts/k7yR5YBI5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
