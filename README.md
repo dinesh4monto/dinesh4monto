@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Stop Prompting, Start Designing: 5 Agentic AI Patterns That Actually Work](https://app.daily.dev/posts/4wLYRvtoE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How I Plan My Coding Projects](https://app.daily.dev/posts/q197xzo1I?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [45+ Premium Shadcn UI Blocks](https://app.daily.dev/posts/gaCbv00jF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Neon Now Runs in VS Code](https://app.daily.dev/posts/KVTOBoS5k?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [What’s the difference between Type and Interface in TypeScript?](https://app.daily.dev/posts/k7yR5YBI5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/nH1kNzXQM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [99% of Developers Don&#39;t Get LLMs](https://app.daily.dev/posts/QthSFRPjn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/aUMoFRcYa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/tML8JRI7p?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Top 5 Books to Learn Prompt Engineering in 2025](https://app.daily.dev/posts/famgss8es?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
