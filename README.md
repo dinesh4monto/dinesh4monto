@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Web Tools #626 -](https://app.daily.dev/posts/mo94RrDOc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Mastering TypeScript: How Complex Should Your Types Be?](https://app.daily.dev/posts/AwoRedLNr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/Wp4hCKsno?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Advanced Shadcn/UI components.](https://app.daily.dev/posts/Jgm2XBmYg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/qv5C46Jrm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/3nUX232jx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Built to Move: A Closer Look at the Animations Behind Eduard Bodak’s Portfolio](https://app.daily.dev/posts/8wPN4PZbk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [📦Contribute to Crossbuild UI — Now Open!](https://app.daily.dev/posts/dFzWn9xPd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/VB2GwJZB0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Build a Cross-Platform Markdown Notes System with Syncthing, Neovim &amp; Markor &lpar;Offline, Fast &amp; Private&rpar;](https://app.daily.dev/posts/nAy5aruy8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
