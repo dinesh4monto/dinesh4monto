@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [A receipt printer cured my procrastination [ADHD]](https://app.daily.dev/posts/JxHVlUcQt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Your First Local LLM API Project in Python Step-By-Step](https://app.daily.dev/posts/hBPo223As?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Walkthrough of Git commands](https://app.daily.dev/posts/LcdyrbpR4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/3nUX232jx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Built to Move: A Closer Look at the Animations Behind Eduard Bodak’s Portfolio](https://app.daily.dev/posts/8wPN4PZbk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [📦Contribute to Crossbuild UI — Now Open!](https://app.daily.dev/posts/dFzWn9xPd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/VB2GwJZB0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Build a Cross-Platform Markdown Notes System with Syncthing, Neovim &amp; Markor &lpar;Offline, Fast &amp; Private&rpar;](https://app.daily.dev/posts/nAy5aruy8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
