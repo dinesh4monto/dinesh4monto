@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/GlgxeNyZS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Introducing Zod 4 &lpar;Now in Stable mode&rpar;](https://app.daily.dev/posts/CviIhVDLa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/8v2zisZv3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Build and Deploy a B2B SaaS AI Support Platform | Next.js 15, React, Convex, Turborepo, Vapi, AWS](https://app.daily.dev/posts/lL3S44W4x?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Hyprland Wayland Compositor Launches Subscription Service For &quot;Premium Desktop Experience&quot;](https://app.daily.dev/posts/bi6eVYqhA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/YHNkb4awS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Microsoft promises to make WinUI &#39;truly open source&#39;](https://app.daily.dev/posts/nvbXxaOkf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Self-Hosted Private LLM using Ollama and Open WebUI](https://app.daily.dev/posts/i04yZaUsI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The easiest way to try out different TypeScript tech stacks, scaffold fullstack apps in seconds.](https://app.daily.dev/posts/XmDJP4NOh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
