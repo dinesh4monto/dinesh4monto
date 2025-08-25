@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/eA1ozHLIr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Using Go to build a clean, self-hostable UI for yt-dlp &lpar; Youtube Downloader &rpar;](https://app.daily.dev/posts/gQjcw93hi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Design Resources For Developers 🔥](https://app.daily.dev/posts/wZtYzmIPQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Webhookify: Instant Webhook URLs with AI Powered Notifications](https://app.daily.dev/posts/PW5PAlwhi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Static is boring — animate your icons 🎯](https://app.daily.dev/posts/qDs12Kijg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/LVCJZ7JJy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/F6iecV7mm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [I Built an AI Girlfriend In 200 Lines of Code](https://app.daily.dev/posts/ca4vdFoVs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [If you&#39;re into mobile app development 
+CHECK THIS OUT.](https://app.daily.dev/posts/aTE8ExMRV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Introducing Laravel Boost: The AI-Powered Coding Starter Kit for Laravel Development](https://app.daily.dev/posts/t5TRkTgxE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
