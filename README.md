@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [✨Contribute to Crossbuild UI — Now Open!](https://app.daily.dev/posts/Gif8vZ3wP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/LVCJZ7JJy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/F6iecV7mm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [I Built an AI Girlfriend In 200 Lines of Code](https://app.daily.dev/posts/ca4vdFoVs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [If you&#39;re into mobile app development 
 CHECK THIS OUT.](https://app.daily.dev/posts/aTE8ExMRV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Introducing Laravel Boost: The AI-Powered Coding Starter Kit for Laravel Development](https://app.daily.dev/posts/t5TRkTgxE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
