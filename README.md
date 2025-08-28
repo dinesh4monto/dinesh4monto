@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [8 RAG Architectures for AI Engineers](https://app.daily.dev/posts/PpNANYiRn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [3 Ways to Build Beautiful Websites Using Cursor AI](https://app.daily.dev/posts/ksUx6tyr8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [dyad — Local open-source AI app builder for chatbot UIs](https://app.daily.dev/posts/xeN22OpJd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/VUWpsSV9Q?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Notion-style WYSIWYG editor with AI-powered autocompletion.](https://app.daily.dev/posts/trYxdT1YG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/PdXyIGwgi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Full MLOps/LLMOps Blueprint](https://app.daily.dev/posts/EfNHkSEDQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [🔥 open-lovable – Clone and recreate any website as a modern React app in seconds](https://app.daily.dev/posts/WWr2h2xTB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [hrms — Web-based open-source HR &amp; payroll system with payroll processing and attendance/leave tracking](https://app.daily.dev/posts/5bSzBBj0z?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Design Structured Database Systems Using SQL [Full Book]](https://app.daily.dev/posts/YN4j7TWL0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
