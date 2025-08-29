@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Readme Studio - Open-source AI Readme Generator &amp; Editor Tool](https://app.daily.dev/posts/vDhss098J?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Top 5 Books to Learn LLMs &lpar;Large Language Models&rpar; in Depth](https://app.daily.dev/posts/3ph2w8huL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Java desktop app with Shadcn UI](https://app.daily.dev/posts/tWcqbLBFl?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/PdXyIGwgi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The Full MLOps/LLMOps Blueprint](https://app.daily.dev/posts/EfNHkSEDQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/tjtQTCAUL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [GradientCSS — Instantly Modern Gradients for Web Projects](https://app.daily.dev/posts/TwIpLwkSJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The software engineering &quot;squeeze&quot;](https://app.daily.dev/posts/5yil4Z4s4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Learn Coding Fast and Never Forget It](https://app.daily.dev/posts/F7pCqOKig?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Classic WTF: Take the Bus](https://app.daily.dev/posts/skOnilWXG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
