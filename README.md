@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/tjtQTCAUL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [GradientCSS — Instantly Modern Gradients for Web Projects](https://app.daily.dev/posts/TwIpLwkSJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The software engineering &quot;squeeze&quot;](https://app.daily.dev/posts/5yil4Z4s4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Learn Coding Fast and Never Forget It](https://app.daily.dev/posts/F7pCqOKig?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Classic WTF: Take the Bus](https://app.daily.dev/posts/skOnilWXG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Claude Code vs Cursor: What to choose?](https://app.daily.dev/posts/bYYY4bwgj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Responsive infinite logo marquee](https://app.daily.dev/posts/fSuqF3vHh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/hEWdpZFUO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [MySQL + CDC &lpar;without Kafka&rpar; to update configs in real-time](https://app.daily.dev/posts/1CA9JyXCm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [kubewall: AI-Powered Kubernetes Dashboard](https://app.daily.dev/posts/1K3svFqVh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
