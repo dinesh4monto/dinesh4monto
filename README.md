@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Top 5 Books to Learn LLMs &lpar;Large Language Models&rpar; in Depth](https://app.daily.dev/posts/3ph2w8huL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Java desktop app with Shadcn UI](https://app.daily.dev/posts/tWcqbLBFl?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/PdXyIGwgi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [The Full MLOps/LLMOps Blueprint](https://app.daily.dev/posts/EfNHkSEDQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [🔥 open-lovable – Clone and recreate any website as a modern React app in seconds](https://app.daily.dev/posts/WWr2h2xTB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [hrms — Web-based open-source HR &amp; payroll system with payroll processing and attendance/leave tracking](https://app.daily.dev/posts/5bSzBBj0z?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Design Structured Database Systems Using SQL [Full Book]](https://app.daily.dev/posts/YN4j7TWL0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
