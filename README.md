@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [RustMailer: A Self-Hosted IMAP/SMTP Middleware for Developers](https://app.daily.dev/posts/zdP5LuH21?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [10 Chrome DevTools Tricks You Didn&#39;t Know! &lpar;3rd is Crazy 😂&rpar;](https://app.daily.dev/posts/fPowwqIJb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Work with Queues in TypeScript](https://app.daily.dev/posts/376bvdbn2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/yUsPjpJzN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/jxPHLZxGU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Built a Terminal-Style Portfolio That Developers Will Love](https://app.daily.dev/posts/iFSxUvf15?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Prompting vs. RAG vs. Finetuning](https://app.daily.dev/posts/0iuUdm8Gy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Autonomous Networked Utility System](https://app.daily.dev/posts/8TFcWpJia?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [15 Real-World React Examples [2025 Guide]](https://app.daily.dev/posts/WO7H5nT8f?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Build &amp; Deploy an AI-Powered Ecommerce Search Engine with Next.js 15, Hugging Face &amp; Pinecone](https://app.daily.dev/posts/FPZqowx1n?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
