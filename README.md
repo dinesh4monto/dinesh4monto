@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [It thought that it would be a great idea to visualise code edition history as a video. *As usual* Internet proven me not to be the first with this idea.](https://app.daily.dev/posts/30I6ujNc6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Built a Terminal-Style Portfolio That Developers Will Love](https://app.daily.dev/posts/iFSxUvf15?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Prompting vs. RAG vs. Finetuning](https://app.daily.dev/posts/0iuUdm8Gy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Autonomous Networked Utility System](https://app.daily.dev/posts/8TFcWpJia?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [15 Real-World React Examples [2025 Guide]](https://app.daily.dev/posts/WO7H5nT8f?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Build &amp; Deploy an AI-Powered Ecommerce Search Engine with Next.js 15, Hugging Face &amp; Pinecone](https://app.daily.dev/posts/FPZqowx1n?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
