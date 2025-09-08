@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/qCrUdRb3Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [React Native Crash Course 2.0 for Beginners - Build 4 Apps in 14 Hours &lpar;Expo, Tailwind, Payment, AI&rpar;](https://app.daily.dev/posts/2Hl34NHYo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Set up CodeGPT in Visual Studio Code](https://app.daily.dev/posts/qc8RVYCeT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The ultimate JSON-based rule engine that turns complex business logic into declarative configurations.](https://app.daily.dev/posts/aNJ3jdKN8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [DuckDB in 100 Seconds](https://app.daily.dev/posts/c59vGEgY8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/JkpcCQsPT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [# The Alpha Release of Nuxt UI v4 😱
+
+Includes the Nuxt UI Pro components now Open-Source.](https://app.daily.dev/posts/oc3AvnHNv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [FileFaker: Generate sample files of various types and sizes in seconds.](https://app.daily.dev/posts/VtZgcGOrT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Build a Complete Babymart E-commerce Website | Part 2: Admin Dashboard Setup with Vite, React Router](https://app.daily.dev/posts/8dgGMGAuF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [🚀 Best Tech Stack for Solo Founders in 2025 🖥️💡](https://app.daily.dev/posts/bzmBamsP0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
