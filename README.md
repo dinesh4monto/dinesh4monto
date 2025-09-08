@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/JkpcCQsPT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [# The Alpha Release of Nuxt UI v4 😱
-
-Includes the Nuxt UI Pro components now Open-Source.](https://app.daily.dev/posts/oc3AvnHNv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [FileFaker: Generate sample files of various types and sizes in seconds.](https://app.daily.dev/posts/VtZgcGOrT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Build a Complete Babymart E-commerce Website | Part 2: Admin Dashboard Setup with Vite, React Router](https://app.daily.dev/posts/8dgGMGAuF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [🚀 Best Tech Stack for Solo Founders in 2025 🖥️💡](https://app.daily.dev/posts/bzmBamsP0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/URM349H11?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Corrective RAG Agentic Workflow](https://app.daily.dev/posts/od2sSQhPW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://app.daily.dev/posts/kFZAxNyGH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/nF45vMDnu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [facebook/relay: Relay is a JavaScript framework for building data-driven React applications.](https://app.daily.dev/posts/mpBDJo0Fl?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
