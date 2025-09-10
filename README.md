@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [How &lpar;Human&rpar; Developers Should Upskill in the AI Era](https://app.daily.dev/posts/UntsQfWgu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/9N8mHBVL7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/VabXyW5z4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Watt 3: Serving Node.js Applications](https://app.daily.dev/posts/eOSjHAwCA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Introducing Graphite Chat](https://app.daily.dev/posts/zQFbYWVcS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [kagehq/port-kill: A lightweight mac status bar development port monitor](https://app.daily.dev/posts/ORI5NSAYM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Data Engineer Project: From Streaming Orders to Batch Insights — A Coffee Shop Chain’s Data Pipeline](https://app.daily.dev/posts/n17GhbzoJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/wHuKzVuEl?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Python Roadmap with Free Courses/Certifcates to High-Paying Jobs](https://app.daily.dev/posts/4pw3QKx5i?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/hYzteNDZ1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
