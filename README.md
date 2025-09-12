@@ -1,15 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/ZDamc61xf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A powerful UI library to design e-commerce web sites](https://app.daily.dev/posts/hVdRqCGml?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Just Shipped Some Free Blocks 🔥
-
-It has 30+ free component blocks, Copy &amp; paste ready, Built for developers &amp; designers.
-
-Perfect for your next project ⚡](https://app.daily.dev/posts/sYZ04iwth?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How ByteByteGo Helps You Transition from Senior Engineer to Architect?](https://app.daily.dev/posts/R1LN4UtW9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [LangGraph 101: Let’s Build A Deep Research Agent](https://app.daily.dev/posts/iobyEmAeb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A Great Resource for Open-Source Tools](https://app.daily.dev/posts/EK1ouuzEc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [5 Game-Changing TypeScript Utility Types You Should Master](https://app.daily.dev/posts/cuiozTjke?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/jJJdPqkTa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [7 Must-Know GSAP Animation Tips for Creative Developers](https://app.daily.dev/posts/drXOlgpx5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/PmCU4rRYc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
