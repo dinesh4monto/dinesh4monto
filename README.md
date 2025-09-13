@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Open Source Template for AI Support Chatbot](https://app.daily.dev/posts/Avj6CaHRR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [CSS-only scrollspy effect using scroll-marker-group and :target-current](https://app.daily.dev/posts/urF6r4U4M?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/mMX2nGrM0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Leetcode is not scary, it&#39;s actually really fun](https://app.daily.dev/posts/ohi9YOwgN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to design apps that AI agents will choose](https://app.daily.dev/posts/xTjJJfgaH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Why LLMs Can&#39;t Really Build Software — Zed&#39;s Blog](https://app.daily.dev/posts/fFV89OFC3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Preventing scrollbar layout shifts](https://app.daily.dev/posts/q2fpJFR2u?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [☁️ The Most Secure and Easy Selfhosted Home Server.](https://app.daily.dev/posts/GKJiW47ts?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [mercur — Multi‑vendor B2B/B2C marketplace with vendor management on MedusaJS &lpar;Node/TypeScript&rpar;](https://app.daily.dev/posts/VfV2QyFB7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Fresh 2.0 Graduates to Beta, Adds Vite Support](https://app.daily.dev/posts/Hnz3RrNKD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
