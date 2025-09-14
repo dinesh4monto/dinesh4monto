@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Why LLMs Can&#39;t Really Build Software — Zed&#39;s Blog](https://app.daily.dev/posts/fFV89OFC3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Preventing scrollbar layout shifts](https://app.daily.dev/posts/q2fpJFR2u?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [☁️ The Most Secure and Easy Selfhosted Home Server.](https://app.daily.dev/posts/GKJiW47ts?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [mercur — Multi‑vendor B2B/B2C marketplace with vendor management on MedusaJS &lpar;Node/TypeScript&rpar;](https://app.daily.dev/posts/VfV2QyFB7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Fresh 2.0 Graduates to Beta, Adds Vite Support](https://app.daily.dev/posts/Hnz3RrNKD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [pixxel: browser screenshots that don&#39;t suck](https://app.daily.dev/posts/fl0N3gZ6L?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Workflow Engine design proposal, tell me your thoughts](https://app.daily.dev/posts/84ZQMwxZ8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [jarulraj/periodic-table: A Periodic Table of System Design Principles](https://app.daily.dev/posts/D8OpXORF6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/c2N7qGslk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/FrYGMYIFF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
