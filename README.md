@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Laravel PWA Kit – Add Progressive Web App Features in Minutes!](https://app.daily.dev/posts/ppItANHhU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/eSqVwrSJI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Building a React AI Agent: A Practical Guide for Developers](https://app.daily.dev/posts/RTJEbxfHz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/vHtMwQaEu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [4 Stages of Training LLMs from Scratch](https://app.daily.dev/posts/2a6bSW664?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/aG6ZSQ1W3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [10 Ways to Make FastAPI Blazing Fast: from Code to Production](https://app.daily.dev/posts/MFeBic8SF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [NEW Next.js TypeScript Features](https://app.daily.dev/posts/K4svtliCv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Netflix Tudum Architecture: from CQRS with Kafka to CQRS with RAW Hollow](https://app.daily.dev/posts/yNSYOG9Jw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Run Windows Apps on Linux](https://app.daily.dev/posts/rFA3jxWxK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
