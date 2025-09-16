@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/aG6ZSQ1W3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [10 Ways to Make FastAPI Blazing Fast: from Code to Production](https://app.daily.dev/posts/MFeBic8SF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [NEW Next.js TypeScript Features](https://app.daily.dev/posts/K4svtliCv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Netflix Tudum Architecture: from CQRS with Kafka to CQRS with RAW Hollow](https://app.daily.dev/posts/yNSYOG9Jw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Run Windows Apps on Linux](https://app.daily.dev/posts/rFA3jxWxK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [whit3rabbit/bubbletea-rs: A rust implementation of Bubbletea https://github.com/charmbracelet/bubbletea](https://app.daily.dev/posts/WUCswkTaW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/TOTByRMnH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Anthropic Introduces Claude AI Agent for Chrome to Enhance Browser Interaction](https://app.daily.dev/posts/H3slwrIra?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [New movement animations](https://app.daily.dev/posts/RZNXy6hBf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [CSS/HTML Tools, AI Tools &amp; LLMs, JS Utilities](https://app.daily.dev/posts/6FoaCqE1o?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
