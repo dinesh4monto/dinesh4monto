@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/PgP9QRBFK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Ripple: a new framework that takes the best of everything](https://app.daily.dev/posts/Lw0mJNmHu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Build a 100% local MCP Server and Client](https://app.daily.dev/posts/yiqUjQcxf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [whit3rabbit/bubbletea-rs: A rust implementation of Bubbletea https://github.com/charmbracelet/bubbletea](https://app.daily.dev/posts/WUCswkTaW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/TOTByRMnH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [An Open-Source Mars Rover Project](https://app.daily.dev/posts/XLIucjHgN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Novai - AI Agent Landing Page Design](https://app.daily.dev/posts/pq6ullBx8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Novai - AI Agent Landing Page Design](https://app.daily.dev/posts/dhT2XwpQt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Master SQL with AI](https://app.daily.dev/posts/f34xC6667?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A modern ping utility with beautiful CLI output, real-time network analysis, and comprehensive performance metrics using Bun and Ink UI](https://app.daily.dev/posts/NAKvLyDZ9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
