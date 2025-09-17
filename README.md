@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/PgP9QRBFK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Ripple: a new framework that takes the best of everything](https://app.daily.dev/posts/Lw0mJNmHu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Build a 100% local MCP Server and Client](https://app.daily.dev/posts/yiqUjQcxf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [whit3rabbit/bubbletea-rs: A rust implementation of Bubbletea https://github.com/charmbracelet/bubbletea](https://app.daily.dev/posts/WUCswkTaW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/TOTByRMnH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Anthropic Introduces Claude AI Agent for Chrome to Enhance Browser Interaction](https://app.daily.dev/posts/H3slwrIra?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [New movement animations](https://app.daily.dev/posts/RZNXy6hBf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [CSS/HTML Tools, AI Tools &amp; LLMs, JS Utilities](https://app.daily.dev/posts/6FoaCqE1o?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
