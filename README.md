@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [burrito-elixir/burrito: Wrap your application in a BEAM Burrito!](https://app.daily.dev/posts/wWsvEfLVo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Just Play](https://app.daily.dev/posts/FpdxK3cik?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/UI33Er083?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [An Open-Source Mars Rover Project](https://app.daily.dev/posts/XLIucjHgN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Novai - AI Agent Landing Page Design](https://app.daily.dev/posts/pq6ullBx8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Novai - AI Agent Landing Page Design](https://app.daily.dev/posts/dhT2XwpQt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Master SQL with AI](https://app.daily.dev/posts/f34xC6667?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A modern ping utility with beautiful CLI output, real-time network analysis, and comprehensive performance metrics using Bun and Ink UI](https://app.daily.dev/posts/NAKvLyDZ9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
