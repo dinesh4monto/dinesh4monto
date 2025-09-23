@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Chris’ Corner: Simple, Accessible Multi-Select UI – CodePen](https://app.daily.dev/posts/TFLZzi8ax?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [AI Was Supposed to Help Juniors Shine. Why Does It Mostly Make Seniors Stronger?](https://app.daily.dev/posts/EQKPjCE8W?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Generics in TypeScript: write once, work everywhere](https://app.daily.dev/posts/Li9hZn75D?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [5 Absolutely Free Web Tools Every Developer Should Bookmark.](https://app.daily.dev/posts/rAP6XDHew?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [React Performance Optimization: Techniques Senior Developers Use](https://app.daily.dev/posts/VpfeZewhF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/B6ApI2kAH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/UmNWNs6V6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Noxionite: The most beautiful blog made with Notion](https://app.daily.dev/posts/VQeu7hEBX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
