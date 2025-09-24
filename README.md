@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Design Systems: The True Source of Frontend Peace How Design Systems can save you](https://app.daily.dev/posts/aFKRgaMmZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Understanding and Implementing Qwen3 From Scratch](https://app.daily.dev/posts/zAziDGqFO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [CodeBuff: ClaudeCode KILLER! New AI Coding Agent is Quite Powerful, FREE, &amp; Opensource!](https://app.daily.dev/posts/6jjFw76KE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [CSS Typed Arithmetic](https://app.daily.dev/posts/ZkK0jGU6U?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Chris’ Corner: Simple, Accessible Multi-Select UI – CodePen](https://app.daily.dev/posts/TFLZzi8ax?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [AI Was Supposed to Help Juniors Shine. Why Does It Mostly Make Seniors Stronger?](https://app.daily.dev/posts/EQKPjCE8W?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Generics in TypeScript: write once, work everywhere](https://app.daily.dev/posts/Li9hZn75D?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [5 Absolutely Free Web Tools Every Developer Should Bookmark.](https://app.daily.dev/posts/rAP6XDHew?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [React Performance Optimization: Techniques Senior Developers Use](https://app.daily.dev/posts/VpfeZewhF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
