@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Free Valentina Studio 16 now available](https://app.daily.dev/posts/jC7xWsgyR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Fast, collaborative live terminal sharing over the web](https://app.daily.dev/posts/m8AHuo3pe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Playing with Fliiip Book](https://app.daily.dev/posts/XTLhohR6Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [CachyOS - The Blazingly Fast Linux Distro](https://app.daily.dev/posts/qJCxmc4IE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/M2dwNhQlJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Disaggregation: A New Architecture for Cloud Databases](https://app.daily.dev/posts/IWGTFbo34?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
