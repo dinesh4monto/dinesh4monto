@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Meet Showrunner: The AI startup that wants to replace Netflix](https://app.daily.dev/posts/zNqocvPD4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Rust Tools That Made Our Dev Team Productive Again](https://app.daily.dev/posts/U9o9sVlIt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Julien-cpsn/desktop-tui: A desktop environment without graphics](https://app.daily.dev/posts/C7Ec8yIUW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Free Valentina Studio 16 now available](https://app.daily.dev/posts/jC7xWsgyR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Fast, collaborative live terminal sharing over the web](https://app.daily.dev/posts/m8AHuo3pe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Playing with Fliiip Book](https://app.daily.dev/posts/XTLhohR6Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
