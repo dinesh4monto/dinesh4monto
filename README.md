@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/Nokbi7zUg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Compiling Python to Run Anywhere](https://app.daily.dev/posts/6YP4YNsZt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Self-hosted automation for EVERYTHING! // n8n Tutorial](https://app.daily.dev/posts/Om19CkrZg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Free online svg converter](https://app.daily.dev/posts/BruNWgCmk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Building a Resilient Data Platform with Write-Ahead Log at Netflix](https://app.daily.dev/posts/DSY5fjhGT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/ko2un0U6a?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Chrome DevTools &lpar;MCP&rpar; for your AI agent](https://app.daily.dev/posts/Gxetl7DcE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Proxly: The smart browser chooser for macOS](https://app.daily.dev/posts/PrdLi8xDj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/6yogpoeel?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [College student’s “time travel” AI experiment accidentally outputs real 1834 history](https://app.daily.dev/posts/zqWQjlx8x?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
