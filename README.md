@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Open Kitchen: Chef is now OSS](https://app.daily.dev/posts/cu4eTnZjw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Juicy UI For Pixel Art-Style 4X Game Made With Godot](https://app.daily.dev/posts/edG3LQfL3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Git is holding us back](https://app.daily.dev/posts/Wi91Iwyw0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/sJmrw6z6k?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/uQjhTksKb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Become a Machine Learning Engineer &lpar;Step-by-Step&rpar;](https://app.daily.dev/posts/GuK7aUmSv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/oQXkL6Epk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How One Bad Password Ended a 158-Year-Old Business](https://app.daily.dev/posts/xcjM3ARDN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Open Social — overreacted](https://app.daily.dev/posts/HEJCZV43L?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [colanode/colanode: Open-source and local-first Slack and Notion alternative that puts you in control of your data](https://app.daily.dev/posts/5WMYQiOcA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
