@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [How to Become a Machine Learning Engineer &lpar;Step-by-Step&rpar;](https://app.daily.dev/posts/GuK7aUmSv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/oQXkL6Epk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How One Bad Password Ended a 158-Year-Old Business](https://app.daily.dev/posts/xcjM3ARDN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Open Social — overreacted](https://app.daily.dev/posts/HEJCZV43L?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [colanode/colanode: Open-source and local-first Slack and Notion alternative that puts you in control of your data](https://app.daily.dev/posts/5WMYQiOcA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Strix: Open-source AI hackers for your apps](https://app.daily.dev/posts/rsbm00j9g?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [RustMailer Now Supports Gmail API — A Better Way to Integrate with Gmail](https://app.daily.dev/posts/21eYpLhFf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/PFiAAfLbZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A New Era · React Native](https://app.daily.dev/posts/Eizv3aGrm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Don&#39;t even consider starting with Microsoft](https://app.daily.dev/posts/Jui7qyrgE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
