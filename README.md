@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/NCFEwpkzR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Moving PHP open source forward](https://app.daily.dev/posts/AxkWfXTUr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [One weak password... 700 jobs gone.](https://app.daily.dev/posts/Gg9EQ44Q4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Earthware - Ceramic Pot Website UI Kit &lpar;FREE&rpar;](https://app.daily.dev/posts/YRQRqn2v7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [App Screen: Navigation](https://app.daily.dev/posts/yH87IqT0V?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Strix: Open-source AI hackers for your apps](https://app.daily.dev/posts/rsbm00j9g?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
