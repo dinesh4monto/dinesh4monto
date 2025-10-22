@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [I&#39;m Building a Browser for Reverse Engineers](https://app.daily.dev/posts/L3nbpPC6d?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Scaling Muse: How Netflix Powers Data-Driven Creative Insights at Trillion-Row Scale](https://app.daily.dev/posts/SErM8slGm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How tech companies measure the impact of AI on software development](https://app.daily.dev/posts/ytKFMn0mK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/m86QN7Xoq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/CtcHHoCHc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How I Learned to Stop Worrying and Trust AI Coding Agents](https://app.daily.dev/posts/2nZpGBTC1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [React, HTMX, and TanStack/Start](https://app.daily.dev/posts/1gDiQPQnY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/5nVBrw85Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Introducing Jules Tools: Enhancing Developer Productivity with Google’s AI Coding Agent](https://app.daily.dev/posts/Qt0rDAvsv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/Q86ONwBvF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
