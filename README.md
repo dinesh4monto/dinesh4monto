@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [A huge library of tools and resources for UI Developers
+Visit: finalui.com](https://app.daily.dev/posts/aP61fcqms?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [New Domains Registrar API for domain search, pricing, purchase, and management](https://app.daily.dev/posts/qGtJwhfEa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/1AZznqelp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/XFblwkexw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Apache Kafka Complete Course for Beginners](https://app.daily.dev/posts/o7S5uP6c1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Nothing launches AI tool for building mini apps using prompts](https://app.daily.dev/posts/vnC4sJ7zN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Better Auth Starter 🚀 Open Source + Video Series](https://app.daily.dev/posts/lm0CxGr5A?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/cq5nbT2U0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
