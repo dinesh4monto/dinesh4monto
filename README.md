@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [New version 3.1.0!](https://app.daily.dev/posts/D6XVtBd1M?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/i8ZCrgZ12?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/yfECSnEja?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Finnaly Vercel alternative](https://app.daily.dev/posts/fDSM8qAdV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Forgejo v13.0 is available](https://app.daily.dev/posts/joKK394fM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [An important opinion post from the creator of React Query and the well know TanStack about the new “use workflow” and “use step” directives for workflow management by Vercel.](https://app.daily.dev/posts/H9MG0EupE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [My Top 7 Postman Offline Alternatives Every Developer Should Try](https://app.daily.dev/posts/IZz9fbPRs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [ChatGPT Atlas. The AI browser.](https://app.daily.dev/posts/pLuHHKDM4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [React Native Tutorial for Absolute Beginners - Build a Mobile App in 2 Hours](https://app.daily.dev/posts/vZBWiF9un?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The 5 UI fundamentals a developer must know](https://app.daily.dev/posts/otrJjRPDi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
