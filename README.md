@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [An important opinion post from the creator of React Query and the well know TanStack about the new “use workflow” and “use step” directives for workflow management by Vercel.](https://app.daily.dev/posts/H9MG0EupE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [My Top 7 Postman Offline Alternatives Every Developer Should Try](https://app.daily.dev/posts/IZz9fbPRs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [ChatGPT Atlas. The AI browser.](https://app.daily.dev/posts/pLuHHKDM4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [React Native Tutorial for Absolute Beginners - Build a Mobile App in 2 Hours](https://app.daily.dev/posts/vZBWiF9un?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The 5 UI fundamentals a developer must know](https://app.daily.dev/posts/otrJjRPDi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Stitcher.io](https://app.daily.dev/posts/jGdOLZW3R?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Top 10 Free Email Signature Generators in 2025](https://app.daily.dev/posts/w7lUQ2TrH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [GitHub Copilot CLI: How to get started](https://app.daily.dev/posts/HtAIu7u4B?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/DVBnDq6ct?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The PostgreSQL Village](https://app.daily.dev/posts/45ABg53X8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
