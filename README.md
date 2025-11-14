@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/tsfADMUBt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [From Outages to Order: Netflix’s Approach to Database Resilience with WAL](https://app.daily.dev/posts/aeBzO3gXD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [WhatsDiff: CLI tool to help you understand changes in your dependencies](https://app.daily.dev/posts/Tg2gLVFyI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/6XcEINlsR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [How to Scale Like a Senior Engineer &lpar;Servers, DBs, LBs, SPOFs&rpar;](https://app.daily.dev/posts/42Ox5u0rJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [OAuth 2.0 authorization in PostgreSQL using Keycloak as an example](https://app.daily.dev/posts/aoAGJltNw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/oaAScRUMU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/AcORQ6Ltb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
