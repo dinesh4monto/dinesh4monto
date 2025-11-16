@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/LvtsSMpVo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Supernova.io: From idea to feature - with AI agents to back you up!](https://app.daily.dev/posts/GoD8hRpam?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [zserge/grayskull: A tiny, dependency-free computer vision library in C for embedded systems, drones, and robotics.](https://app.daily.dev/posts/HR9WpgHLa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Building Custom LLM Judges for AI Agent Accuracy](https://app.daily.dev/posts/PHlvZjkNK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/tsfADMUBt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [From Outages to Order: Netflix’s Approach to Database Resilience with WAL](https://app.daily.dev/posts/aeBzO3gXD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [WhatsDiff: CLI tool to help you understand changes in your dependencies](https://app.daily.dev/posts/Tg2gLVFyI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/6XcEINlsR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
