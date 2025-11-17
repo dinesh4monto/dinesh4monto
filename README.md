@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Lovelace: AI-powered cloud IDE for coding from anywhere](https://app.daily.dev/posts/6wY6veBJw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Introducing Figma Weave: the next generation of AI-native creation at Figma](https://app.daily.dev/posts/tnDpNFjnq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/LvtsSMpVo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Supernova.io: From idea to feature - with AI agents to back you up!](https://app.daily.dev/posts/GoD8hRpam?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [zserge/grayskull: A tiny, dependency-free computer vision library in C for embedded systems, drones, and robotics.](https://app.daily.dev/posts/HR9WpgHLa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Building Custom LLM Judges for AI Agent Accuracy](https://app.daily.dev/posts/PHlvZjkNK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
