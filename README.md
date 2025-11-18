@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/rI5748Gk7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Logo.dev: Reliable logos for any product, instantly.](https://app.daily.dev/posts/LpiVV2l4L?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [How Netflix optimized its petabyte-scale logging system with ClickHouse](https://app.daily.dev/posts/DmpSYm7jb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Flipping all my chatbots from react-markdown to this, highly recommend!](https://app.daily.dev/posts/qPIdvZ0TR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Cut Database Costs by 60% Using These 10 SQL Tricks](https://app.daily.dev/posts/b0udi8UVr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A modern static site generator](https://app.daily.dev/posts/Gj5xWUo93?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/DQIFAQGpw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
