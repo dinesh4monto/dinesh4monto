@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/6Vk8XWE77?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/p56XZsYt7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/aVCYBLi6O?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Agentic AI and Security](https://app.daily.dev/posts/zqrngwfxj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A Tiny Tool That Makes Responsive Design Feel Effortless.](https://app.daily.dev/posts/ZYuAyGrJF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Cut Database Costs by 60% Using These 10 SQL Tricks](https://app.daily.dev/posts/b0udi8UVr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A modern static site generator](https://app.daily.dev/posts/Gj5xWUo93?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/DQIFAQGpw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [I’ve Read 20+ Books on AI and LLM — Here Are My Top 5 Recommendations for 2026](https://app.daily.dev/posts/tCrpr0Dwe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Helicone AI: Open-source LLM Observability for Developers](https://app.daily.dev/posts/CwJD5LGBB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
