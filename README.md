@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Announcing Magika 1.0: now faster, smarter, and rebuilt in Rust](https://app.daily.dev/posts/CUvHevgAG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Design Spotify Like a Senior Engineer &lpar;System Design Interview&rpar;](https://app.daily.dev/posts/9MZa9Y195?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/Un5xS41Fn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/ngRdRkbk4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Music for Programmers](https://app.daily.dev/posts/oNK6S2WwX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Goodbye, useState? Smarter state modeling for modern React apps](https://app.daily.dev/posts/SZUa308Wp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion &amp; Miro.](https://app.daily.dev/posts/xUn9qkpVv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [New major version 3.2.0 of HMPL!](https://app.daily.dev/posts/r4LlB9NhT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The first ever collection of Widgets for the Web.](https://app.daily.dev/posts/B0OOAUgNS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [6 Must-Read Books for Backend Developers in 2026](https://app.daily.dev/posts/Vz4YB0DDs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
