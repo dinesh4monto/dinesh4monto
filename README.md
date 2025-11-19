@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Introduction to BaseX](https://app.daily.dev/posts/1NRH7EMqw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/lT5A0xv2C?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How Remote Procedure Call Works](https://app.daily.dev/posts/uIvjn5ROp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Reimagine the Date Picker](https://app.daily.dev/posts/vC7z9vae0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Recommendations for Getting the Most Out of a Technical Book](https://app.daily.dev/posts/Gp2Ef8prj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Announcing Magika 1.0: now faster, smarter, and rebuilt in Rust](https://app.daily.dev/posts/CUvHevgAG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Design Spotify Like a Senior Engineer &lpar;System Design Interview&rpar;](https://app.daily.dev/posts/9MZa9Y195?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/Un5xS41Fn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/ngRdRkbk4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Music for Programmers](https://app.daily.dev/posts/oNK6S2WwX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
