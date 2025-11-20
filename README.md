@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [If I Had to Learn JavaScript Again: The Real Journey From 2017 to Today](https://app.daily.dev/posts/PcwCleKUK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Last Days Of Social Media](https://app.daily.dev/posts/44sUedY5w?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/dOCfTgHTr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Goodbye, useState? Smarter state modeling for modern React apps](https://app.daily.dev/posts/SZUa308Wp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion &amp; Miro.](https://app.daily.dev/posts/xUn9qkpVv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [New major version 3.2.0 of HMPL!](https://app.daily.dev/posts/r4LlB9NhT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The first ever collection of Widgets for the Web.](https://app.daily.dev/posts/B0OOAUgNS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
