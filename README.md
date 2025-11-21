@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Memorr.ai: Memorr remembers everything across all your AI chats](https://app.daily.dev/posts/LnicMCq91?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Overcome a Negative Performance Review and Become a Better Developer](https://app.daily.dev/posts/ffpwhSd2a?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [chrome-devtools-mcp – Frontend Masters Blog](https://app.daily.dev/posts/ktq6TFe99?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A complete guide to HTTP caching](https://app.daily.dev/posts/gLkmLd7XP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Use Cases for Field Sizing](https://app.daily.dev/posts/2csQHocUN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [When Two Databases Become One: How DuckDB Saved Our Trading Operations from Manual Reconciliation](https://app.daily.dev/posts/TxWiKUlGH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Laravel Boost: 6 New Features &lpar;AI Guidelines Got Better&rpar;](https://app.daily.dev/posts/v3I8oeOl0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Building NestJS Applications Following the CQRS Model](https://app.daily.dev/posts/P9b9rFml2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [MoonshotAI/Kimi-Linear](https://app.daily.dev/posts/pEnxtoTQu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Open-source platform designed to seamlessly manage PostgreSQL databases in Kubernetes](https://app.daily.dev/posts/8o17EzuXB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
