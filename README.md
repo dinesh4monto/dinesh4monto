@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [When Two Databases Become One: How DuckDB Saved Our Trading Operations from Manual Reconciliation](https://app.daily.dev/posts/TxWiKUlGH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Laravel Boost: 6 New Features &lpar;AI Guidelines Got Better&rpar;](https://app.daily.dev/posts/v3I8oeOl0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Building NestJS Applications Following the CQRS Model](https://app.daily.dev/posts/P9b9rFml2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [MoonshotAI/Kimi-Linear](https://app.daily.dev/posts/pEnxtoTQu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Open-source platform designed to seamlessly manage PostgreSQL databases in Kubernetes](https://app.daily.dev/posts/8o17EzuXB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The most advanced open-source browser fingerprinting library.](https://app.daily.dev/posts/v7Jha6MpG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [I went 30 days without using AI to code. Here&#39;s what happened.](https://app.daily.dev/posts/2aKOlMC68?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [View Transition API](https://app.daily.dev/posts/ZuARJKP3R?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Technical Deep Dive on Streaming AI Agent Desktop Sandboxes: When Gaming Protocols Meet Multi-User Access](https://app.daily.dev/posts/Axo5FRqFc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/mvXAo8vcH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
