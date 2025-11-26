@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/FmcQrL24i?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Linus Torvalds: Vibe coding is fine, but not for production](https://app.daily.dev/posts/RVK4aB0mH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Scenario-based AI Chatbots for Language Learning](https://app.daily.dev/posts/THVwZ9MEx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [4 Popular APIs With Great Naming Conventions](https://app.daily.dev/posts/75zCNfQim?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Windows 7 slimmed down to 69 MB](https://app.daily.dev/posts/V6icEgcVA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [7 Bun Workflows to Supercharge Your Full-Stack Development](https://app.daily.dev/posts/ZL1XpJAq0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Perplexity’s open-source tool to run trillion-parameter models without costly upgrades](https://app.daily.dev/posts/9L6mXLo5t?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/aJUaguYTz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Introducing the New Cloud Dedicated Admin UI](https://app.daily.dev/posts/adJbUBp5f?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
