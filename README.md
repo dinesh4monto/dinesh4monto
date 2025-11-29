@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Announcing the Genkit Extension for Gemini CLI](https://app.daily.dev/posts/k5d1aQWpU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Elixir → JavaScript Porting Initiative](https://app.daily.dev/posts/DRqWozkRY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Gemini CLI Tips &amp; Tricks](https://app.daily.dev/posts/VyjV1W7Gb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/DjkzBS8lM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Hans-Halverson/brimstone: New JavaScript engine written in Rust](https://app.daily.dev/posts/OMWmdJim6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Kimi K2 Thinking : Best Agentic Reasoning LLM is here, beats GPT5, Sonnet 4.5](https://app.daily.dev/posts/ef6saPTTW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
