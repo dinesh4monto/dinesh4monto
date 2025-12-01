@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/NIksAOxU6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [WICG/email-verification-protocol: verified autofill](https://app.daily.dev/posts/kRVBySrq9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Agent Development Kit &lpar;ADK&rpar; for Go](https://app.daily.dev/posts/m5nNj5EO9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Announcing the Genkit Extension for Gemini CLI](https://app.daily.dev/posts/k5d1aQWpU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Elixir → JavaScript Porting Initiative](https://app.daily.dev/posts/DRqWozkRY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Gemini CLI Tips &amp; Tricks](https://app.daily.dev/posts/VyjV1W7Gb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
