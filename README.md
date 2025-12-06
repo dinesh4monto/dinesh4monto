@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [5 Million Profiles Reads/Second - Caching at LinkedIn Scale](https://app.daily.dev/posts/6IubqhmNP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Disaggregated Database Management Systems](https://app.daily.dev/posts/SbXyxHwCt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Haxiom: The Online MD Editor for Collaborative Teams](https://app.daily.dev/posts/4WiRrvq2K?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Onyx: Free, local-first 4K screen recorder](https://app.daily.dev/posts/bFNu8plNP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/tLPHR08or?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The New Way to Build Pipelines on Databricks: Introducing the IDE for Data Engineering](https://app.daily.dev/posts/qoVHr2fCm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Latte 3.1: When a templating system truly understands HTML – Nette Blog](https://app.daily.dev/posts/rZcmjXq1y?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/LOxrDywBq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
