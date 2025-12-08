@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Prevent a page from scrolling while a dialog is open](https://app.daily.dev/posts/Eu2MwOhE5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Unosend: One API. Infinite Emails.](https://app.daily.dev/posts/VU8vc4lzt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [5 Million Profiles Reads/Second - Caching at LinkedIn Scale](https://app.daily.dev/posts/6IubqhmNP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Disaggregated Database Management Systems](https://app.daily.dev/posts/SbXyxHwCt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Haxiom: The Online MD Editor for Collaborative Teams](https://app.daily.dev/posts/4WiRrvq2K?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Onyx: Free, local-first 4K screen recorder](https://app.daily.dev/posts/bFNu8plNP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/tLPHR08or?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
