@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Dear Junior Coders: Stop Chasing Shiny Objects](https://app.daily.dev/posts/lXAZflpSU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Ergonomic Framework for Humans
-Backend TypeScript framework with End-to-End Type Safety, formidable speed, and exceptional developer experience.
-Supercharged by Bun](https://app.daily.dev/posts/yRqYUvFuE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [OpenAI dropped a cookbook on Self-Evolving Agents](https://app.daily.dev/posts/Nj1JnidnS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Better Block Editor Review: A Lightweight Block Editor Companion for Next-Level Responsive Design](https://app.daily.dev/posts/ZKqDvzNx5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Build a Massive E-Commerce Store with React Native](https://app.daily.dev/posts/9gVlmRIrK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Ready-to-use foundation components/blocks built on top of shadcn/ui.](https://app.daily.dev/posts/n4HrnA4j9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Build a Raspberry Pi kiosk with Avalonia UI and DotNetBrowser!](https://app.daily.dev/posts/jcjuG31aG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/Gfm8TWSel?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/12dh0Nco6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/6mg0gWHrB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
