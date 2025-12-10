@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [API testing with Playwright](https://app.daily.dev/posts/dMJcQ4xg5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/BlOrqLENa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [coder/ghostty-web: Ghostty for the web with xterm.js API compatibility](https://app.daily.dev/posts/qugdhfiyh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Ready-to-use foundation components/blocks built on top of shadcn/ui.](https://app.daily.dev/posts/n4HrnA4j9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Build a Raspberry Pi kiosk with Avalonia UI and DotNetBrowser!](https://app.daily.dev/posts/jcjuG31aG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Proton rolled out Proton Sheets - a spreadsheet Google can’t peek into.](https://app.daily.dev/posts/R5rix6rQF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [We Rewrote Our Startup from PHP to Gleam in 3 Weeks](https://app.daily.dev/posts/l8nNCfFBz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/D8WNOOTUK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/fEmTiASzk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Cascader-shadcn: A simple Cascader component for Shadcn](https://app.daily.dev/posts/RwPLUQibM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
