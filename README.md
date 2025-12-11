@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Vanilla CSS is all you need](https://app.daily.dev/posts/YAq77f62e?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Proton rolled out Proton Sheets - a spreadsheet Google can’t peek into.](https://app.daily.dev/posts/R5rix6rQF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [We Rewrote Our Startup from PHP to Gleam in 3 Weeks](https://app.daily.dev/posts/l8nNCfFBz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/D8WNOOTUK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/fEmTiASzk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Cascader-shadcn: A simple Cascader component for Shadcn](https://app.daily.dev/posts/RwPLUQibM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
