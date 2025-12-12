@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Stop using JavaScript to solve CSS problems](https://app.daily.dev/posts/utAWsE2Td?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [VS Code Planning mode](https://app.daily.dev/posts/5BMo3uH8Q?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Ghostty Is Now Non-Profit](https://app.daily.dev/posts/ShVN6rzFZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [I’m a developer who vibe codes – and you should, too](https://app.daily.dev/posts/iQB9ga0NZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [The complete guide to Node.js frameworks](https://app.daily.dev/posts/xIrh8dajH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/UZBXZHP1j?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
