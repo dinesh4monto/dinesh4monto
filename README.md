@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Masonry: Things You Won’t Need A Library For Anymore — Smashing Magazine](https://app.daily.dev/posts/4riLDzAkC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [FileBrowser Quantum Hits Stable!](https://app.daily.dev/posts/eCQk2TcBB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [HTML Web Components Proposal From 1998](https://app.daily.dev/posts/byXGmCtnU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/gbcvU5ioX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [5 Interesting Open Source Projects](https://app.daily.dev/posts/aEjxyKjmQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Stop using JavaScript to solve CSS problems](https://app.daily.dev/posts/utAWsE2Td?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
