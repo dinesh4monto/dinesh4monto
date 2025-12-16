@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [OpenAGI launched something interesting - Lux](https://app.daily.dev/posts/c0SHUMi9T?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Framework To Becoming A Good Programmer](https://app.daily.dev/posts/2186h0YaY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Masonry: Things You Won’t Need A Library For Anymore — Smashing Magazine](https://app.daily.dev/posts/4riLDzAkC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [FileBrowser Quantum Hits Stable!](https://app.daily.dev/posts/eCQk2TcBB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [HTML Web Components Proposal From 1998](https://app.daily.dev/posts/byXGmCtnU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/gbcvU5ioX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [5 Interesting Open Source Projects](https://app.daily.dev/posts/aEjxyKjmQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
