@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/UZSmcuf1v?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [A pragmatic guide to modern CSS colours - part two](https://app.daily.dev/posts/xLPoTVMhM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [You&#39;re not ready for the future of coding](https://app.daily.dev/posts/u8yiUxeFp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [A Stripe-inspired API authentication package](https://app.daily.dev/posts/hjxB2uPzh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [OpenAGI launched something interesting - Lux](https://app.daily.dev/posts/c0SHUMi9T?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The Framework To Becoming A Good Programmer](https://app.daily.dev/posts/2186h0YaY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
