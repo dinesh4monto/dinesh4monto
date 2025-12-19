@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/GjQjZRbYD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/UZSmcuf1v?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A pragmatic guide to modern CSS colours - part two](https://app.daily.dev/posts/xLPoTVMhM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [You&#39;re not ready for the future of coding](https://app.daily.dev/posts/u8yiUxeFp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A Stripe-inspired API authentication package](https://app.daily.dev/posts/hjxB2uPzh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Planning for 7.0](https://app.daily.dev/posts/OzXP1FlZr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/RuV5KLcFx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Let’s build an AI E-Commerce Platform with NEXT.JS 16! &lpar;Sanity, Clerk, Stripe, AI Agents, Zustand&rpar;](https://app.daily.dev/posts/wl1vx3iJi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How We Built Laravel Wrapped](https://app.daily.dev/posts/lnJVHIbhM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Microsoft Learn MCP Server Elevates Development](https://app.daily.dev/posts/3aFv4LiJ6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
