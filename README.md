@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Finally, MCP Servers Can Deliver UI-rich Experiences!](https://app.daily.dev/posts/0hjHCCK0J?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/3AtQuwPtE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/x1wwwF7L9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Planning for 7.0](https://app.daily.dev/posts/OzXP1FlZr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/RuV5KLcFx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Let’s build an AI E-Commerce Platform with NEXT.JS 16! &lpar;Sanity, Clerk, Stripe, AI Agents, Zustand&rpar;](https://app.daily.dev/posts/wl1vx3iJi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How We Built Laravel Wrapped](https://app.daily.dev/posts/lnJVHIbhM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Microsoft Learn MCP Server Elevates Development](https://app.daily.dev/posts/3aFv4LiJ6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
