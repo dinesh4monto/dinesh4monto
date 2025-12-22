@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [The Tor Project is Now Rewritten in Rust Instead of C](https://app.daily.dev/posts/qctr5uKre?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/vBpUgaRsi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Learn n8n to Design, Develop, and Deploy Production-Grade AI Agents](https://app.daily.dev/posts/3d7BTeEbb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/4GBgIcZIe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [BrowserBook: The Browser Automation IDE](https://app.daily.dev/posts/1g8NhHXs2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Why Web3 Résumés Are Useless — And What Founders Actually Look At Instead](https://app.daily.dev/posts/cGTOa8dQy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
