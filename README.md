@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [De-emphasize scrollbars in small containers](https://app.daily.dev/posts/zABf7n6Pj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Chris’ Corner: HTML](https://app.daily.dev/posts/VQ7rLmFuk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/zFHuPML1M?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Building with Laravel for Ecommerce. The Artisan of the Day Is Gulzar Ahmed.](https://app.daily.dev/posts/tzkfGeHls?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/5aE4dsG12?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Console.text&lpar;&rpar;: SMS alerts for your code just like console.log&lpar;&rpar;](https://app.daily.dev/posts/ZGVoV4FRo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
