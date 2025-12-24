@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [n8n + Claude Code Is TOO Powerful](https://app.daily.dev/posts/3Y1D34dRd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Token-Level Truth: Real-Time Hallucination Detection for Production LLMs](https://app.daily.dev/posts/h1vk69mEw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [The Vibe Coding Paradox](https://app.daily.dev/posts/vew9A46lt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Google&#39;s vibe-coding tool Opal comes to Gemini](https://app.daily.dev/posts/2mODu14A4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Firefox Just Killed Browser Fingerprinting &lpar;2025&rpar;](https://app.daily.dev/posts/IOUrXjyki?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [De-emphasize scrollbars in small containers](https://app.daily.dev/posts/zABf7n6Pj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Chris’ Corner: HTML](https://app.daily.dev/posts/VQ7rLmFuk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
