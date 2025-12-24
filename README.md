@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [The Vibe Coding Paradox](https://app.daily.dev/posts/vew9A46lt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Google&#39;s vibe-coding tool Opal comes to Gemini](https://app.daily.dev/posts/2mODu14A4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Firefox Just Killed Browser Fingerprinting &lpar;2025&rpar;](https://app.daily.dev/posts/IOUrXjyki?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [De-emphasize scrollbars in small containers](https://app.daily.dev/posts/zABf7n6Pj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Chris’ Corner: HTML](https://app.daily.dev/posts/VQ7rLmFuk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/zFHuPML1M?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Building with Laravel for Ecommerce. The Artisan of the Day Is Gulzar Ahmed.](https://app.daily.dev/posts/tzkfGeHls?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
