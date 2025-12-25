@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Testing is software engineering](https://app.daily.dev/posts/9UN4CKZN6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [n8n + Claude Code Is TOO Powerful](https://app.daily.dev/posts/3Y1D34dRd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Token-Level Truth: Real-Time Hallucination Detection for Production LLMs](https://app.daily.dev/posts/h1vk69mEw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The Vibe Coding Paradox](https://app.daily.dev/posts/vew9A46lt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Google&#39;s vibe-coding tool Opal comes to Gemini](https://app.daily.dev/posts/2mODu14A4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/cpvDOAPP1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Introducing Fizzy, our newest product](https://app.daily.dev/posts/L2R1WSgVY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [3 MCP servers you should be using &lpar;safely&rpar;](https://app.daily.dev/posts/hgGv2C6N3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Why Strong Consistency?](https://app.daily.dev/posts/Q0guBjPhQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A UI toolkit for Apps that run inside ChatGPT](https://app.daily.dev/posts/Pz8CJhT9W?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
