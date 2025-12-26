@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Proof of Concept](https://app.daily.dev/posts/wpBNsxhfE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [My LLM coding workflow going into 2026](https://app.daily.dev/posts/Vi9OYCJKe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/cpvDOAPP1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Introducing Fizzy, our newest product](https://app.daily.dev/posts/L2R1WSgVY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [3 MCP servers you should be using &lpar;safely&rpar;](https://app.daily.dev/posts/hgGv2C6N3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [skillcraft.ai now shows which tech skills are in demand](https://app.daily.dev/posts/1H5jMvONZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [freeCodeCamp&#39;s New Relational Databases Certification is Now Live](https://app.daily.dev/posts/RIyV8bcad?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Configuring PHP](https://app.daily.dev/posts/B6mz2mB6v?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Open Source Test Management Tools](https://app.daily.dev/posts/KDoKqIbZd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [AI website builder for static site generators?](https://app.daily.dev/posts/v8qhaihtX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
