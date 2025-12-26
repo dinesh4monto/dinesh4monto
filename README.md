@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [My LLM coding workflow going into 2026](https://app.daily.dev/posts/Vi9OYCJKe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/cpvDOAPP1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Introducing Fizzy, our newest product](https://app.daily.dev/posts/L2R1WSgVY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [3 MCP servers you should be using &lpar;safely&rpar;](https://app.daily.dev/posts/hgGv2C6N3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Why Strong Consistency?](https://app.daily.dev/posts/Q0guBjPhQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A UI toolkit for Apps that run inside ChatGPT](https://app.daily.dev/posts/Pz8CJhT9W?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
