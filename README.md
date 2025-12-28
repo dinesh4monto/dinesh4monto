@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Laravel AI SDK: First &quot;Teaser&quot; by Taylor Otwell #laravel](https://app.daily.dev/posts/XO1xFqvrw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Laravel DB Transaction with Try-Catch for Deadlocks](https://app.daily.dev/posts/F6Vm4GMpS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [RAG vs. CAG, Explained Visually!](https://app.daily.dev/posts/PxhsNDZlh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [The Hidden Selectors of The HTML Element](https://app.daily.dev/posts/68Aj7cUUh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/AUoTduVDv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [QNX Self-Hosted Developer Desktop -- Initial Release](https://app.daily.dev/posts/mc6ja0RFF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
