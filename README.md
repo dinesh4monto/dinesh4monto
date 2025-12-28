@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Laravel AI SDK: First &quot;Teaser&quot; by Taylor Otwell #laravel](https://app.daily.dev/posts/XO1xFqvrw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Laravel DB Transaction with Try-Catch for Deadlocks](https://app.daily.dev/posts/F6Vm4GMpS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [RAG vs. CAG, Explained Visually!](https://app.daily.dev/posts/PxhsNDZlh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The Hidden Selectors of The HTML Element](https://app.daily.dev/posts/68Aj7cUUh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/AUoTduVDv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [4-Step Gemini 3.0 Pro System For Beautiful UI Designs](https://app.daily.dev/posts/0ZVTmk8tE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/BpegpBCFS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How AI fixed my procrastination](https://app.daily.dev/posts/bWomMLTQD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [gar-lang/DEVLOG.md at main · Syn-Nine/gar-lang](https://app.daily.dev/posts/5Ap74ryVZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A modern guide to SQL JOINs](https://app.daily.dev/posts/rOSc4xVc5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
