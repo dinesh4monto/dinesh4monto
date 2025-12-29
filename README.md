@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/n7BmKsrzV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [n8n 2.0 Docker Setup in 5 Minutes](https://app.daily.dev/posts/MnlCj6yaa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Agents in the database with Ajay Kulkarni, CEO of Tiger Data &lpar;Changelog Interviews #671&rpar;](https://app.daily.dev/posts/eXApEAvaZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/SCbSf2YMT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/D4swMw3gn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Lima v2.0: New features for secure AI workflows](https://app.daily.dev/posts/baSpQ5wVj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Vercel Knowledge Base](https://app.daily.dev/posts/EZf7G7vQi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Laravel TOON: Reduce LLM Token Usage by 40-60%](https://app.daily.dev/posts/H1GJAhHYS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
