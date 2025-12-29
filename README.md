@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [n8n Web Scraping: Complete Automation Guide](https://app.daily.dev/posts/Ulz2DHyXG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/u5mzUGvu6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [PHP Is Alive But No Longer Strategic](https://app.daily.dev/posts/16km2cihD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [apple/ml-sharp: Sharp Monocular View Synthesis in Less Than a Second](https://app.daily.dev/posts/twGHUtEEV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [4-Step Gemini 3.0 Pro System For Beautiful UI Designs](https://app.daily.dev/posts/0ZVTmk8tE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/BpegpBCFS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How AI fixed my procrastination](https://app.daily.dev/posts/bWomMLTQD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
