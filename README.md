@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [n8n Web Scraping: Complete Automation Guide](https://app.daily.dev/posts/Ulz2DHyXG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/u5mzUGvu6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [PHP Is Alive But No Longer Strategic](https://app.daily.dev/posts/16km2cihD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [apple/ml-sharp: Sharp Monocular View Synthesis in Less Than a Second](https://app.daily.dev/posts/twGHUtEEV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [4-Step Gemini 3.0 Pro System For Beautiful UI Designs](https://app.daily.dev/posts/0ZVTmk8tE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/SCbSf2YMT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/D4swMw3gn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Lima v2.0: New features for secure AI workflows](https://app.daily.dev/posts/baSpQ5wVj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Vercel Knowledge Base](https://app.daily.dev/posts/EZf7G7vQi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Laravel TOON: Reduce LLM Token Usage by 40-60%](https://app.daily.dev/posts/H1GJAhHYS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
