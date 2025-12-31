@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [PHP 8.5.1 published](https://app.daily.dev/posts/uomUhGOuQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [freeCodeCamp Launches New JavaScript and Responsive Web Design Certifications](https://app.daily.dev/posts/lbXJHX8hO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Conductor: Introducing context-driven development for Gemini CLI](https://app.daily.dev/posts/KTS4M6YlI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [4 API Architectural Styles You Should Know](https://app.daily.dev/posts/haR5JvoYo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Spain Collection: Evolving a Luxury Website into a Digital Ecosystem](https://app.daily.dev/posts/tCz2edOvJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Vibe Pocket: Run AI agents like Claude Code, Codex, Opencode on mobile](https://app.daily.dev/posts/Z5p3I8m3J?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Laravel Extended Commands](https://app.daily.dev/posts/EKSznAPRK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
