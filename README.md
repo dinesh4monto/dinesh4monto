@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Introducing Agent Development Kit for TypeScript: Build AI Agents with the Power of a Code-First Approach](https://app.daily.dev/posts/ggxMtHsxM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The f*** off contact page](https://app.daily.dev/posts/ZV4aYjoFb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Building a Complete FIRE Calculator App with GitHub Copilot in One Chat Session](https://app.daily.dev/posts/CiNZTaIec?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [PHP 8.5.1 published](https://app.daily.dev/posts/uomUhGOuQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [freeCodeCamp Launches New JavaScript and Responsive Web Design Certifications](https://app.daily.dev/posts/lbXJHX8hO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Conductor: Introducing context-driven development for Gemini CLI](https://app.daily.dev/posts/KTS4M6YlI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [4 API Architectural Styles You Should Know](https://app.daily.dev/posts/haR5JvoYo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Spain Collection: Evolving a Luxury Website into a Digital Ecosystem](https://app.daily.dev/posts/tCz2edOvJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
