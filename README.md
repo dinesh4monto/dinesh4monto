@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Detect and Clean Up Unchanged Vendor Files with Laravel Vendor Cleanup](https://app.daily.dev/posts/h2BitfzAl?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/pAEIyXM4d?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/D490Pv6rQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [This week on the PHP Podcast, Eric, Sara, and John talk about Clamp, Preloading, NativePHP v2, the end of Fleet, Waymo Cars DDOS, and more…](https://app.daily.dev/posts/UlMJhLxEj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Introducing Agent Development Kit for TypeScript: Build AI Agents with the Power of a Code-First Approach](https://app.daily.dev/posts/ggxMtHsxM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The f*** off contact page](https://app.daily.dev/posts/ZV4aYjoFb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
