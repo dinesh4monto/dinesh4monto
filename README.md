@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/fjpXEU3AI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Olmo 3: Fully Open-Source LLM from AI2 &lpar;Models, Data, &amp; Code&rpar;](https://app.daily.dev/posts/lnAxU9ugE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [ShipAddons: Ship Google Workspace add-ons without the setup pain](https://app.daily.dev/posts/vKhGfZf4X?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/kTD9o5V1o?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [New CSS Properties for Responsive Text Sizing: text-grow and text-shrink](https://app.daily.dev/posts/sEciDtaW5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Shadcn Admin Dashboard Open-source](https://app.daily.dev/posts/pqCrenvTX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
