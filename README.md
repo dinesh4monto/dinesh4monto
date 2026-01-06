@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/mbiyWm9xY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [[Hands-on] Deploy and Run LLMs on your Phone!](https://app.daily.dev/posts/Eh6oG7S71?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [This year’s most influential open source projects](https://app.daily.dev/posts/58eWYWDnD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/fjpXEU3AI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Olmo 3: Fully Open-Source LLM from AI2 &lpar;Models, Data, &amp; Code&rpar;](https://app.daily.dev/posts/lnAxU9ugE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [ShipAddons: Ship Google Workspace add-ons without the setup pain](https://app.daily.dev/posts/vKhGfZf4X?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
