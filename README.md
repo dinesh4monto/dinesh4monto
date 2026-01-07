@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Passenger 6.1.1](https://app.daily.dev/posts/LNvranZfW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Modern and Flexible Accounting](https://app.daily.dev/posts/lHvQrr3ir?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/K5ncM5Zxg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Gitdocs AI: Make your repository explain itself.](https://app.daily.dev/posts/9LrfJ1Ykf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [5 Typescript tips you NEED to know](https://app.daily.dev/posts/70TzdcBf8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A Software Architect’s Guide to API-First Strategy](https://app.daily.dev/posts/rJb6QbGkq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [An experiment in vibe coding](https://app.daily.dev/posts/4bHVzgnIe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
