@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [PERN Stack Course: Build a Full Stack Product Store with React and Postgres](https://app.daily.dev/posts/avWCmYSRb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/Jg9JLk1ai?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The Genius System Behind the Uber App’s Real-Time Map](https://app.daily.dev/posts/8jbwJ2dDG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/DR6z1El5n?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Passenger 6.1.1](https://app.daily.dev/posts/LNvranZfW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Open Source Locally Hosted Lovable with Multi Agent Support](https://app.daily.dev/posts/WrehMpvWJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Surviving the RAM Squeeze: Efficiency Tips for JavaScript Developers](https://app.daily.dev/posts/wdLNzMFB2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How Temporal Powers Reliable Cloud Operations at Netflix](https://app.daily.dev/posts/N0n7EVVoz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Introducing vLLM Playground: A Modern Web Interface for Managing and Interacting with vLLM Servers](https://app.daily.dev/posts/BoMwiDAJ7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Keycloak MCP Server: Manage Identity with Natural Language](https://app.daily.dev/posts/DPciyuJJ6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
