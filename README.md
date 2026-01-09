@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Raspberry Pi is cheaper than a Mini PC again &lpar;that&#39;s not good&rpar;](https://app.daily.dev/posts/91zJuySv7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Open Source Locally Hosted Lovable with Multi Agent Support](https://app.daily.dev/posts/WrehMpvWJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Surviving the RAM Squeeze: Efficiency Tips for JavaScript Developers](https://app.daily.dev/posts/wdLNzMFB2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [How Temporal Powers Reliable Cloud Operations at Netflix](https://app.daily.dev/posts/N0n7EVVoz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Introducing vLLM Playground: A Modern Web Interface for Managing and Interacting with vLLM Servers](https://app.daily.dev/posts/BoMwiDAJ7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Keycloak MCP Server: Manage Identity with Natural Language](https://app.daily.dev/posts/DPciyuJJ6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
