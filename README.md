@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Productivity Environment on Windows with WSL 2 and Docker — Nick Janetakis](https://app.daily.dev/posts/90JfVaWWe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Laravel Notify Package: Toast Notifications with Simple Configuration](https://app.daily.dev/posts/dwGoquTEU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [4 CSS Features Every Front-End Developer Should Know In 2026 · January 7, 2026](https://app.daily.dev/posts/ERpIye3Wt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/C8mbCIFgJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Run Your Project in a Dev Container, in Zed — Zed&#39;s Blog](https://app.daily.dev/posts/z2uSEuhJn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Date is out, Temporal is in](https://app.daily.dev/posts/RX3SGyN1U?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Open Source - PodPDF](https://app.daily.dev/posts/0KaqV63sI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/AuD2IyF9V?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Introducing PDF Diff: Compare PDFs Privately in Your Browser](https://app.daily.dev/posts/373BTkOeV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
