@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [A first look at the Web Install API – Frontend Masters Blog](https://app.daily.dev/posts/934HHPX97?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [CachyOS Is Coming For Your Server](https://app.daily.dev/posts/yuFW3cX7w?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Increasing web push notification value with rate limits](https://app.daily.dev/posts/PYRbJAHmf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/hox0Alvuh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [PHP DebugBar v3 is released](https://app.daily.dev/posts/b7SEEaaFE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Streamdown v2: Smaller bundle, CDN loading, and new Remend options](https://app.daily.dev/posts/0jpiWs4Bj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Introducing the &lt;geolocation&gt; HTML element](https://app.daily.dev/posts/kLyHHPdXd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/J2iVsjLu0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [PHP in 2026](https://app.daily.dev/posts/lsDO240Ed?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
