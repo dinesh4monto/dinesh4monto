@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [A first look at the Web Install API – Frontend Masters Blog](https://app.daily.dev/posts/934HHPX97?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [CachyOS Is Coming For Your Server](https://app.daily.dev/posts/yuFW3cX7w?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Increasing web push notification value with rate limits](https://app.daily.dev/posts/PYRbJAHmf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/hox0Alvuh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [PHP DebugBar v3 is released](https://app.daily.dev/posts/b7SEEaaFE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [What is Context Engineering?](https://app.daily.dev/posts/FZDcu7uY1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [View-Based Components](https://app.daily.dev/posts/tfldkksu3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Meet Ripple: The Elegant TypeScript UI Framework](https://app.daily.dev/posts/n7wKczt0h?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [XAML Studio is now open source](https://app.daily.dev/posts/iH9PJ8cPg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Building Better Buttons](https://app.daily.dev/posts/kfG2U6XfQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
