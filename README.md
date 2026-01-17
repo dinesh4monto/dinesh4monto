@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Brave refurbishes Rust adblock engine for memory gain](https://app.daily.dev/posts/kGEuDfGIQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Laravel Wayfinder: End-to-End Type Safety for PHP and TypeScript](https://app.daily.dev/posts/rcdxam3W8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Docker just got some massive upgrades](https://app.daily.dev/posts/7afuAjHXS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [How To Learn ANY FRAMEWORK In 5 Minutes](https://app.daily.dev/posts/vwFDmV72K?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [This Open-Source might just replace Airtable](https://app.daily.dev/posts/XrhNnNCkP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Future CSS: :drag &lpar;and Maybe ::dragged-image?&rpar;](https://app.daily.dev/posts/TOtMIc7xD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [FluentVox: AI Text-to-Speech for Laravel with Voice Cloning and GPU Acceleration](https://app.daily.dev/posts/PG7mqtzaS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
