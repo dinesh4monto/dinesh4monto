@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [PHP Framework for Adults](https://app.daily.dev/posts/tXYQodBxT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/2bMcNaDEA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Try this skill, It&#39;s very useful !](https://app.daily.dev/posts/YC6Ye5xnI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/5y1h2hHVY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Brave refurbishes Rust adblock engine for memory gain](https://app.daily.dev/posts/kGEuDfGIQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Laravel Wayfinder: End-to-End Type Safety for PHP and TypeScript](https://app.daily.dev/posts/rcdxam3W8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Docker just got some massive upgrades](https://app.daily.dev/posts/7afuAjHXS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
