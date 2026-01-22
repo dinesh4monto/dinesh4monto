@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [AI Voice Elements](https://app.daily.dev/posts/Wi1ttQKHi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/E5LbALony?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Text-based web browsers](https://app.daily.dev/posts/NXAu4HPRZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Claude Skill for Maquina Components](https://app.daily.dev/posts/34oYZPTSW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [How I built my GitHub profile README with animated headers, stats, and featured projects. A practical guide for developers.](https://app.daily.dev/posts/pTFsOD0cd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/qWXrmGdk9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Vercel introduces a new React Best Practices framework specifically optimized for AI-native development, ensuring applications are structured to work seamlessly with AI SDKs and Generative UI](https://app.daily.dev/posts/AmYC8L6Kc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/RuMhQtj6W?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
