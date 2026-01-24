@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [AI Voice Elements](https://app.daily.dev/posts/Wi1ttQKHi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/E5LbALony?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Text-based web browsers](https://app.daily.dev/posts/NXAu4HPRZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Claude Skill for Maquina Components](https://app.daily.dev/posts/34oYZPTSW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How I built my GitHub profile README with animated headers, stats, and featured projects. A practical guide for developers.](https://app.daily.dev/posts/pTFsOD0cd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [1000+ website design ideas &lpar;categorized by section&rpar;](https://app.daily.dev/posts/iEwhSb36K?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [ACF 2025 Year in Review: Inline Editing and the Next Generation of Blocks](https://app.daily.dev/posts/Gebk4cgw5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/wA63z9DYQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [What came first: the CNAME or the A record?](https://app.daily.dev/posts/5Wsanjo0L?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Goodbye SASS](https://app.daily.dev/posts/Lf9VDdw6Q?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
