@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Learn Dynamic Programming Through Dynamic Visuals](https://app.daily.dev/posts/RGocRR6yk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Ultimate Guide to Claude Code: Everything I learned from 3 months of production use](https://app.daily.dev/posts/KUrRBsLx4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Ktor 3.4.0 Is Now Available!](https://app.daily.dev/posts/NgPY0X72t?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [The Human in the Loop](https://app.daily.dev/posts/ZeB3UcRxG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Why’s everyone moving to Convex?](https://app.daily.dev/posts/lu0cr2ba9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/WChBmOscl?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [JavaScript Engines Zoo – Frontend Masters Blog](https://app.daily.dev/posts/9a5LwigJ1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
