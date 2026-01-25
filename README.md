@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Ktor 3.4.0 Is Now Available!](https://app.daily.dev/posts/NgPY0X72t?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Human in the Loop](https://app.daily.dev/posts/ZeB3UcRxG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Why’s everyone moving to Convex?](https://app.daily.dev/posts/lu0cr2ba9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/WChBmOscl?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [JavaScript Engines Zoo – Frontend Masters Blog](https://app.daily.dev/posts/9a5LwigJ1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [RelateDB: Offline-first database schema designer in your browser](https://app.daily.dev/posts/q95L7aBiO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [1000+ website design ideas &lpar;categorized by section&rpar;](https://app.daily.dev/posts/iEwhSb36K?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [ACF 2025 Year in Review: Inline Editing and the Next Generation of Blocks](https://app.daily.dev/posts/Gebk4cgw5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
