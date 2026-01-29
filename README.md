@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [The New China AI Trifecta](https://app.daily.dev/posts/7kuJfwmkk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Making Claude a better electrical engineer](https://app.daily.dev/posts/HdMamWSQH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/vdOb2zO7Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Context Manager Agent + Opus 4.5 : 10X LOWER COSTS, 10X BETTER RESULTS! This is INSANE!](https://app.daily.dev/posts/EYMPgd0xe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [How to Use the tailwind-sidebar NPM Package in Your React and Next.js Apps](https://app.daily.dev/posts/1Ff1hijgn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Dynamic context discovery](https://app.daily.dev/posts/uWea1xt8M?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
