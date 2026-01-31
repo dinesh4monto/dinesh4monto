@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Self-Host Weekly #155: One Hundred Million](https://app.daily.dev/posts/BPvpjLKjY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Foundations of AI Engineering and LLMOps](https://app.daily.dev/posts/puboq65dr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [How Lyft Built an ML Platform That Serves Millions of Predictions Per Second](https://app.daily.dev/posts/v99Yv1oDt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Lucide-based Animated Icons &lpar;Open Source, shadcn/ui CLI&rpar;](https://app.daily.dev/posts/xU2LsFgwE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [CSS Web Components for marketing sites](https://app.daily.dev/posts/zxkljevTs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/NdU9ZcZUX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
