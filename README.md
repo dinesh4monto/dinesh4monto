@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [The state of open source AI models in 2025](https://app.daily.dev/posts/NbWk4nxtR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [I don’t really use libraries anymore](https://app.daily.dev/posts/kqbTJ9NPQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Is PHP Still a Valuable Programming Language in 2026?](https://app.daily.dev/posts/TwG8uKyMT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Self-Host Weekly #155: One Hundred Million](https://app.daily.dev/posts/BPvpjLKjY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Foundations of AI Engineering and LLMOps](https://app.daily.dev/posts/puboq65dr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How Lyft Built an ML Platform That Serves Millions of Predictions Per Second](https://app.daily.dev/posts/v99Yv1oDt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Lucide-based Animated Icons &lpar;Open Source, shadcn/ui CLI&rpar;](https://app.daily.dev/posts/xU2LsFgwE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [CSS Web Components for marketing sites](https://app.daily.dev/posts/zxkljevTs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
