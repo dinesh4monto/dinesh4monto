@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [`hasSole&lpar;&rpar;` Collection Method in Laravel 12.49.0](https://app.daily.dev/posts/mWv1N7sg0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [An Open Source Jira Alternative](https://app.daily.dev/posts/Hng4rFIwx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/xkN6w3hK7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Once again processing 11 million rows, now in seconds](https://app.daily.dev/posts/oqF9cnFsn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [The state of open source AI models in 2025](https://app.daily.dev/posts/NbWk4nxtR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [I don’t really use libraries anymore](https://app.daily.dev/posts/kqbTJ9NPQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Is PHP Still a Valuable Programming Language in 2026?](https://app.daily.dev/posts/TwG8uKyMT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Self-Host Weekly #155: One Hundred Million](https://app.daily.dev/posts/BPvpjLKjY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Foundations of AI Engineering and LLMOps](https://app.daily.dev/posts/puboq65dr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
