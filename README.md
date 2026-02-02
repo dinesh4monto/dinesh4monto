@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [`hasSole&lpar;&rpar;` Collection Method in Laravel 12.49.0](https://app.daily.dev/posts/mWv1N7sg0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [An Open Source Jira Alternative](https://app.daily.dev/posts/Hng4rFIwx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/xkN6w3hK7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Once again processing 11 million rows, now in seconds](https://app.daily.dev/posts/oqF9cnFsn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The state of open source AI models in 2025](https://app.daily.dev/posts/NbWk4nxtR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Web Development Is More Than Just Frontend and Backend](https://app.daily.dev/posts/IF8MpmcGW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Introducing Moltworker: a self-hosted personal AI agent, minus the minis](https://app.daily.dev/posts/1o37ayjpz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Joly UI](https://app.daily.dev/posts/0LJDXzTMP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A cleaner, customizable Bitbucket navigation is here](https://app.daily.dev/posts/50IeQNeVP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/y1C04Oqkj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
