@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Metronome + Stripe: Building the future of billing](https://app.daily.dev/posts/Nfuwq5mkJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Coderrr: Open source CLI-first AI coding companion](https://app.daily.dev/posts/KwgMObiSh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [ChatGPT Containers can now run bash, pip](https://app.daily.dev/posts/7V1v7MpYn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Web Development Is More Than Just Frontend and Backend](https://app.daily.dev/posts/IF8MpmcGW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Introducing Moltworker: a self-hosted personal AI agent, minus the minis](https://app.daily.dev/posts/1o37ayjpz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Joly UI](https://app.daily.dev/posts/0LJDXzTMP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A cleaner, customizable Bitbucket navigation is here](https://app.daily.dev/posts/50IeQNeVP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/y1C04Oqkj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
