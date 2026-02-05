@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Laravel has quickly become one of the most beloved PHP frameworks in the world, and for good reason!](https://app.daily.dev/posts/4jhBq8WMe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [You asked for an API. We finally built one.](https://app.daily.dev/posts/cEq9YxIki?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/T9FlKUWkZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Metronome + Stripe: Building the future of billing](https://app.daily.dev/posts/Nfuwq5mkJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Coderrr: Open source CLI-first AI coding companion](https://app.daily.dev/posts/KwgMObiSh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [ChatGPT Containers can now run bash, pip](https://app.daily.dev/posts/7V1v7MpYn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Web Development Is More Than Just Frontend and Backend](https://app.daily.dev/posts/IF8MpmcGW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
