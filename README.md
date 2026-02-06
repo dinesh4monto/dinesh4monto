@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Laravel has quickly become one of the most beloved PHP frameworks in the world, and for good reason!](https://app.daily.dev/posts/4jhBq8WMe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [You asked for an API. We finally built one.](https://app.daily.dev/posts/cEq9YxIki?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/T9FlKUWkZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Metronome + Stripe: Building the future of billing](https://app.daily.dev/posts/Nfuwq5mkJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Coderrr: Open source CLI-first AI coding companion](https://app.daily.dev/posts/KwgMObiSh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Firefox’s Tab Notes Feature Feels Genuinely Useful &lpar;For Me, At Least&rpar;](https://app.daily.dev/posts/Utc1HHrM0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Exposed 1.0 Is Now Available](https://app.daily.dev/posts/LoeUGB7Zw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Wasmer 7.0 Released For Advancing WebAssembly On The Desktop &amp; Anywhere](https://app.daily.dev/posts/rTxHoQ6Gu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [beginner-jhj/mini_browser](https://app.daily.dev/posts/sskwNUv7S?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Build an agent into any app with the GitHub Copilot SDK](https://app.daily.dev/posts/xMLNll6LD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
