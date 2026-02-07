@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Tailor Gemini CLI to your workflow with hooks](https://app.daily.dev/posts/99GiaEaBp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Cursor for UI work](https://app.daily.dev/posts/fG1PXq6DB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [OpenEverest: Open Source Platform for Database Automation](https://app.daily.dev/posts/hNifCVJEN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [CSS-Tricks](https://app.daily.dev/posts/6SNqtBd7I?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Firefox’s Tab Notes Feature Feels Genuinely Useful &lpar;For Me, At Least&rpar;](https://app.daily.dev/posts/Utc1HHrM0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Exposed 1.0 Is Now Available](https://app.daily.dev/posts/LoeUGB7Zw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Wasmer 7.0 Released For Advancing WebAssembly On The Desktop &amp; Anywhere](https://app.daily.dev/posts/rTxHoQ6Gu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [beginner-jhj/mini_browser](https://app.daily.dev/posts/sskwNUv7S?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
