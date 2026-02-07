@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Tailor Gemini CLI to your workflow with hooks](https://app.daily.dev/posts/99GiaEaBp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Cursor for UI work](https://app.daily.dev/posts/fG1PXq6DB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [OpenEverest: Open Source Platform for Database Automation](https://app.daily.dev/posts/hNifCVJEN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [CSS-Tricks](https://app.daily.dev/posts/6SNqtBd7I?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Firefox’s Tab Notes Feature Feels Genuinely Useful &lpar;For Me, At Least&rpar;](https://app.daily.dev/posts/Utc1HHrM0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [MLOps Roadmap has been updated!](https://app.daily.dev/posts/K7uZOEFbI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [20 Free &amp; Open-Source AI Tools to Run Production-Grade Agents Without Paying LLM APIs in 2026](https://app.daily.dev/posts/gTbPMcu2k?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Voiden is Now Open Source. An Offline API Client that treats API Building and Testing like Code.  
+
+✓ Plain text files in your repo
+✓ Works offline, no cloud required
+✓ Import blocks like you import functions](https://app.daily.dev/posts/UmZZOFJlZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/5iInLCPaU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Let agents find packages for you, mcp server for laraplugins.io](https://app.daily.dev/posts/vlBJIJpfM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
