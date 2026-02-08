@@ -1,15 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [MLOps Roadmap has been updated!](https://app.daily.dev/posts/K7uZOEFbI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [20 Free &amp; Open-Source AI Tools to Run Production-Grade Agents Without Paying LLM APIs in 2026](https://app.daily.dev/posts/gTbPMcu2k?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Voiden is Now Open Source. An Offline API Client that treats API Building and Testing like Code.  
-
-✓ Plain text files in your repo
-✓ Works offline, no cloud required
-✓ Import blocks like you import functions](https://app.daily.dev/posts/UmZZOFJlZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/5iInLCPaU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Let agents find packages for you, mcp server for laraplugins.io](https://app.daily.dev/posts/vlBJIJpfM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [NativePHP For Desktop](https://app.daily.dev/posts/Byi2Zo65R?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Running PHP 8.5 with Laravel Octane and FrankenPHP: The Missing Manual &lpar;Fix the 8.4 binary trap&rpar;](https://app.daily.dev/posts/Qke8krf05?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Vue Basics: Ultimate Guide to Vue 3 Reactivity](https://app.daily.dev/posts/L3LntlFJF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [I struggled to code with AI until I learned this workflow](https://app.daily.dev/posts/hABXlgdYu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/d1okzCOJT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
