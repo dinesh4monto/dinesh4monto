@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Unstacking CSS Stacking Contexts — Smashing Magazine](https://app.daily.dev/posts/hkqSqzN4Q?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Tyro is a powerful Authentication, Authorization, Role &amp; Privilege Management solution for Laravel 12. Think of it as a Swiss Army knife that handles everything from user authentication and role-based access control to user suspension workflows.](https://app.daily.dev/posts/G6EQsp54s?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Just Another Beautiful UI Library...](https://app.daily.dev/posts/phUrJoOWg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/WY8ZJsQPl?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/w070yDASX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/s6WH2e9bH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Download &amp; Use IKEA Models In 3D Software](https://app.daily.dev/posts/e5KmW007V?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/SKl62CKuw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [An open-source alternative to Claude Cowork, powered by OpenCode](https://app.daily.dev/posts/eYDTmct8m?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [7 Software Engineering Fixes To Advance As A Developer](https://app.daily.dev/posts/XqUlbVkxn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
