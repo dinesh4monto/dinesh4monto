@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [NativePHP For Desktop](https://app.daily.dev/posts/Byi2Zo65R?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Running PHP 8.5 with Laravel Octane and FrankenPHP: The Missing Manual &lpar;Fix the 8.4 binary trap&rpar;](https://app.daily.dev/posts/Qke8krf05?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Vue Basics: Ultimate Guide to Vue 3 Reactivity](https://app.daily.dev/posts/L3LntlFJF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [I struggled to code with AI until I learned this workflow](https://app.daily.dev/posts/hABXlgdYu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/d1okzCOJT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/7pkjGijg0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Introducing Kthena: LLM inference for the cloud native era](https://app.daily.dev/posts/HONeqoore?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How We Use AI to Turn Figma Designs into Production Code](https://app.daily.dev/posts/2NkDxMJJB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/A9WR8V1DK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/xBP8EMs83?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
