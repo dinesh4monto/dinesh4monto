@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Laravel Boost v2.0: Introducing Skills Support and Installation Enhancements](https://app.daily.dev/posts/0wx3OGQ9R?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Laravel has introduced a new official AI SDK, now documented in the Laravel 12.x docs, aimed at making it easier to build AI-powered features directly into Laravel applications.
-
-The AI SDK provides a clean, framework-native API for working with mode](https://app.daily.dev/posts/OuqOOBYNy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Making Motion Behave: Inside Vladyslav Penev’s Production-Ready Interaction Systems](https://app.daily.dev/posts/bHJJcRE4j?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [FlashList vs. FlatList: Understanding the Key Differences for React Native Performance](https://app.daily.dev/posts/ncODKlYXp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Official Laravel AI SDK Offers Seamless Integration of AI Capabilities](https://app.daily.dev/posts/ND9RAWZ9f?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Deep dive into Turso, the &quot;SQLite rewrite in Rust&quot;](https://app.daily.dev/posts/kN9wn7dSD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [WebSockets Crash Course: Build a Real-Time Sports Engine &lpar;10ms Updates&rpar;](https://app.daily.dev/posts/KmGGIKAuH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Rust vs JavaScript &amp; TypeScript: Performance and WebAssembly](https://app.daily.dev/posts/UAEJhL6mu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A Curated List of Top 5 AI Gateways: Features + Comprehensive comparison](https://app.daily.dev/posts/aZktt3ECc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Imagine.dev is a single platform to replace Vercel, Supabase and Lovable](https://app.daily.dev/posts/TmDvjYbfY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
