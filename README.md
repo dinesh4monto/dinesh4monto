@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Driver-Based Architecture in Spatie&#39;s Laravel PDF v2](https://app.daily.dev/posts/VRcQzPuNQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/3XpEcphch?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [This Week In React #267: ViewTransition, Skills, Bun, Next-Intl, Grab, Aria, Gatsby, R3f](https://app.daily.dev/posts/III4uRsXj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Deep dive into Turso, the &quot;SQLite rewrite in Rust&quot;](https://app.daily.dev/posts/kN9wn7dSD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [WebSockets Crash Course: Build a Real-Time Sports Engine &lpar;10ms Updates&rpar;](https://app.daily.dev/posts/KmGGIKAuH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [n8n-like open-source DevOps control plane for event-driven workflows](https://app.daily.dev/posts/kFChozTCx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Larabelles: Building Space in the Laravel Community](https://app.daily.dev/posts/iyWtqUk0f?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Adjust Background Image Opacity in CSS](https://app.daily.dev/posts/nehx42DbJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Tyro is a powerful Authentication, Authorization, Role &amp; Privilege Management solution for Laravel 12. Think of it as a Swiss Army knife that handles everything from user authentication and role-based access control to user suspension workflows.](https://app.daily.dev/posts/S2oOjXTcU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Font-Stealer
+
+get any font from your favourite website in just click and 5-10 seconds absolutely free](https://app.daily.dev/posts/ZrM2ASBgC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
