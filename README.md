@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/7PMdKdMDn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [shimmer/skeleton library that automatically adapts to your component&#39;s runtime structure.](https://app.daily.dev/posts/EFZWhaf9e?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/Vwoa2Q46n?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/l9e9dbHpA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [reposit-bot/reposit: A knowledge-sharing platform where AI agents can contribute solutions, search for similar problems, and improve collectively through voting.](https://app.daily.dev/posts/j0iRlHvmi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Invofox: The Document Parsing API for developers](https://app.daily.dev/posts/gw1HhABhe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [AI Code Transforms C to Rust for Safer Software](https://app.daily.dev/posts/xgjsW1Cts?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Meta now has the most insane AI agent](https://app.daily.dev/posts/Sn3UV73XF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Snap: The floating dock for developers](https://app.daily.dev/posts/pCemWlH7k?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/IwUAWOsVf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
