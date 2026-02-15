@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Why olore？](https://app.daily.dev/posts/IpcOD1njd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/8BtsT8BuS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Building a GEO Benchmark Tool by Polling LLMs at Scale](https://app.daily.dev/posts/yKJwfVHPS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The State Of LLMs 2025: Progress, Problems, and Predictions](https://app.daily.dev/posts/Zw1IC2d9p?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [EmulatorJS/EmulatorJS: A web-based frontend for RetroArch](https://app.daily.dev/posts/NZqDJU1aZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [DevOps Learning simulators &amp; Interactive Tools](https://app.daily.dev/posts/olb0vBojj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [WebSockets Crash Course: Build a Real-Time Sports Engine &lpar;10ms Updates&rpar;](https://app.daily.dev/posts/5KgDQsJSp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/zp4XQOPN8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/WEvqi7GIn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [6 fast &lpar;native&rpar; alternatives for VSCode](https://app.daily.dev/posts/fE1b5D70Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
