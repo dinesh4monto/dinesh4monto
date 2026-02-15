@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Invofox: The Document Parsing API for developers](https://app.daily.dev/posts/gw1HhABhe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [AI Code Transforms C to Rust for Safer Software](https://app.daily.dev/posts/xgjsW1Cts?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Meta now has the most insane AI agent](https://app.daily.dev/posts/Sn3UV73XF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Snap: The floating dock for developers](https://app.daily.dev/posts/pCemWlH7k?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/IwUAWOsVf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Let’s build a Scheduling SaaS with NEXT.JS 16! &lpar;Sanity, Clerk, CodeRabbit, Google Calendar &amp; Meet&rpar;](https://app.daily.dev/posts/VAzzBxOxG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Choosing Antigravity or Gemini CLI](https://app.daily.dev/posts/z4b2BYgdQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Building a Modern, Scalable E-Commerce Platform with **Laravel**, **Next.js**, and **Microservices**](https://app.daily.dev/posts/XBUb8C6g8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [What the fastest-growing tools reveal about how software is being built](https://app.daily.dev/posts/EZwjlkvsC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [jQuery 4 – Frontend Masters Blog](https://app.daily.dev/posts/I3ypH3GAN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
