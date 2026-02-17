@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [**MilkAdmin** is a lightweight PHP admin panel, designed to remain understandable even after a long time. With **version 0.9.0**, it officially enters **beta phase**: it&#39;s not yet a 1.0, but it&#39;s the point where this system now has a clear, coherent shape and, most importantly, **will be used in a real project**.](https://app.daily.dev/posts/yXbpkBDgE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [DevOps Learning simulators &amp; Interactive Tools](https://app.daily.dev/posts/olb0vBojj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [WebSockets Crash Course: Build a Real-Time Sports Engine &lpar;10ms Updates&rpar;](https://app.daily.dev/posts/5KgDQsJSp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/zp4XQOPN8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/WEvqi7GIn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Lucide-based Animated Icons &lpar;Open Source&rpar;](https://app.daily.dev/posts/TSccNYkaa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [OpenSearch Kubernetes Operator 3.0 - Stability and Resilience Finally Delivered](https://app.daily.dev/posts/WZU2opC0j?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/hDgNvGWg6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/G19dscJiS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The API Authorization Hierarchy of Needs](https://app.daily.dev/posts/V9e3exq7A?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
