@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Lucide-based Animated Icons &lpar;Open Source&rpar;](https://app.daily.dev/posts/TSccNYkaa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [OpenSearch Kubernetes Operator 3.0 - Stability and Resilience Finally Delivered](https://app.daily.dev/posts/WZU2opC0j?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/hDgNvGWg6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/G19dscJiS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The API Authorization Hierarchy of Needs](https://app.daily.dev/posts/V9e3exq7A?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Introducing PHP and Composer Support in Socket](https://app.daily.dev/posts/U5ucZRHNG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Hermes V1 by Default · React Native](https://app.daily.dev/posts/oBV7ttAiR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [SKILLs MD for Analytics: How We Made Snowflake Intelligence Agents Reliable for Production](https://app.daily.dev/posts/LVl8sC9Gk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Laravel Adds an Official Svelte + Inertia Starter Kit](https://app.daily.dev/posts/runkXqODs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/Srr1a6gKy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
