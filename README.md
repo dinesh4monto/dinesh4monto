@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Be brutally honest](https://app.daily.dev/posts/1KcmYuafB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Software Acceleration and Desynchronization](https://app.daily.dev/posts/MEeoQNsw5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [13 Open-Source Apps I Use from a Web Browser &lpar;And You Can Too&rpar;](https://app.daily.dev/posts/UsP4ZH9lI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Laravel 12.51.0 Adds afterSending Callbacks, Validator whenFails, and MySQL Timeout](https://app.daily.dev/posts/Y0OfEKzyB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Introducing PHP and Composer Support in Socket](https://app.daily.dev/posts/U5ucZRHNG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Hermes V1 by Default · React Native](https://app.daily.dev/posts/oBV7ttAiR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [SKILLs MD for Analytics: How We Made Snowflake Intelligence Agents Reliable for Production](https://app.daily.dev/posts/LVl8sC9Gk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Laravel Adds an Official Svelte + Inertia Starter Kit](https://app.daily.dev/posts/runkXqODs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/Srr1a6gKy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
