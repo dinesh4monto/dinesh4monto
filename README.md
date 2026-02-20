@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [WebMCP – a much needed way to make agents play with rather than against the web](https://app.daily.dev/posts/0nYgeKiTK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Laravel Releases Nightwatch MCP Server for Claude Code and AI Agents](https://app.daily.dev/posts/BioRg6COd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Generate Secure, Memorable Passphrases in PHP with PHP Passphrase](https://app.daily.dev/posts/O5ZLVCcsN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Tinybird, now in TypeScript](https://app.daily.dev/posts/X0NUOqfSR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Be brutally honest](https://app.daily.dev/posts/1KcmYuafB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Software Acceleration and Desynchronization](https://app.daily.dev/posts/MEeoQNsw5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
