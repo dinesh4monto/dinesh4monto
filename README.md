@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Laravel Releases Nightwatch MCP Server for Claude Code and AI Agents](https://app.daily.dev/posts/BioRg6COd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Generate Secure, Memorable Passphrases in PHP with PHP Passphrase](https://app.daily.dev/posts/O5ZLVCcsN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Tinybird, now in TypeScript](https://app.daily.dev/posts/X0NUOqfSR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Be brutally honest](https://app.daily.dev/posts/1KcmYuafB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Software Acceleration and Desynchronization](https://app.daily.dev/posts/MEeoQNsw5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [13 Open-Source Apps I Use from a Web Browser &lpar;And You Can Too&rpar;](https://app.daily.dev/posts/UsP4ZH9lI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Laravel 12.51.0 Adds afterSending Callbacks, Validator whenFails, and MySQL Timeout](https://app.daily.dev/posts/Y0OfEKzyB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Introducing PHP and Composer Support in Socket](https://app.daily.dev/posts/U5ucZRHNG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
