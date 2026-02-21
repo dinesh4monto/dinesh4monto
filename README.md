@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/Wvk48DEZ7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How To ESCAPE Imposter Syndrome](https://app.daily.dev/posts/9QwBKD3Bn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [What We Know About Laravel 13](https://app.daily.dev/posts/noeEN07CU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [WebMCP – a much needed way to make agents play with rather than against the web](https://app.daily.dev/posts/0nYgeKiTK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Laravel Releases Nightwatch MCP Server for Claude Code and AI Agents](https://app.daily.dev/posts/BioRg6COd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Generate Secure, Memorable Passphrases in PHP with PHP Passphrase](https://app.daily.dev/posts/O5ZLVCcsN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Tinybird, now in TypeScript](https://app.daily.dev/posts/X0NUOqfSR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Be brutally honest](https://app.daily.dev/posts/1KcmYuafB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
