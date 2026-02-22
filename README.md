@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Free open-source animated icon library for React &lpar;shadcn compatible&rpar;](https://app.daily.dev/posts/ErEPSuQgQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [chowder: Single API for launching OpenClaw instances.](https://app.daily.dev/posts/7m6C5PrGn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [NEW: Laravel Svelte Starter Kit! &lpar;and more Laravel news&rpar;](https://app.daily.dev/posts/J0baIl5WX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/bqPJJ33j4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/xPsuGXJmG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Query Database Using Plain English](https://app.daily.dev/posts/Yy9lUzr7k?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [OpenFlowKit: The open-source diagram engine that thinks like you.](https://app.daily.dev/posts/cEnzHXyMr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/Wvk48DEZ7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How To ESCAPE Imposter Syndrome](https://app.daily.dev/posts/9QwBKD3Bn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
