@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [claude-devtools: See everything Claude Code hides from your terminal](https://app.daily.dev/posts/DpsJaXkXh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Free open-source animated icon library for React &lpar;shadcn compatible&rpar;](https://app.daily.dev/posts/ErEPSuQgQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [chowder: Single API for launching OpenClaw instances.](https://app.daily.dev/posts/7m6C5PrGn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [NEW: Laravel Svelte Starter Kit! &lpar;and more Laravel news&rpar;](https://app.daily.dev/posts/J0baIl5WX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/bqPJJ33j4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/u7mlQEjrA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Modern React Data Fetching Handbook: Suspense, use&lpar;&rpar;, and ErrorBoundary Explained](https://app.daily.dev/posts/FmQJqAcCS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [GLM-5 &lpar;Fully Tested&rpar;: I GOT EARLY ACCESS &amp; YES, IT BEATS 4.6 OPUS!](https://app.daily.dev/posts/G584EWgXq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Lightweight gateway that lets you share a single Claude Code Max subscription across multiple Claude Code instances using virtual keys.](https://app.daily.dev/posts/g7YeX4maU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/IM6p1fZCw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
