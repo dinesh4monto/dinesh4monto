@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [claude-devtools: See everything Claude Code hides from your terminal](https://app.daily.dev/posts/DpsJaXkXh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Free open-source animated icon library for React &lpar;shadcn compatible&rpar;](https://app.daily.dev/posts/ErEPSuQgQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [chowder: Single API for launching OpenClaw instances.](https://app.daily.dev/posts/7m6C5PrGn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [NEW: Laravel Svelte Starter Kit! &lpar;and more Laravel news&rpar;](https://app.daily.dev/posts/J0baIl5WX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/bqPJJ33j4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/xPsuGXJmG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
