@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Coding with Opus 4.6 and Codex 5.3 is actually insane](https://app.daily.dev/posts/ySY53J0uq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Your AI Agent Can Now Deploy to Laravel Cloud &lpar;and Write This Blog&rpar;](https://app.daily.dev/posts/e7SgNjlbO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/u7mlQEjrA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [The Modern React Data Fetching Handbook: Suspense, use&lpar;&rpar;, and ErrorBoundary Explained](https://app.daily.dev/posts/FmQJqAcCS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [GLM-5 &lpar;Fully Tested&rpar;: I GOT EARLY ACCESS &amp; YES, IT BEATS 4.6 OPUS!](https://app.daily.dev/posts/G584EWgXq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Lightweight gateway that lets you share a single Claude Code Max subscription across multiple Claude Code instances using virtual keys.](https://app.daily.dev/posts/g7YeX4maU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/IM6p1fZCw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
