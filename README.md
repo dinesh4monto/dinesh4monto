@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [This week in AI updates: GPT-5.3-Codex-Spark, GitHub Agentic Workflows, and more &lpar;February 13, 2026&rpar;](https://app.daily.dev/posts/f8bwmVFOm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Google’s new music tool, Lyria 3 is here](https://app.daily.dev/posts/i0kqmyYZc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [distr-sh/distr: The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box.](https://app.daily.dev/posts/0wZleLmB3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/x4hAQKDTc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/w6SLXZp3s?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [5 CSS fouls that I see way too often](https://app.daily.dev/posts/HAiv9dUZN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Participate in the 100-million-row challenge for PHP](https://app.daily.dev/posts/IT6OiONDm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [eigenpal/docx-js-editor: WYSIWYG js DOCX editor](https://app.daily.dev/posts/iCAMwgQqg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [▦ Universal, standards-based auth provider.](https://app.daily.dev/posts/IvNFplTaO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/Zf1viILdS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
