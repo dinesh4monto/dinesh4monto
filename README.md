@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [LLM’s Billion Dollar Problem](https://app.daily.dev/posts/41LADl5IG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [React Wheel Picker](https://app.daily.dev/posts/JFGRDS33l?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Use Python for Scripting!](https://app.daily.dev/posts/2RD0sG3m6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [AI Fluency Leveling](https://app.daily.dev/posts/v08kf9liC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [HarborFM - Self-Hosted Podcast Creator](https://app.daily.dev/posts/8XWUvzLQD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Agent Observability Powers Agent Evaluation](https://app.daily.dev/posts/ZmcjIu8ai?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [HackerOS is what a Linux enthusiast’s OS should be](https://app.daily.dev/posts/aMrspHRNE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/v9Oh4Tr0f?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [I Built a Tiny AI Agent just for fun](https://app.daily.dev/posts/UJqBwwcg1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
