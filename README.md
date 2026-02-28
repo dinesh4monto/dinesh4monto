@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [HarborFM - Self-Hosted Podcast Creator](https://app.daily.dev/posts/8XWUvzLQD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Agent Observability Powers Agent Evaluation](https://app.daily.dev/posts/ZmcjIu8ai?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [HackerOS is what a Linux enthusiast’s OS should be](https://app.daily.dev/posts/aMrspHRNE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/v9Oh4Tr0f?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [I Built a Tiny AI Agent just for fun](https://app.daily.dev/posts/UJqBwwcg1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How To Set Up Laravel, Nginx, and MySQL with Docker Compose](https://app.daily.dev/posts/NezIqJyDA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Portabase: A Lightweight Self-Hosted Database Backup Solution](https://app.daily.dev/posts/5HNbhZxB9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Warper: Rust Powered React Virtualisation Library](https://app.daily.dev/posts/SvL1JwjLf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Build Powerful Tables. Ship Faster.](https://app.daily.dev/posts/9OOEnzgqI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
