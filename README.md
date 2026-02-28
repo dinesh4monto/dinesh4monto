@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Warper: Rust Powered React Virtualisation Library](https://app.daily.dev/posts/SvL1JwjLf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Build Powerful Tables. Ship Faster.](https://app.daily.dev/posts/9OOEnzgqI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/C0nSGSSgz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Sandwich Architecture](https://app.daily.dev/posts/MwKWIwJ3s?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [A better way to update your web apps](https://app.daily.dev/posts/E3ttiNVjr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [10 Ways to Make FastAPI Blazing Fast: from Code to Production](https://app.daily.dev/posts/Nd9sgx0z6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Learn Python in 2026.](https://app.daily.dev/posts/F8Nu7Rvbd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
