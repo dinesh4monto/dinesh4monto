@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Roadmap for AI in Visual Studio &lpar;February&rpar;](https://app.daily.dev/posts/WGnqi8Tbu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [9 Advanced PostgreSQL Features I Wish I Knew Sooner](https://app.daily.dev/posts/NeZIDnBNU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Your Logs Are Lying To You](https://app.daily.dev/posts/Eq23CZgVL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [React-Admin: February 2026 Update](https://app.daily.dev/posts/FrhM2AuqR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/LtjNlj4ZS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Choosing a React Animation Library: Performance Trade-Offs in Real Apps](https://app.daily.dev/posts/JnqS7Iz41?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Why we deleted &lpar;most of&rpar; our MCP tools](https://app.daily.dev/posts/Yfq8BVbUr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/8jn36amJ6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Build a Query Builder in React 19 with Server Components and Server Actions](https://app.daily.dev/posts/ZU6jbupks?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
