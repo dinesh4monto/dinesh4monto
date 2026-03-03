@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/ARCVDPfqR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Laravel OpenAPI CLI: Generate Artisan Commands from Your API Spec](https://app.daily.dev/posts/Y8VUpOV7P?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [CachyOS: Arch Linux for All?](https://app.daily.dev/posts/QdVE1yqfx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/S646eUkOf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [floors.js: Turn your website into Habbo Hotel - one script tag](https://app.daily.dev/posts/0QP2qf1EI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Repository dashboard is now generally available](https://app.daily.dev/posts/ImUYUeSp3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Roadmap for AI in Visual Studio &lpar;February&rpar;](https://app.daily.dev/posts/WGnqi8Tbu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
