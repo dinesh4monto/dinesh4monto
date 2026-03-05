@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [vercel-labs/just-bash: Bash for Agents](https://app.daily.dev/posts/2PpRgNLgC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [The Hidden Trick of Style Queries and if&lpar;&rpar;](https://app.daily.dev/posts/0724GfChh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [A fun way to learn and master SQL!!!](https://app.daily.dev/posts/Ao4wBLOCU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Draw.io MCP for Diagram Generation: Why It’s Worth Using](https://app.daily.dev/posts/zOYNxq3fH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Our Multi-Agent Architecture for Smarter Advertising](https://app.daily.dev/posts/JXalp4JE2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [AI Assistance vs. Vibe Coding: The Two Modes of Modern Development](https://app.daily.dev/posts/TXNq3Eeop?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
