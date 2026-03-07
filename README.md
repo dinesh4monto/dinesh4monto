@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How I Created a Donor Leaderboard in WordPress &amp; Got More Donations](https://app.daily.dev/posts/RIN0Mgqye?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Introduction to Small Language Models: The Complete Guide for 2026](https://app.daily.dev/posts/ZGWty7XBM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/cuG9xeDzp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/fKu9ebwYx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Ziva.sh : AI agent built for the Godot game engine](https://app.daily.dev/posts/QXC7FalvH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Getting Started With The Popover API — Smashing Magazine](https://app.daily.dev/posts/vJbLTzl0J?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Sticky Grid Scroll: Building a Scroll-Driven Animated Grid](https://app.daily.dev/posts/rt7upSf2o?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
