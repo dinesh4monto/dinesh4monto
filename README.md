@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/cuG9xeDzp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/fKu9ebwYx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Ziva.sh : AI agent built for the Godot game engine](https://app.daily.dev/posts/QXC7FalvH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Getting Started With The Popover API — Smashing Magazine](https://app.daily.dev/posts/vJbLTzl0J?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Sticky Grid Scroll: Building a Scroll-Driven Animated Grid](https://app.daily.dev/posts/rt7upSf2o?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Introducing Lettr — Email API for Artisans](https://app.daily.dev/posts/90l3Wptz2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Delete your CLAUDE.md &lpar;and your AGENT.md too&rpar;](https://app.daily.dev/posts/D4iYVoDIX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [vercel-labs/just-bash: Bash for Agents](https://app.daily.dev/posts/2PpRgNLgC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The Hidden Trick of Style Queries and if&lpar;&rpar;](https://app.daily.dev/posts/0724GfChh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
