@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Post Mortem: Rewriting AgnosticUI with Lit Web Components – Frontend Masters Blog](https://app.daily.dev/posts/RpqI0LiF8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [OSS Pull Request Therapy: Learning to Enjoy Code Reviews with npmx](https://app.daily.dev/posts/IEKSK0lYV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Make custom elements behave with scoped registries](https://app.daily.dev/posts/kZuGMUjAQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Navigation API - a better way to navigate, is now Baseline Newly Available](https://app.daily.dev/posts/y3CA6PAEt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/BmxOnnKtn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Laravel Cloud API and CLI: Ship Faster, Automate More](https://app.daily.dev/posts/BrFOlId9r?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [React 19 Compiler: What Senior Developers Need to Know](https://app.daily.dev/posts/SMQ3UiuDW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/dG7os5nHa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Working with JS events](https://app.daily.dev/posts/9rTXXfa6w?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [VibePad: Control AI coding assistants with a gamepad from your couch](https://app.daily.dev/posts/1CJB04LQD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
