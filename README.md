@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Animating CSS position-area with View Transitions](https://app.daily.dev/posts/jsQOsaHNY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A Generator for Fancy Frames](https://app.daily.dev/posts/oMO5POblm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The Different Ways to Select &lt;html&gt; in CSS](https://app.daily.dev/posts/iYDpUo5lQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/6Z8RER3q5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [6 Best Headless CMS Platforms 2026 &lpar;Full Comparison&rpar;](https://app.daily.dev/posts/91KCvQjWf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Introducing view-transitions-mock: A non-visual Polyfill for Same-Document View Transitions](https://app.daily.dev/posts/yNBds1SgH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How we built Agent Builder’s memory system](https://app.daily.dev/posts/9xLrRFK2b?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/u2ItFo7YI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Multi-turn Evaluation &amp; Simulation: Enhancing AI Observability with MLflow for Chatbots](https://app.daily.dev/posts/opo0SmMcC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/3CvwItxlb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
