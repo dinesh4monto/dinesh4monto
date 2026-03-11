@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Animating CSS position-area with View Transitions](https://app.daily.dev/posts/jsQOsaHNY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A Generator for Fancy Frames](https://app.daily.dev/posts/oMO5POblm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Different Ways to Select &lt;html&gt; in CSS](https://app.daily.dev/posts/iYDpUo5lQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/6Z8RER3q5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [6 Best Headless CMS Platforms 2026 &lpar;Full Comparison&rpar;](https://app.daily.dev/posts/91KCvQjWf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Laravel Cloud API and CLI: Ship Faster, Automate More](https://app.daily.dev/posts/BrFOlId9r?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [React 19 Compiler: What Senior Developers Need to Know](https://app.daily.dev/posts/SMQ3UiuDW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/dG7os5nHa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
