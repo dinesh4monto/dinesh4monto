@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Introducing view-transitions-mock: A non-visual Polyfill for Same-Document View Transitions](https://app.daily.dev/posts/yNBds1SgH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How we built Agent Builder’s memory system](https://app.daily.dev/posts/9xLrRFK2b?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/u2ItFo7YI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Multi-turn Evaluation &amp; Simulation: Enhancing AI Observability with MLflow for Chatbots](https://app.daily.dev/posts/opo0SmMcC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/3CvwItxlb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/ELbONqKiU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Model::withoutRelation&lpar;&rpar; in Laravel 12.54.0](https://app.daily.dev/posts/utYYaSDYI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Offloading FFmpeg with Cloudflare](https://app.daily.dev/posts/gzqcaDRCC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/zw47srn2s?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Real-Time Decisioning and Autonomous Data Systems](https://app.daily.dev/posts/q3TpItP5u?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
