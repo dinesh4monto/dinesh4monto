@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/eOgCTU2q6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [AWS Diagram Agent Skill with Draw.io MCP](https://app.daily.dev/posts/DChraKCNo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Claude Code Computer: Anthropic just launched Computer PTC Feature &amp; IT&#39;S INSANE!](https://app.daily.dev/posts/0Sd168FyP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Navigate repositories faster with the file tree browser](https://app.daily.dev/posts/7lBZOXGHH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [A PHP Package for Concurrent Website Crawling](https://app.daily.dev/posts/Cl9osgJug?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Open-Source Alternative to Postman](https://app.daily.dev/posts/vCVSeshqX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/U1G1R35VT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [What Happens to an SQL Query?](https://app.daily.dev/posts/66Qfw80ZI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The Black Box Problem: Why AI-Generated Code Stops Being Maintainable](https://app.daily.dev/posts/7oVJC2Yg0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
