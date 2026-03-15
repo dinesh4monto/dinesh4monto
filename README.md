@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security.](https://app.daily.dev/posts/qgwTmxxim?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A Squishy Button with a Hover/Click Effect](https://app.daily.dev/posts/3Rgo6369D?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Polyscope Is an Ai-First Dev Environment for Orchestrating Agents](https://app.daily.dev/posts/NZYFH5OBT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/eOgCTU2q6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [AWS Diagram Agent Skill with Draw.io MCP](https://app.daily.dev/posts/DChraKCNo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Claude Code Computer: Anthropic just launched Computer PTC Feature &amp; IT&#39;S INSANE!](https://app.daily.dev/posts/0Sd168FyP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Navigate repositories faster with the file tree browser](https://app.daily.dev/posts/7lBZOXGHH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A PHP Package for Concurrent Website Crawling](https://app.daily.dev/posts/Cl9osgJug?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
