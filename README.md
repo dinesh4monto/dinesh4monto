@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security.](https://app.daily.dev/posts/qgwTmxxim?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A Squishy Button with a Hover/Click Effect](https://app.daily.dev/posts/3Rgo6369D?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Polyscope Is an Ai-First Dev Environment for Orchestrating Agents](https://app.daily.dev/posts/NZYFH5OBT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/eOgCTU2q6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [AWS Diagram Agent Skill with Draw.io MCP](https://app.daily.dev/posts/DChraKCNo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/BPzGx3P9g?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Tinybird, now Python-native too](https://app.daily.dev/posts/tFeYJHzz2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A modern alternative to Protobuf](https://app.daily.dev/posts/pJs7Mc54A?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [SVG Mask Transitions on Scroll with GSAP and ScrollTrigger](https://app.daily.dev/posts/9gvmG0neZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Figma MCP Builds Exactly What You Ask – Nothing More](https://app.daily.dev/posts/UAJmLMImo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
