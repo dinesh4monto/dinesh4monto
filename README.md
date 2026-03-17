@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/oVmc4aWlT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [TypeScript-first, service and actions oriented backend framework for building modern, fast, safe and AI-ready backends with simplest developer experience possible. Not REST api based, more like RPC but much more and agentic native no need for mcp!](https://app.daily.dev/posts/BVVCrSVvP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/QN6KO6ui8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Treating Prompts Like Code: A Content Engineer&#39;s AI Workflow](https://app.daily.dev/posts/7sac7kFdM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/H8NN8XpYm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The most-seen UI on the Internet? Redesigning Turnstile and Challenge Pages](https://app.daily.dev/posts/BWr8eEc0H?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/bwwoWWoC8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Cursor AI Coding Assistant Now Available in JetBrains IDEs](https://app.daily.dev/posts/Scd2iQM5O?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [3 React Three Fiber Mistakes I&#39;ll Never Make Again](https://app.daily.dev/posts/1tvcTun6E?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [SwiftUI Agent Skill - Write better code with Claude, Codex, and other AI tools](https://app.daily.dev/posts/DtSVTZ8TF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
