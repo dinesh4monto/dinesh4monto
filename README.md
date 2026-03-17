@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/BPzGx3P9g?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Tinybird, now Python-native too](https://app.daily.dev/posts/tFeYJHzz2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A modern alternative to Protobuf](https://app.daily.dev/posts/pJs7Mc54A?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [SVG Mask Transitions on Scroll with GSAP and ScrollTrigger](https://app.daily.dev/posts/9gvmG0neZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Figma MCP Builds Exactly What You Ask – Nothing More](https://app.daily.dev/posts/UAJmLMImo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/QN6KO6ui8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Treating Prompts Like Code: A Content Engineer&#39;s AI Workflow](https://app.daily.dev/posts/7sac7kFdM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/H8NN8XpYm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Use Docker Compose for Production Workloads — with Profiles, Watch Mode, and GPU Support](https://app.daily.dev/posts/wS1nE5rFm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Stop Watching Tutorials. Do This Instead](https://app.daily.dev/posts/h5L9dmth6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
