@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/oVmc4aWlT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [TypeScript-first, service and actions oriented backend framework for building modern, fast, safe and AI-ready backends with simplest developer experience possible. Not REST api based, more like RPC but much more and agentic native no need for mcp!](https://app.daily.dev/posts/BVVCrSVvP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/QN6KO6ui8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Treating Prompts Like Code: A Content Engineer&#39;s AI Workflow](https://app.daily.dev/posts/7sac7kFdM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/H8NN8XpYm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Use Docker Compose for Production Workloads — with Profiles, Watch Mode, and GPU Support](https://app.daily.dev/posts/wS1nE5rFm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Stop Watching Tutorials. Do This Instead](https://app.daily.dev/posts/h5L9dmth6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
