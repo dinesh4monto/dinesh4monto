@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [When to use WebMCP and MCP](https://app.daily.dev/posts/mcBeu419I?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How To Work with JSON in MySQL](https://app.daily.dev/posts/fma5UUgjo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Managed Databases Are Now Available in Laravel Forge](https://app.daily.dev/posts/HxUQcATZ7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [gpt-5.4 is really, really good](https://app.daily.dev/posts/AaLy7uOJs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/7D7b1EGiQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [You&#39;re Not Paid to Write Code](https://app.daily.dev/posts/V90BEtMZY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A TypeScript Class-Based WebSocket Library for React](https://app.daily.dev/posts/yEEhKI5b1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/WmthvOeT7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The most-seen UI on the Internet? Redesigning Turnstile and Challenge Pages](https://app.daily.dev/posts/BWr8eEc0H?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
