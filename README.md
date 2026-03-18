@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/7D7b1EGiQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [You&#39;re Not Paid to Write Code](https://app.daily.dev/posts/V90BEtMZY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A TypeScript Class-Based WebSocket Library for React](https://app.daily.dev/posts/yEEhKI5b1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/WmthvOeT7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [The most-seen UI on the Internet? Redesigning Turnstile and Challenge Pages](https://app.daily.dev/posts/BWr8eEc0H?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/bwwoWWoC8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Cursor AI Coding Assistant Now Available in JetBrains IDEs](https://app.daily.dev/posts/Scd2iQM5O?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [3 React Three Fiber Mistakes I&#39;ll Never Make Again](https://app.daily.dev/posts/1tvcTun6E?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [SwiftUI Agent Skill - Write better code with Claude, Codex, and other AI tools](https://app.daily.dev/posts/DtSVTZ8TF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
