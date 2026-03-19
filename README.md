@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [When to use WebMCP and MCP](https://app.daily.dev/posts/mcBeu419I?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How To Work with JSON in MySQL](https://app.daily.dev/posts/fma5UUgjo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Managed Databases Are Now Available in Laravel Forge](https://app.daily.dev/posts/HxUQcATZ7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [gpt-5.4 is really, really good](https://app.daily.dev/posts/AaLy7uOJs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/7D7b1EGiQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/CQSACATMA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Comprehension Debt — the hidden cost of AI generated code.](https://app.daily.dev/posts/WGtHjMmeD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [JavaScript Weekly Issue 776: March 10, 2026](https://app.daily.dev/posts/t1O0t6wPc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [NEW Tanstack Hotkeys Library is Amazing](https://app.daily.dev/posts/OdXzmdnzO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/jSBuztNuH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
