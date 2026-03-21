@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/n7kjXvv7W?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A proxy manager, self hostable Web dashboard for Caddy/Traefik](https://app.daily.dev/posts/bxLwZMJJL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Scaling Your QA Strategy: Why Open Source Cross Browser Testing Tools are the Future of DevSecOps](https://app.daily.dev/posts/MgcSRDcYu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [4 Reasons That Make Tailwind Great for Building Layouts](https://app.daily.dev/posts/HEivMpuXr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/y0ebSsxwp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [agile.flights: Agile died in a JIRA board - replace sprints with flights](https://app.daily.dev/posts/uMDhq4et1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Request Copilot code review from GitHub CLI](https://app.daily.dev/posts/ftsTxay4D?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Andrej Karpathy’s 630-line Python script ran 50 experiments overnight without any human input](https://app.daily.dev/posts/PJQWmdwBv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
