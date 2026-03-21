@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/fLTjnKFf9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Laravel MCP: A Complete Guide](https://app.daily.dev/posts/zxQn7CEG1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Building Dynamic Forms In React And Next.js — Smashing Magazine](https://app.daily.dev/posts/uG2WD4jcS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/RVvRweQSv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [CI/CD in Production with Jenkins](https://app.daily.dev/posts/UuuaIVETw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [4 Reasons That Make Tailwind Great for Building Layouts](https://app.daily.dev/posts/HEivMpuXr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/y0ebSsxwp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [agile.flights: Agile died in a JIRA board - replace sprints with flights](https://app.daily.dev/posts/uMDhq4et1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Request Copilot code review from GitHub CLI](https://app.daily.dev/posts/ftsTxay4D?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Andrej Karpathy’s 630-line Python script ran 50 experiments overnight without any human input](https://app.daily.dev/posts/PJQWmdwBv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
