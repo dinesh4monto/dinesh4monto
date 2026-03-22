@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Refero: Design research for humans and AI](https://app.daily.dev/posts/PGZmkkqAb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/n7kjXvv7W?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [A proxy manager, self hostable Web dashboard for Caddy/Traefik](https://app.daily.dev/posts/bxLwZMJJL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Scaling Your QA Strategy: Why Open Source Cross Browser Testing Tools are the Future of DevSecOps](https://app.daily.dev/posts/MgcSRDcYu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [4 Reasons That Make Tailwind Great for Building Layouts](https://app.daily.dev/posts/HEivMpuXr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/y0ebSsxwp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
