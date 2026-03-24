@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Refero: Design research for humans and AI](https://app.daily.dev/posts/PGZmkkqAb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/n7kjXvv7W?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A proxy manager, self hostable Web dashboard for Caddy/Traefik](https://app.daily.dev/posts/bxLwZMJJL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Scaling Your QA Strategy: Why Open Source Cross Browser Testing Tools are the Future of DevSecOps](https://app.daily.dev/posts/MgcSRDcYu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [4 Reasons That Make Tailwind Great for Building Layouts](https://app.daily.dev/posts/HEivMpuXr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Discovering Quill CRM: A Self-Hosted WordPress CRM With WhatsApp Marketing Built In](https://app.daily.dev/posts/HydBjH5Dl?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/Q9sucpyWg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [GitHub - creationix/rx: RX encoder, decoder, and CLI data tool](https://app.daily.dev/posts/msmdZhN16?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Liminal: A Browser-Based IDE for Laravel Powered by WebAssembly](https://app.daily.dev/posts/ER7oeWZFY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Awesome GitHub Copilot just got a website, and a learning hub, and plugins!](https://app.daily.dev/posts/w7baGutad?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
