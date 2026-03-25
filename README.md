@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Prism Workers AI — A Cloudflare Workers AI Provider for Prism PHP](https://app.daily.dev/posts/vbnbCooLn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [10 Things Linux Can Do That Windows Still Can’t](https://app.daily.dev/posts/noPy3jcU4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [This is a new tool I created that uses Anthropic to analyze a rep and produce 3 md files - an analysis of the codebase with suggestions to improve, an onboarding guide for new maintainers, and a claude .md file based on the repo patterns.](https://app.daily.dev/posts/w0c6128xI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/1NvmVo1p1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Accelerate Showcase: Built with AI, Designed with Stitch](https://app.daily.dev/posts/BMZXKgVaW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Un-Sass&#39;ing My CSS: Colour Functions Without Sass](https://app.daily.dev/posts/hs38T7Y8N?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
