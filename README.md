@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Unfortunately, Sprites Now Speak MCP](https://app.daily.dev/posts/KszQHY7NY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Scaling Karpathy&#39;s Autoresearch: What Happens When the Agent Gets a GPU Cluster](https://app.daily.dev/posts/HccBQAaTY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Prism Workers AI — A Cloudflare Workers AI Provider for Prism PHP](https://app.daily.dev/posts/vbnbCooLn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [10 Things Linux Can Do That Windows Still Can’t](https://app.daily.dev/posts/noPy3jcU4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [This is a new tool I created that uses Anthropic to analyze a rep and produce 3 md files - an analysis of the codebase with suggestions to improve, an onboarding guide for new maintainers, and a claude .md file based on the repo patterns.](https://app.daily.dev/posts/w0c6128xI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Core JavaScript and TypeScript Features Will Be Free in IntelliJ IDEA](https://app.daily.dev/posts/qYptuJh4r?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Someone Forked Systemd to Strip Out Its Age Verification Support](https://app.daily.dev/posts/4B1f2W6pb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Why We Need an Open Source System of Context in the AI Era](https://app.daily.dev/posts/USLxzoUGl?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Vykar is a New Open Source Backup Tool That&#39;s Faster Than Borg, Restic, and Kopia](https://app.daily.dev/posts/HctZQNGXW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A modern alternative to Protocol Buffer](https://app.daily.dev/posts/K1Dw3NIL7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
