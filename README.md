@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [GitHub - hectorvent/floci: Light, fluffy, and always free - AWS Local Emulator](https://app.daily.dev/posts/hbh0eKAmA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Why Brave is opposing Google’s Android developer registry](https://app.daily.dev/posts/T9CCrdIjY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [new.website joins forces with v0](https://app.daily.dev/posts/20Ih1mD20?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Core JavaScript and TypeScript Features Will Be Free in IntelliJ IDEA](https://app.daily.dev/posts/qYptuJh4r?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Someone Forked Systemd to Strip Out Its Age Verification Support](https://app.daily.dev/posts/4B1f2W6pb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [PHP-via : realtime PHP server, with OpenSwoole](https://app.daily.dev/posts/XRoGLrsYp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/Lox9AMdBD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/FdtIulSlI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [JavaScript for Everyone: Destructuring](https://app.daily.dev/posts/f7mQ0Z8t0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/M5QBa1Hzn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
