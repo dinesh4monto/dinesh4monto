@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Database design is a long-term decision that shapes how a system scales, evolves, and performs over time.](https://app.daily.dev/posts/xuopxUsCH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [GitHub - russellromney/turbolite: SQLite VFS with sub-50ms cold queries from S3 + page-level compression and encryption](https://app.daily.dev/posts/9ZseH6udT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/YqbhLHTeP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [NanoClaw Adopts OneCLI Agent Vault](https://app.daily.dev/posts/pqz3oMBKy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Experimenting with Starlette 1.0 with Claude skills](https://app.daily.dev/posts/VPYYe9XNN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/oXQQ8zxuy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
