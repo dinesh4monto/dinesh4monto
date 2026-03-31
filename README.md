@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Top 11 MCP-Servers EVERY Developer Should Use With Claude Code / Cursor / Codex / OpenCode](https://app.daily.dev/posts/uRBAIRvoX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How Automated Release Approvals Slashed Deployment Latency to Seconds](https://app.daily.dev/posts/3wqbfud3u?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [An Introduction to Database System Design](https://app.daily.dev/posts/yQOe7MOgI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Appoval: Ship to the App Store with confidence](https://app.daily.dev/posts/sm9ro8NNa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/db4oA9qt6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/Tv3HIQakF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/nz1Q9JYXi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Smarter Auto-Scaling for ClickHouse: The Two-Window Approach](https://app.daily.dev/posts/owDxFWfWd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/HJIIhUle4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [CSS position: sticky now sticks to the nearest scroller on a per axis basis!](https://app.daily.dev/posts/XurEtHI42?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
