@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/0rk6f8NVO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [LLMs on Kubernetes Part 1: Understanding the threat model](https://app.daily.dev/posts/WL0wr4hgF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [WebMCP and the future of the agentic web: do not leave accessibility behind – Bogdan on Digital Accessibility &lpar;A11y&rpar;](https://app.daily.dev/posts/TzpuK2A6v?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Audit Claude Platform activity with the Compliance API](https://app.daily.dev/posts/0HLlPCb2e?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [ADK Go 1.0 Arrives!](https://app.daily.dev/posts/7E16JJKCo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [New CSS Property corner-shape Is Amazing](https://app.daily.dev/posts/gCq6OtgbF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Sniffing Out the CSS Olfactive API](https://app.daily.dev/posts/wssn26gfO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Build 19 Web Dev Projects using HTML, CSS, &amp; JavaScript](https://app.daily.dev/posts/jgpeicNUh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [20+ DOM Projects: Your Frontend Breakthrough!](https://app.daily.dev/posts/qHue0Bq2M?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [TailwindCSS Gradients](https://app.daily.dev/posts/T4kr3I0PG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
