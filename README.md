@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/Tv3HIQakF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/nz1Q9JYXi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Smarter Auto-Scaling for ClickHouse: The Two-Window Approach](https://app.daily.dev/posts/owDxFWfWd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/HJIIhUle4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [CSS position: sticky now sticks to the nearest scroller on a per axis basis!](https://app.daily.dev/posts/XurEtHI42?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/0rk6f8NVO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [LLMs on Kubernetes Part 1: Understanding the threat model](https://app.daily.dev/posts/WL0wr4hgF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [WebMCP and the future of the agentic web: do not leave accessibility behind – Bogdan on Digital Accessibility &lpar;A11y&rpar;](https://app.daily.dev/posts/TzpuK2A6v?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Audit Claude Platform activity with the Compliance API](https://app.daily.dev/posts/0HLlPCb2e?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [ADK Go 1.0 Arrives!](https://app.daily.dev/posts/7E16JJKCo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
