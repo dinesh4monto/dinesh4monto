@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/VmQjZV3X7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Self-hosted, semantically-connected personal knowledge base](https://app.daily.dev/posts/4YBUk2W9G?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [New CSS Property corner-shape Is Amazing](https://app.daily.dev/posts/gCq6OtgbF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Sniffing Out the CSS Olfactive API](https://app.daily.dev/posts/wssn26gfO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Build 19 Web Dev Projects using HTML, CSS, &amp; JavaScript](https://app.daily.dev/posts/jgpeicNUh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [20+ DOM Projects: Your Frontend Breakthrough!](https://app.daily.dev/posts/qHue0Bq2M?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
