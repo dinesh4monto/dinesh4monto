@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Anatomy of the .claude/ Folder](https://app.daily.dev/posts/W3QywngzO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Log User Activity in Your Laravel App with Activity Log v5](https://app.daily.dev/posts/vYESRvPGN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/TfAHZbQRz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/UjBsvfRxN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Introducing Embedded Dives](https://app.daily.dev/posts/fFBffJdhV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [GitHub - cockpit-project/cockpit: Cockpit is a web-based graphical interface for servers.](https://app.daily.dev/posts/n7cTPJQQa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Open-source infrastructure for Computer-Use Agents](https://app.daily.dev/posts/IPq08jStw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Ship AI with Laravel: Smart Ticket Triage with Structured Output](https://app.daily.dev/posts/EX8biAh25?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
