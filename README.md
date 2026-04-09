@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Pretty PHP Info: A Modern Replacement for `phpinfo&lpar;&rpar;`](https://app.daily.dev/posts/6xWZe33ye?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [From Laravel Forge to Cloud: How Filament 3xed Performance](https://app.daily.dev/posts/4baK2GQz1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A React PDF component library with pre-built, themeable components and a CLI for seamless PDF document creation.](https://app.daily.dev/posts/2IT87rSTf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/UxwbDYBPb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Patterns of Knowing in Product Design](https://app.daily.dev/posts/lQ7SZYV4w?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The Software Architect Elevator](https://app.daily.dev/posts/G2iabjsxE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/grDegJwwd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Announcing KiloClaw for Organizations](https://app.daily.dev/posts/KCzMPGNnq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/1cc4X4Ijz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
