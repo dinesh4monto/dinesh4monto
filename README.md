@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Chrome for Developers](https://app.daily.dev/posts/noBq5gD0X?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/OFzKem1iN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/1jUynJRAs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/xT3wM827H?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [New Animation Backend, TextInput Selection Data, New Jest Preset Package · React Native](https://app.daily.dev/posts/7cduOZRz2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/f3AStOu12?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Ship AI with Laravel: Stop Your AI Agent from Guessing](https://app.daily.dev/posts/f6aY5lFae?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
