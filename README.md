@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Build Your Own Custom Agents](https://app.daily.dev/posts/lscJDEjOJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Practical CSS: Combining :has, :not, :only-child and :placeholder-shown pseudo-classes](https://app.daily.dev/posts/5GVvBFf0w?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [King turns PHP into a systems platform for transport-heavy, realtime, infrastructure-aware software.](https://app.daily.dev/posts/valm0aRif?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [You, too, can make a boilerplate](https://app.daily.dev/posts/4sbVMezFU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/0gjwvEcCi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Comparing Arrays, And Objects](https://app.daily.dev/posts/klTAW32Ab?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [GitHub - mohshomis/modo](https://app.daily.dev/posts/oKeVJOl8d?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Keith Cirkel – Frontend Masters Blog](https://app.daily.dev/posts/zB80ChCmx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
