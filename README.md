@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Build Your Own Custom Agents](https://app.daily.dev/posts/lscJDEjOJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Practical CSS: Combining :has, :not, :only-child and :placeholder-shown pseudo-classes](https://app.daily.dev/posts/5GVvBFf0w?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [King turns PHP into a systems platform for transport-heavy, realtime, infrastructure-aware software.](https://app.daily.dev/posts/valm0aRif?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [You, too, can make a boilerplate](https://app.daily.dev/posts/4sbVMezFU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/0gjwvEcCi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/5QMNEEFk7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Your parallel Agent limit](https://app.daily.dev/posts/ZuEYJwbbQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A blazing fast, spec-compliant PHP implementation of Handlebars.](https://app.daily.dev/posts/LtzAWVWAn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [OpenChoreo: The Open Source Internal Developer Platform That Gets the Plane Architecture Right](https://app.daily.dev/posts/86k7Cf1Ff?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Fine-Tune LLMs and Deploy Private Endpoints using Claude Code or Cursor](https://app.daily.dev/posts/cfasshW53?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
