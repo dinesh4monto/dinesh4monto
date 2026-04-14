@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Refactor what you have. Launch it. Let the architecture evolve under the pressure of actual users. The codebase doesn&#39;t need to be perfect. It needs to exist.](https://app.daily.dev/posts/rRR2EUV2w?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Convert Complex SVG Shapes into CSS](https://app.daily.dev/posts/VemvALKcB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Why we used STOMP with WebSocket?](https://app.daily.dev/posts/XdftJXwVn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [GitHub - fabienmillet/WiiFin: Jellyfin Client for Wii](https://app.daily.dev/posts/6883awQqN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/5QMNEEFk7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Your parallel Agent limit](https://app.daily.dev/posts/ZuEYJwbbQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A blazing fast, spec-compliant PHP implementation of Handlebars.](https://app.daily.dev/posts/LtzAWVWAn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [OpenChoreo: The Open Source Internal Developer Platform That Gets the Plane Architecture Right](https://app.daily.dev/posts/86k7Cf1Ff?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Fine-Tune LLMs and Deploy Private Endpoints using Claude Code or Cursor](https://app.daily.dev/posts/cfasshW53?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
