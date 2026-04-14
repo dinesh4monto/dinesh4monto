@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [7 View Transitions Recipes to Try](https://app.daily.dev/posts/bfznoVSS9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [I use Claude Pro every day, and it has nothing to do with coding](https://app.daily.dev/posts/gvJRA4ft4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Refactor what you have. Launch it. Let the architecture evolve under the pressure of actual users. The codebase doesn&#39;t need to be perfect. It needs to exist.](https://app.daily.dev/posts/rRR2EUV2w?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Convert Complex SVG Shapes into CSS](https://app.daily.dev/posts/VemvALKcB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Why we used STOMP with WebSocket?](https://app.daily.dev/posts/XdftJXwVn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [GitHub - fabienmillet/WiiFin: Jellyfin Client for Wii](https://app.daily.dev/posts/6883awQqN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/5QMNEEFk7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
