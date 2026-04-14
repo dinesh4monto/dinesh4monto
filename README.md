@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Using the ADR &lpar;Action/Domain/Responder&rpar; Pattern in Laravel](https://app.daily.dev/posts/d0owJar0x?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/q34UY12bB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Lovable + Databricks: Build Data-Driven Apps at the Speed of Thought](https://app.daily.dev/posts/qUTjXWJCR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [7 View Transitions Recipes to Try](https://app.daily.dev/posts/bfznoVSS9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [I use Claude Pro every day, and it has nothing to do with coding](https://app.daily.dev/posts/gvJRA4ft4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/BtjlcPK4X?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [AwesomeDesign-md + OpenCode,Claude: This OPENSOURCE Design System is SO EASY &amp; SO GOOD!](https://app.daily.dev/posts/xg31jOOpC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Introducing our open source AI-native SAST](https://app.daily.dev/posts/UFkhZq6E7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [GitHub - kitfunso/hippo-memory: Biologically-inspired memory for AI agents. Decay, retrieval strengthening, consolidation. Zero dependencies.](https://app.daily.dev/posts/xadFL5Z11?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/NWdtmH2Rt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
