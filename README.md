@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [A tool to produce types in 9 languages &lpar;No PHP, any volunteer?&rpar;](https://app.daily.dev/posts/j3MfEl5DD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [daily.dev is now on Telegram](https://app.daily.dev/posts/DOvo2Gik0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/3RbjtYnFG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Redis Cluster Support for Queues in Laravel 13.5.0](https://app.daily.dev/posts/A2VjZx26m?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [HTMX 4.0: Hypermedia finds a new gear](https://app.daily.dev/posts/swV18AJZs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Now, multiple Android emulator devices can communicate with each other out of the box using network capabilities. Just update your emulator to 36.5 &lpar;latest version&rpar;.](https://app.daily.dev/posts/t0xzhmLWu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Netflix open-sources VOID, a video object removal model that accounts for physical interactions](https://app.daily.dev/posts/51g1PE5hL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [OpenVid: The Open-Source Studio to Create Cinematic Demos in Your Browser](https://app.daily.dev/posts/E9PNA46PZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Free open-source bookmark manager with customisable nested tags. Superfast and lightweight. All data is stored locally.](https://app.daily.dev/posts/MBbqa9BwC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Interesting](https://app.daily.dev/posts/HXhruzQjZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
