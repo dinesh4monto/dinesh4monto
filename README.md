@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [pGenie — SQL-first tooling for PostgreSQL](https://app.daily.dev/posts/bwW5XntlE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/pzfEnKWd6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [GitHub - xataio/xata: Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero](https://app.daily.dev/posts/umuLKVho5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [GitHub - brightbeanxyz/brightbean-studio: Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternat](https://app.daily.dev/posts/LtTV3q90b?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/txa5llRWy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/UYOVWTIGU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Now, multiple Android emulator devices can communicate with each other out of the box using network capabilities. Just update your emulator to 36.5 &lpar;latest version&rpar;.](https://app.daily.dev/posts/t0xzhmLWu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Netflix open-sources VOID, a video object removal model that accounts for physical interactions](https://app.daily.dev/posts/51g1PE5hL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
