@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/sGdJJKwK5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/8DHDUODOt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [How to Build an Admin Dashboard Sidebar with shadcn/ui and Base UI](https://app.daily.dev/posts/GbxKPsJCk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [OpenShell is the safe, private runtime for autonomous AI agents.](https://app.daily.dev/posts/m0jCgumlZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Register domains wherever you build: Cloudflare Registrar API now in beta](https://app.daily.dev/posts/1T5tM8uN4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Don’t Trust Password Managers? HIPPO May Be The Answer!](https://app.daily.dev/posts/kCAUytXqx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/RwKFrCeIr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
