@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [AI Generative Engine Optimization for Laravel](https://app.daily.dev/posts/LDr3VzKqb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [pGenie — SQL-first tooling for PostgreSQL](https://app.daily.dev/posts/bwW5XntlE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/pzfEnKWd6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [GitHub - xataio/xata: Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero](https://app.daily.dev/posts/umuLKVho5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [GitHub - brightbeanxyz/brightbean-studio: Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternat](https://app.daily.dev/posts/LtTV3q90b?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Build an Admin Dashboard Sidebar with shadcn/ui and Base UI](https://app.daily.dev/posts/GbxKPsJCk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [OpenShell is the safe, private runtime for autonomous AI agents.](https://app.daily.dev/posts/m0jCgumlZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Register domains wherever you build: Cloudflare Registrar API now in beta](https://app.daily.dev/posts/1T5tM8uN4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Don’t Trust Password Managers? HIPPO May Be The Answer!](https://app.daily.dev/posts/kCAUytXqx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/RwKFrCeIr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
