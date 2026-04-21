@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Using CSS vars to style SVG symbols](https://app.daily.dev/posts/yQXm01FdX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/xwKwfoXhh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/csBITVH9c?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [What is AIOps?](https://app.daily.dev/posts/tOO6n6O38?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More](https://app.daily.dev/posts/6q4L9bXaf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A small, storage-agnostic audit trail module for NestJS.
+
+If you need a reliable record of who did what, when, and what changed - without coupling your app to a specific database or ORM - this is for you.](https://app.daily.dev/posts/D83zRZefd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Karpathy-Skill + Claude Code,OpenCode: This SIMPLE ONE-FILE SKILL Makes YOUR AI CODER WAY BETTER!](https://app.daily.dev/posts/jPyChZYfp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Agent React DevTools: Debug React Apps with AI Agents](https://app.daily.dev/posts/GVsSIV3jy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [My first tool written in Ruby, enjoy!](https://app.daily.dev/posts/skNrOBOsU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Level up CSS transitions with cubic-bezier](https://app.daily.dev/posts/gZPGsDNVG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
