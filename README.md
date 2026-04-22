@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Roster of design tools per block &lpar;WordPress 7.0 edition&rpar;](https://app.daily.dev/posts/9PhqyOkeu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A small, storage-agnostic audit trail module for NestJS.
-
-If you need a reliable record of who did what, when, and what changed - without coupling your app to a specific database or ORM - this is for you.](https://app.daily.dev/posts/D83zRZefd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Karpathy-Skill + Claude Code,OpenCode: This SIMPLE ONE-FILE SKILL Makes YOUR AI CODER WAY BETTER!](https://app.daily.dev/posts/jPyChZYfp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Agent React DevTools: Debug React Apps with AI Agents](https://app.daily.dev/posts/GVsSIV3jy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [My first tool written in Ruby, enjoy!](https://app.daily.dev/posts/skNrOBOsU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/glVlEnSMf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [90+ min React Native crash course. Build a complete mobile app.](https://app.daily.dev/posts/xunujLYMg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [RBAC in Laravel: A Practical Deep Dive](https://app.daily.dev/posts/XPwqltXXL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How LinkedIn Feed Uses LLMs to Serve 1.3 Billion Users](https://app.daily.dev/posts/WymxieZwF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A desktop terminal built for day-to-day remote access - uTerminal](https://app.daily.dev/posts/HnElG0Yxj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
