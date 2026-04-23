@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Introducing Parallel Agents in Zed — Zed&#39;s Blog](https://app.daily.dev/posts/o95ES5VYU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Laravel API Starter Kits Are Coming Soon!](https://app.daily.dev/posts/3zaGbZWiZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [A browser extension that turns any web page into clean, readable Markdown in one click. It removes clutter, extracts main content, and formats it for easy reading and AI workflows, with export and customization options.](https://app.daily.dev/posts/JwTgYrRGc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Debounceable Queued Jobs in Laravel 13.6.0](https://app.daily.dev/posts/pO9iFu40t?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/glVlEnSMf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [90+ min React Native crash course. Build a complete mobile app.](https://app.daily.dev/posts/xunujLYMg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
