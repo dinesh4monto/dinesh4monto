@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Introducing o11y-bench: an open benchmark for AI agents running observability workflows](https://app.daily.dev/posts/psucsA908?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Introducing the Builders Hub from the Google Developer Program](https://app.daily.dev/posts/2c6zhKrH1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/pHxFtwDSY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/VTXWboQiY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Introducing Parallel Agents in Zed — Zed&#39;s Blog](https://app.daily.dev/posts/o95ES5VYU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Laravel Cloud Pre-Check: Is Your App Ready to Deploy?](https://app.daily.dev/posts/2kMXUIawS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/5vrWweVxF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Warning: containment breach in cascade layer!](https://app.daily.dev/posts/rXKfWmmWX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [WordPress Media Library Organization No Longer Needs Three Plugins](https://app.daily.dev/posts/NWFRKH09u?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Trimming our CSS with sibling-index&lpar;&rpar; and sibling-count&lpar;&rpar;](https://app.daily.dev/posts/N88D0RCeJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
