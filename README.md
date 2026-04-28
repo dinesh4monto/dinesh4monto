@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Laravel Cloud Pre-Check: Is Your App Ready to Deploy?](https://app.daily.dev/posts/2kMXUIawS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/5vrWweVxF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Warning: containment breach in cascade layer!](https://app.daily.dev/posts/rXKfWmmWX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [WordPress Media Library Organization No Longer Needs Three Plugins](https://app.daily.dev/posts/NWFRKH09u?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Trimming our CSS with sibling-index&lpar;&rpar; and sibling-count&lpar;&rpar;](https://app.daily.dev/posts/N88D0RCeJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Kubernetes, reimplemented in Rust.](https://app.daily.dev/posts/cPld8ZZsg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Best Headless CMS for Marketers &amp; Content Teams &lpar;2026&rpar;](https://app.daily.dev/posts/oxm1yAwpx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [CSS Recently In All Browsers · April 26, 2026](https://app.daily.dev/posts/kePfATjko?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Emacs is my browser](https://app.daily.dev/posts/vQyDAM9i1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Design system inspirations from popular websites.
+Drop one into your project and let coding agents build matching UI.](https://app.daily.dev/posts/r9rIBkWY6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
