@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Urgent: Testing request to Web hosts for collaborative editing by May 4th](https://app.daily.dev/posts/aikIHpK5G?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/xJXYqkm5r?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Craft 6 and Laravel: What You Need To Know](https://app.daily.dev/posts/CMM8DAtFU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [statgrab 2.2: cross-platform system stats for PHP](https://app.daily.dev/posts/ItAqGSpN4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Kubernetes, reimplemented in Rust.](https://app.daily.dev/posts/cPld8ZZsg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Scroll-Driven Animations • Josh W. Comeau](https://app.daily.dev/posts/E7CUR5phA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/CgBqiDfoz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Learn WordPress block themes and Full Site Editing](https://app.daily.dev/posts/CQklDypY7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Hermes Agent - The Openclaw Killer?](https://app.daily.dev/posts/jaTxYVoAZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [New to the web platform in April](https://app.daily.dev/posts/CrM1I78TM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
