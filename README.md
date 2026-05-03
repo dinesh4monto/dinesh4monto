@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/TGWSdrVIR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [From MCP to Agent Skills: Teaching Your AI Agents to Actually Do Analytics](https://app.daily.dev/posts/Res1qlUJx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/Farl512ED?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The 20 Software Engineering Laws](https://app.daily.dev/posts/OwJ1EUvuI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Debugging Performance in PHP](https://app.daily.dev/posts/4dlL06a7G?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Icons that senior designers use](https://app.daily.dev/posts/k0Q1n6J3Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Your WordPress Aggregator Site Is Now an AI Product](https://app.daily.dev/posts/82FTJNAdI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp](https://app.daily.dev/posts/gcu2PbiTK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [OpenSail is the open-source alternative to Codex App, Claude Desktop, Cursor, and Cowork for agentic software work.](https://app.daily.dev/posts/X8B4AkEoe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/PPtz794kD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
