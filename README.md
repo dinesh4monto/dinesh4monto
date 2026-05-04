@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Icons that senior designers use](https://app.daily.dev/posts/k0Q1n6J3Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Your WordPress Aggregator Site Is Now an AI Product](https://app.daily.dev/posts/82FTJNAdI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp](https://app.daily.dev/posts/gcu2PbiTK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [OpenSail is the open-source alternative to Codex App, Claude Desktop, Cursor, and Cowork for agentic software work.](https://app.daily.dev/posts/X8B4AkEoe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/PPtz794kD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/br8DNkaaY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Use PostgreSQL as a Cache, Queue, and Search Engine](https://app.daily.dev/posts/yKurnyxGC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [awesome design skills for claude design, google stitch, codex, etc](https://app.daily.dev/posts/cFbVVbkM8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/Evt47j33d?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Laravel Cloud Pre-Check: a free static analysis tool for deployment compatibility](https://app.daily.dev/posts/ipQsDFsQW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
