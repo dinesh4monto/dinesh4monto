@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/br8DNkaaY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Use PostgreSQL as a Cache, Queue, and Search Engine](https://app.daily.dev/posts/yKurnyxGC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [awesome design skills for claude design, google stitch, codex, etc](https://app.daily.dev/posts/cFbVVbkM8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/Evt47j33d?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Laravel Cloud Pre-Check: a free static analysis tool for deployment compatibility](https://app.daily.dev/posts/ipQsDFsQW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [An open-source game server management panel built in Rust](https://app.daily.dev/posts/HWfLmSI2j?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/MIpXPMJgs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [AI sandboxing is having its Kubernetes moment](https://app.daily.dev/posts/V0gH4B1qc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Open Source alternative to Claude Design](https://app.daily.dev/posts/6YZg6FTjN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No more fighting with garbage mattes or agonizing over &quot;core&quot; vs &quot;edge&quot; keys. Give CorridorKey a hint of what you want, and it separates the light for you.](https://app.daily.dev/posts/dxPSL7jlU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
