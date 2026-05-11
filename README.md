@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Running Your Own 3G Network](https://app.daily.dev/posts/FpZIVFNIW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](https://app.daily.dev/posts/OjGH64fzD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Learn React With This One Project](https://app.daily.dev/posts/zK4dMzFaQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Laravel - The clean stack for Artisans and agents](https://app.daily.dev/posts/c3Cowgih4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [CSS `n of` Selectors for Conditional Validation – Frontend Masters Blog](https://app.daily.dev/posts/wsA8a9F2p?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/fny9IQT9l?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Scaling AI-Driven Conversations from 10K to 100K](https://app.daily.dev/posts/FDnAIoxXI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
