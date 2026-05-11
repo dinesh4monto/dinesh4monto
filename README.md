@@ -1,11 +1,23 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Running Your Own 3G Network](https://app.daily.dev/posts/FpZIVFNIW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](https://app.daily.dev/posts/OjGH64fzD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Learn React With This One Project](https://app.daily.dev/posts/zK4dMzFaQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Laravel - The clean stack for Artisans and agents](https://app.daily.dev/posts/c3Cowgih4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [CSS `n of` Selectors for Conditional Validation – Frontend Masters Blog](https://app.daily.dev/posts/wsA8a9F2p?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [CakePHP AuditStash 2.0: Beyond CRUD – DerEuroMark](https://app.daily.dev/posts/bM1VXl2nd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [over 85 ui prompts for website layouts
+
+
+for example you need a contact or hero section
+
+
+choose the layout that you like, copy it and then paste it to any AI tool
+
+
+it will generate the same positioning
+
+
+can be great to save tokens and for ideas](https://app.daily.dev/posts/B1FpRXFTx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.](https://app.daily.dev/posts/4Zd0Xf7yR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [CSS sibling-index&lpar;&rpar; and sibling-count&lpar;&rpar;: Native List Staggering Without JavaScript](https://app.daily.dev/posts/bsxH6wLwK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/XS6jq5pfR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
