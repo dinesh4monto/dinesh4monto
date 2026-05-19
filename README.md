@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Laravel Introduces First-Party Passkey Authentication Support](https://app.daily.dev/posts/cZtCcOWtr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [8/30 Days System Design Questions!](https://app.daily.dev/posts/V5UPaGnwH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Model-Based Scheduling for Laravel with Cadence](https://app.daily.dev/posts/IQd9sSy8s?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Laravel&#39;s AI SDK adds sub-agents](https://app.daily.dev/posts/0wunpifv2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/G2S3s1gk9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/Ykga0TCBe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [ChubbyPHP release a PHP port of JavaScript&#39;s Array API with TypeScript-style generics.](https://app.daily.dev/posts/j5c64UYo2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [My Laravel Package Idea for &quot;Data Stress&quot;: I Need Advice](https://app.daily.dev/posts/UgzeswVNi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Integration testing our Laravel package with a real server and queue](https://app.daily.dev/posts/vttdo2Qky?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Run Your Entire Dev Stack With One Click](https://app.daily.dev/posts/oCaqZKVxv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
