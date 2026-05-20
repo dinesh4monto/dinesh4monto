@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/Ykga0TCBe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [ChubbyPHP release a PHP port of JavaScript&#39;s Array API with TypeScript-style generics.](https://app.daily.dev/posts/j5c64UYo2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [My Laravel Package Idea for &quot;Data Stress&quot;: I Need Advice](https://app.daily.dev/posts/UgzeswVNi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Integration testing our Laravel package with a real server and queue](https://app.daily.dev/posts/vttdo2Qky?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Run Your Entire Dev Stack With One Click](https://app.daily.dev/posts/oCaqZKVxv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/NFbSIhgNm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [14/30 Days System Design Questions!](https://app.daily.dev/posts/E9ilUx9AK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Ship AI with Laravel: Real-Time Streaming Chat UI with Livewire](https://app.daily.dev/posts/GCpELvMiU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Google I/O 2026 introduces the ‘Agentic Web’ era with major Chrome updates](https://app.daily.dev/posts/HxOiTszHv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Timing Attack in Laravel in 2022](https://app.daily.dev/posts/5nQkqQKuc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
