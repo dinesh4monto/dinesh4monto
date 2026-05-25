@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [HeroUI V3: The modern UI library for web and mobile](https://app.daily.dev/posts/htlZJIFWt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/xsAr99DQV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Piper: Laravel-Style Array and String Helpers for PHP&#39;s Pipe Operator](https://app.daily.dev/posts/ICLwpB2a0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [WordPress 7.0: What&#39;s new and what it means for developers](https://app.daily.dev/posts/bXTUg3jP5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/NFbSIhgNm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [14/30 Days System Design Questions!](https://app.daily.dev/posts/E9ilUx9AK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Ship AI with Laravel: Real-Time Streaming Chat UI with Livewire](https://app.daily.dev/posts/GCpELvMiU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Google I/O 2026 introduces the ‘Agentic Web’ era with major Chrome updates](https://app.daily.dev/posts/HxOiTszHv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Timing Attack in Laravel in 2022](https://app.daily.dev/posts/5nQkqQKuc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
