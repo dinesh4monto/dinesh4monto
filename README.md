@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Copilot Spaces API now generally available](https://app.daily.dev/posts/PB62P5bkX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Claw Patrol: an open-source security firewall for agents](https://app.daily.dev/posts/FAp3reIMU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The State of CSS Centering in 2026](https://app.daily.dev/posts/Dcs6zFNVH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/B6ZEDI99u?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Architecture as a code](https://app.daily.dev/posts/0MMivgzhL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/zlu0yrsGN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/NFmS3OpaO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [An important update: Transitioning Gemini CLI to Antigravity CLI](https://app.daily.dev/posts/NFvn6aCw2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [React motion-first icons - Animateicons.in](https://app.daily.dev/posts/EXGpktyVn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Big AI &amp; Design Systems Course updates!](https://app.daily.dev/posts/5k5oTG8FX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
