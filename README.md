@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Spec-Driven Development: Why AI Is Bringing an Old Software Engineering Idea Back to Life](https://app.daily.dev/posts/jEFbpvuOQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Anthropic&#39;s Mythos 1 surfaces, DeepSeek builds its own Claude Code](https://app.daily.dev/posts/9Z2ILajWg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [HubSpot Developers](https://app.daily.dev/posts/qxm2l4Hu2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://app.daily.dev/posts/ERrwGuBsE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [My personal dotfiles, Linux, MacOs, and Windows](https://app.daily.dev/posts/SaYmPoE3u?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Technical Writing in the AI Age](https://app.daily.dev/posts/8Nv7RdFJb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
