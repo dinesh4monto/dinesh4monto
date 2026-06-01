@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [How I Made a 21-Second Query Run in 0.07 Seconds](https://app.daily.dev/posts/88EdxIxg3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Spec-Driven Development: Why AI Is Bringing an Old Software Engineering Idea Back to Life](https://app.daily.dev/posts/jEFbpvuOQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Anthropic&#39;s Mythos 1 surfaces, DeepSeek builds its own Claude Code](https://app.daily.dev/posts/9Z2ILajWg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [HubSpot Developers](https://app.daily.dev/posts/qxm2l4Hu2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/ERrwGuBsE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Encrypt Kubernetes Traffic with cert-manager, Let&#39;s Encrypt, and Internal TLS](https://app.daily.dev/posts/9ZjO9p9lM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Figma Make, now on your local code](https://app.daily.dev/posts/Zq8sm0OB2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/oiPWnNi6g?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/TMaCZkiNF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [This week: how to structure complex React apps, combine TanStack Router with Query, harden your npm packages, build stable streaming UIs, and write better Claude prompts.](https://app.daily.dev/posts/fA7DMDZd7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
