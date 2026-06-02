@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [How to Encrypt Kubernetes Traffic with cert-manager, Let&#39;s Encrypt, and Internal TLS](https://app.daily.dev/posts/9ZjO9p9lM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Figma Make, now on your local code](https://app.daily.dev/posts/Zq8sm0OB2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/oiPWnNi6g?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/TMaCZkiNF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [This week: how to structure complex React apps, combine TanStack Router with Query, harden your npm packages, build stable streaming UIs, and write better Claude prompts.](https://app.daily.dev/posts/fA7DMDZd7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [::search-text](https://app.daily.dev/posts/c51Fk3h81?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A content moderation and text filtering library](https://app.daily.dev/posts/ne4Cjz2cc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Shift + AI = Fully Automated Laravel Upgrades](https://app.daily.dev/posts/62LuITd3E?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/tfIKOncDQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [NativePHP: My Android App is on Play Store! &lpar;+new YouTube channel&rpar;](https://app.daily.dev/posts/paABiES8s?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
