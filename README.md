@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [::search-text](https://app.daily.dev/posts/c51Fk3h81?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A content moderation and text filtering library](https://app.daily.dev/posts/ne4Cjz2cc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Shift + AI = Fully Automated Laravel Upgrades](https://app.daily.dev/posts/62LuITd3E?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/tfIKOncDQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [NativePHP: My Android App is on Play Store! &lpar;+new YouTube channel&rpar;](https://app.daily.dev/posts/paABiES8s?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/GNcvVk3jF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/lw7zR7vrk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [offset-path](https://app.daily.dev/posts/yqS81Ndko?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Collection of the most essential transitions for web apps that
+you can just copy and paste into any project.](https://app.daily.dev/posts/Jds66yKIY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [BoxBox: The file manager your homelab deserves.](https://app.daily.dev/posts/kqZuuXBQK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
