@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/GNcvVk3jF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/lw7zR7vrk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [offset-path](https://app.daily.dev/posts/yqS81Ndko?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Collection of the most essential transitions for web apps that
-you can just copy and paste into any project.](https://app.daily.dev/posts/Jds66yKIY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [BoxBox: The file manager your homelab deserves.](https://app.daily.dev/posts/kqZuuXBQK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [AI and Human](https://app.daily.dev/posts/ifFf3Y4j4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Docker Sandboxes and microVMs, explained](https://app.daily.dev/posts/ly8mg0OeL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [COSMIC Desktop&#39;s Frosted Glass Is Giving Windows Aero Vibes](https://app.daily.dev/posts/umnnF8wI0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Orca is the next-gen IDE for working with a fleet of parallel agents.](https://app.daily.dev/posts/WgNxcBp0L?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How To Build A Production Ready API - Auth, JWT, API Keys](https://app.daily.dev/posts/wm0Z1pBzm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
