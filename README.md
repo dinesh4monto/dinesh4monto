@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [AI and Human](https://app.daily.dev/posts/ifFf3Y4j4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Docker Sandboxes and microVMs, explained](https://app.daily.dev/posts/ly8mg0OeL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [COSMIC Desktop&#39;s Frosted Glass Is Giving Windows Aero Vibes](https://app.daily.dev/posts/umnnF8wI0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Orca is the next-gen IDE for working with a fleet of parallel agents.](https://app.daily.dev/posts/WgNxcBp0L?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How To Build A Production Ready API - Auth, JWT, API Keys](https://app.daily.dev/posts/wm0Z1pBzm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [array_unique&lpar;&rpar; is slow](https://app.daily.dev/posts/zdzUODNmo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Introducing Frank: supercharged Laravel Sail alternative for local Docker development](https://app.daily.dev/posts/sW2K0DDIu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/Hh41waerf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Coding on Paper](https://app.daily.dev/posts/XmegarcgL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/4owNcXyzw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
