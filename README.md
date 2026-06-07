@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Forward: Installs your API into a customer&#39;s codebase in one command](https://app.daily.dev/posts/39vCpCNaQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/BxwIBl1MD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [OpenCV 5.0 Released With Rewritten DNN Engine, Built-In LLM &amp; VLM Support](https://app.daily.dev/posts/DYZHCh3c7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A live request profiler for Laravel](https://app.daily.dev/posts/ujY6hAMnq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/g5shHiSBB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/rCclkTxKg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [@custom-media](https://app.daily.dev/posts/Jr7G58BdX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/Bl7zXXib3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Microsoft releases Intelligent Terminal 0.1, an AI-integrated fork of Windows Terminal](https://app.daily.dev/posts/HJNgdFJBx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Way We Do Engineering Has Changed - It&#39;s Agentic Engineering Now!](https://app.daily.dev/posts/6TL6SGnGs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
