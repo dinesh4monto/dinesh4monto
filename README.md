@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/rCclkTxKg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [@custom-media](https://app.daily.dev/posts/Jr7G58BdX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/Bl7zXXib3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Microsoft releases Intelligent Terminal 0.1, an AI-integrated fork of Windows Terminal](https://app.daily.dev/posts/HJNgdFJBx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The Way We Do Engineering Has Changed - It&#39;s Agentic Engineering Now!](https://app.daily.dev/posts/6TL6SGnGs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Creating a Thumbnail Flow Animation with GSAP MotionPath](https://app.daily.dev/posts/6vv0fx8rf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Run OpenChoreo Locally in Minutes using Docker!](https://app.daily.dev/posts/bwuaDR9Qx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/YbkqIbv12?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Docker Full Course 2026](https://app.daily.dev/posts/6XJKy3EDS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Job Searcher](https://app.daily.dev/posts/jNnQ5LuQJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
