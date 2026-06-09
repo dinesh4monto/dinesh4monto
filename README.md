@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Creating a Thumbnail Flow Animation with GSAP MotionPath](https://app.daily.dev/posts/6vv0fx8rf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Run OpenChoreo Locally in Minutes using Docker!](https://app.daily.dev/posts/bwuaDR9Qx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/YbkqIbv12?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Docker Full Course 2026](https://app.daily.dev/posts/6XJKy3EDS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Job Searcher](https://app.daily.dev/posts/jNnQ5LuQJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [MagicSync Open source not just a simple social media management tool](https://app.daily.dev/posts/PPjg5sO8e?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [10 weird OSS projects you need to know about...](https://app.daily.dev/posts/QzOxpVMOb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/C95Vfzogz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [GitHub Copilot app: The agent-native desktop experience](https://app.daily.dev/posts/wcMFud14a?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!](https://app.daily.dev/posts/RcWk9Rx9j?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
