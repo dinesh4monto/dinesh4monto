@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Edge-to-Edge and DevTools Improvements, no breaking changes · React Native](https://app.daily.dev/posts/PrfpRVMPQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Subscriptionify: Feature-Based Subscription Management for Laravel](https://app.daily.dev/posts/uEauxmSmi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/JohlhRqN6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://app.daily.dev/posts/S2BiRRqHp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No Two Paths Alike: Inside San Rita’s Approach to Digital Experiences](https://app.daily.dev/posts/MgBzZMUIG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/eXaxg20AA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [You&#39;re Using React Compound Components Wrong](https://app.daily.dev/posts/GO30pwGo5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Give Your AI Agent Access to Google Search Console](https://app.daily.dev/posts/qLj9nlk5a?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Firefox is easier than ever to customize](https://app.daily.dev/posts/QwFJhXU8l?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/LH95vJpEf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
