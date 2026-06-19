@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Issue #746: The scope superpower hiding in CSS @function — Frontend Focus](https://app.daily.dev/posts/nYAfJWmGw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Always Building, Always Learning: Cyd Stumpel’s Journey Through the Modern Web](https://app.daily.dev/posts/o91CdImD7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Feature Flags in Laravel with Pennant](https://app.daily.dev/posts/eWWHKpGJN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Performance Has Layers](https://app.daily.dev/posts/egA2gCRnH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [This was CSS Day 2026 - a dive in CSS geekism](https://app.daily.dev/posts/AD462RIbM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/xncUtylmW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Ship AI with Laravel: Give Your AI Agent Live Web Search](https://app.daily.dev/posts/VO5x6uGDo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/ghZeuywYz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://app.daily.dev/posts/Y0HwKy7S3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Meet Melia: A Privacy-First, Modern Desktop Email Client Made Just for Linux](https://app.daily.dev/posts/jReZgcMSv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
