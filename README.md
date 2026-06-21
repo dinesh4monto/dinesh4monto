@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/f3bOPZoRc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Alignment in CSS Grid Lanes](https://daily.dev/posts/T2tUbDQWC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/QpGxZaltN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Building a design system specced for engineers and agents—Martian Chronicles, Evil Martians’ team blog](https://daily.dev/posts/crEvTJA50?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/5usoJZGEN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/j2HNegj3L?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server](https://daily.dev/posts/TJ5B8Zx48?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [AI is code – and can&#39;t be prompted into being smarter](https://daily.dev/posts/D7zxiNwoE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [UI Skills is a collection of design-engineering skills to help humans and agents create better interfaces.](https://daily.dev/posts/tXEo1FltO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Dynamic Node Connection &lpar;CSS-only Diagram&rpar;](https://daily.dev/posts/FE4F6bMM4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
