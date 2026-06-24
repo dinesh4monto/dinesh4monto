@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/j2HNegj3L?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server](https://daily.dev/posts/TJ5B8Zx48?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [AI is code – and can&#39;t be prompted into being smarter](https://daily.dev/posts/D7zxiNwoE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [UI Skills is a collection of design-engineering skills to help humans and agents create better interfaces.](https://daily.dev/posts/tXEo1FltO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Dynamic Node Connection &lpar;CSS-only Diagram&rpar;](https://daily.dev/posts/FE4F6bMM4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/iBPKFfENu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How Headless WordPress Works with Next.js](https://daily.dev/posts/bN2sZJtCp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Merge Proposal: Guidelines built on Knowledge](https://daily.dev/posts/CVu8txC2J?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Who’s Left to Build WordPress?](https://daily.dev/posts/QT60p0ff4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How To Measure Developer Productivity?](https://daily.dev/posts/0wZq4DGrE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
