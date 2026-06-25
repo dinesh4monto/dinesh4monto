@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [RFC: PHP duration class](https://daily.dev/posts/irvl5EGnr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Let’s Play With Gap Decorations! – Master.dev Blog](https://daily.dev/posts/JDy3KCt2R?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/iBPKFfENu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How Headless WordPress Works with Next.js](https://daily.dev/posts/bN2sZJtCp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Merge Proposal: Guidelines built on Knowledge](https://daily.dev/posts/CVu8txC2J?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [I built d3-maps: a toolkit for interactive SVG maps with Vue and React support](https://daily.dev/posts/UUCgj1XO3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [EP219: 12 Open-source LLMs](https://daily.dev/posts/gUrVw07bp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/jpVAd71U5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Self-Improving Agents explained without the hype](https://daily.dev/posts/IBwffpTzc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [47/60 Days System Design Questions](https://daily.dev/posts/yC3njLPDc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
