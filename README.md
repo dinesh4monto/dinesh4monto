@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [A new HTTP method called **QUERY** was standardized in **June 2026 &lpar;RFC 10008&rpar;**. It fills the long-standing gap between **GET** and **POST** for **read-only operations that require a request body**.](https://daily.dev/posts/AQ9tUPYyH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Get Ready For the Powerful CSS border-shape Property!](https://daily.dev/posts/7ybzKqgPd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Bulletproof React: Building React Apps That Survive Growth](https://daily.dev/posts/ff4UMxkog?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://daily.dev/posts/l2nw9ULOj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Auth0 PHP - manually authenticating JWT idTokens](https://daily.dev/posts/QCVLULphg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/0JPGHGwg8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [My desktop with clipboard manager app and smart dock with useful widgets](https://daily.dev/posts/2O6HIrXpF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
