@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [A new HTTP method called **QUERY** was standardized in **June 2026 &lpar;RFC 10008&rpar;**. It fills the long-standing gap between **GET** and **POST** for **read-only operations that require a request body**.](https://daily.dev/posts/AQ9tUPYyH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Get Ready For the Powerful CSS border-shape Property!](https://daily.dev/posts/7ybzKqgPd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Bulletproof React: Building React Apps That Survive Growth](https://daily.dev/posts/ff4UMxkog?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/l2nw9ULOj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Auth0 PHP - manually authenticating JWT idTokens](https://daily.dev/posts/QCVLULphg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [CodeUtilityKit: 100+ private developer tools that run in your browser](https://daily.dev/posts/eaIxZdm0r?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/5KuR73Ap7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas — Smashing Magazine](https://daily.dev/posts/mdWwfNt0K?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [I let React Compiler handle memoization: Here’s what actually broke](https://daily.dev/posts/gZgm3acvh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/gNUesGHcH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
