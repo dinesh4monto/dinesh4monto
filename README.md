@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [What&#39;s missing from your PHP development environment](https://daily.dev/posts/2WTinewRN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Passwordless Sign-In with Fortify Two-Factor Support in Laravel](https://daily.dev/posts/bhLbvDjFc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How MCP Is Changing WordPress Development](https://daily.dev/posts/lPyHQm7tc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/TVcr0Aeq3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/zwgowrSd6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [GitHub - nasa/spacewasm: A flight-compliant WebAssembly interpreter for safety-critical execution](https://daily.dev/posts/liHmr1h7N?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Building balanced mobile layouts: nesting tabs and drawers with Expo Router](https://daily.dev/posts/rtWZIRiwn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/IopfQn8Sf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Per-user states for multi-user budgets in the REST API](https://daily.dev/posts/3q3AUILol?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [PHP Web interface for Sqlite3](https://daily.dev/posts/yBDaAqi9S?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
