@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [GitHub - nasa/spacewasm: A flight-compliant WebAssembly interpreter for safety-critical execution](https://daily.dev/posts/liHmr1h7N?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Building balanced mobile layouts: nesting tabs and drawers with Expo Router](https://daily.dev/posts/rtWZIRiwn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/IopfQn8Sf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Per-user states for multi-user budgets in the REST API](https://daily.dev/posts/3q3AUILol?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [PHP Web interface for Sqlite3](https://daily.dev/posts/yBDaAqi9S?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Kilo Code Goes Native on JetBrains](https://daily.dev/posts/GnCNioUTW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [cmux — The terminal built for multitasking, organization, and programmability](https://daily.dev/posts/xafZHkyws?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Best Docker Manager I’ve Seen! // Arcane Tutorial](https://daily.dev/posts/cCsME82X1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Free e-book with 60 scenario-based system design interview questions](https://daily.dev/posts/5Mpw8IEfC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A tour of my dotfiles](https://daily.dev/posts/DA1V7CMP0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
