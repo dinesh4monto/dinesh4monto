@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://daily.dev/posts/cj1Wp5KTn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/2JD1Zf3HQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/7MDq8vsm6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Shiki - Your notes.Your terminal.Actually yours.](https://daily.dev/posts/pGfFDAkc2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [How I Migrated My Website to Cloudflare and Saved $228](https://daily.dev/posts/jnB0ux8F6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [PHP Attributes: What, Why, How and When](https://daily.dev/posts/RtZv4eRAx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Cloudflare Internal DNS is now generally available](https://daily.dev/posts/4o5RIYIN5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Wing Python IDE Version 12](https://daily.dev/posts/DQluqPOaJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [VibeVoice: A Frontier Open-Source Text-to-Speech Model by MS](https://daily.dev/posts/J9I0eXCYm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
