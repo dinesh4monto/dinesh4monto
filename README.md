@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/cj1Wp5KTn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/2JD1Zf3HQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/7MDq8vsm6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Shiki - Your notes.Your terminal.Actually yours.](https://daily.dev/posts/pGfFDAkc2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How I Migrated My Website to Cloudflare and Saved $228](https://daily.dev/posts/jnB0ux8F6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Kogvio: Understand anything online without leaving the page.](https://daily.dev/posts/DOKivJQ6a?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [An entire PowerPoint in one HTML file &lpar;edit+view+data+collab&rpar;](https://daily.dev/posts/LGKuJ2bSw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Redential: A developer credential that proves what you built](https://daily.dev/posts/TblShXRdN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Nub: a new Node.js toolkit claiming faster installs and script running than Bun and pnpm](https://daily.dev/posts/3tcQg70I0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [All That Glitters Is Not Gold &lpar;Dynamic features in PHP&rpar;](https://daily.dev/posts/iZ0TSJt90?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
