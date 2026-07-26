@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Kogvio: Understand anything online without leaving the page.](https://daily.dev/posts/DOKivJQ6a?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [An entire PowerPoint in one HTML file &lpar;edit+view+data+collab&rpar;](https://daily.dev/posts/LGKuJ2bSw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Redential: A developer credential that proves what you built](https://daily.dev/posts/TblShXRdN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Nub: a new Node.js toolkit claiming faster installs and script running than Bun and pnpm](https://daily.dev/posts/3tcQg70I0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [All That Glitters Is Not Gold &lpar;Dynamic features in PHP&rpar;](https://daily.dev/posts/iZ0TSJt90?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/DxoQNiCho?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Tourkit — Developer-First Onboarding Platform for Modern SaaS](https://daily.dev/posts/lcHN2DDNo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [GitHub - marcelroed/gigatoken: Language model tokenization at GB/s](https://daily.dev/posts/EoBEw1UMO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [CopilotKit just open sourced its Angular client - bring any agent into your app](https://daily.dev/posts/w5mu89Jv5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Day 1/30 AWS System Design Patterns](https://daily.dev/posts/mKHCeCn0Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
