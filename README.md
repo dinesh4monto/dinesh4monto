@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/DxoQNiCho?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Tourkit — Developer-First Onboarding Platform for Modern SaaS](https://daily.dev/posts/lcHN2DDNo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [GitHub - marcelroed/gigatoken: Language model tokenization at GB/s](https://daily.dev/posts/EoBEw1UMO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [CopilotKit just open sourced its Angular client - bring any agent into your app](https://daily.dev/posts/w5mu89Jv5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Day 1/30 AWS System Design Patterns](https://daily.dev/posts/mKHCeCn0Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/4KVhxkTlI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Firefox Containers Preview](https://daily.dev/posts/6wa4S8VZ7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The safest packages in the Laravel ecosystem. Every plugin on this list has a top-tier health score AND comes from a vendor with a proven track record. No abandoned repos, no silent CVEs, no one-man projects that disappeared last year. Just packages](https://daily.dev/posts/FbNmocAdB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [In-House LLM Serving at Netflix](https://daily.dev/posts/yh81G6jww?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/wlOJufJK7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
