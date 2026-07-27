@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/4KVhxkTlI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Firefox Containers Preview](https://daily.dev/posts/6wa4S8VZ7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The safest packages in the Laravel ecosystem. Every plugin on this list has a top-tier health score AND comes from a vendor with a proven track record. No abandoned repos, no silent CVEs, no one-man projects that disappeared last year. Just packages](https://daily.dev/posts/FbNmocAdB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [In-House LLM Serving at Netflix](https://daily.dev/posts/yh81G6jww?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/wlOJufJK7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [PHPFlow: Performance Optimizations and binary format Floe](https://daily.dev/posts/0KoN2JuoA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Don&#39;t waste time on specs: /prototype instead](https://daily.dev/posts/iB3xRXW5H?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Merge Conflicts Are a Process Problem, Not a Git Problem](https://daily.dev/posts/pwp1zstAF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The all-in-one JavaScript toolkit &lpar;Bun Alternative&rpar;](https://daily.dev/posts/hTvJyA4Mq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Color Palettes](https://daily.dev/posts/gusuRCRCE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
