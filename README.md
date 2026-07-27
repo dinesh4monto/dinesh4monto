@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [PHPFlow: Performance Optimizations and binary format Floe](https://daily.dev/posts/0KoN2JuoA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Don&#39;t waste time on specs: /prototype instead](https://daily.dev/posts/iB3xRXW5H?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Merge Conflicts Are a Process Problem, Not a Git Problem](https://daily.dev/posts/pwp1zstAF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The all-in-one JavaScript toolkit &lpar;Bun Alternative&rpar;](https://daily.dev/posts/hTvJyA4Mq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Color Palettes](https://daily.dev/posts/gusuRCRCE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Notate: Annotate anything for humans and their agents](https://daily.dev/posts/glDI5V3KN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/3GvXbzUbx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Wordpress Situation is Absolutely Insane](https://daily.dev/posts/XSgsIwdXn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Day 5/30 AWS System Design Patterns](https://daily.dev/posts/ZTC1TFJ43?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Inertia.js server-side adapter for PHP.](https://daily.dev/posts/btVt73xfQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
