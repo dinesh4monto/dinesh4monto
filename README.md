@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [These lightweight editors are faster than VS Code, but Microsoft&#39;s 100,000 extensions keep me hostage](https://daily.dev/posts/qI8VHp6ml?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [MCP-Billing: OAuth 2.1 + usage-based Stripe billing for MCP servers](https://daily.dev/posts/P7vKc1Gr9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Notate: Annotate anything for humans and their agents](https://daily.dev/posts/glDI5V3KN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://daily.dev/posts/3GvXbzUbx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Wordpress Situation is Absolutely Insane](https://daily.dev/posts/XSgsIwdXn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Day 5/30 AWS System Design Patterns](https://daily.dev/posts/ZTC1TFJ43?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Inertia.js server-side adapter for PHP.](https://daily.dev/posts/btVt73xfQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
