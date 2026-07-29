@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [These lightweight editors are faster than VS Code, but Microsoft&#39;s 100,000 extensions keep me hostage](https://daily.dev/posts/qI8VHp6ml?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [MCP-Billing: OAuth 2.1 + usage-based Stripe billing for MCP servers](https://daily.dev/posts/P7vKc1Gr9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Notate: Annotate anything for humans and their agents](https://daily.dev/posts/glDI5V3KN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/3GvXbzUbx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Wordpress Situation is Absolutely Insane](https://daily.dev/posts/XSgsIwdXn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/IKzW3BNv7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The React Compiler Just Made Your Memoization Knowledge Obsolete. Here’s What to Learn Instead.](https://daily.dev/posts/sfdRxWm6z?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [HTML to PDF Converter in Browser](https://daily.dev/posts/wOXOKX7Oo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [I Really Want to Love This Markdown Editor, But One Thing Holds It Back](https://daily.dev/posts/7LPhX6cw9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Canvas UI applies WebGL shaders to real, interactive HTML using the HTML-in-Canvas API](https://daily.dev/posts/x8RlhW13a?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
