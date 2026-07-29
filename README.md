@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/IKzW3BNv7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The React Compiler Just Made Your Memoization Knowledge Obsolete. Here’s What to Learn Instead.](https://daily.dev/posts/sfdRxWm6z?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [HTML to PDF Converter in Browser](https://daily.dev/posts/wOXOKX7Oo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [I Really Want to Love This Markdown Editor, But One Thing Holds It Back](https://daily.dev/posts/7LPhX6cw9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Canvas UI applies WebGL shaders to real, interactive HTML using the HTML-in-Canvas API](https://daily.dev/posts/x8RlhW13a?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/frvvUoF4Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [AgentLoop: Starts a fresh Codex worker and critic every cycle](https://daily.dev/posts/lOFAvYFa0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/mBNpOtybs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Best JavaScript Data Grid Libraries: Which One Is Right for Your App?](https://daily.dev/posts/o4JA3c774?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [13 AI Prompts Every React Developer Should Save](https://daily.dev/posts/JPfBJGMNZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
