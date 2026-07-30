@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/frvvUoF4Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [AgentLoop: Starts a fresh Codex worker and critic every cycle](https://daily.dev/posts/lOFAvYFa0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/mBNpOtybs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Best JavaScript Data Grid Libraries: Which One Is Right for Your App?](https://daily.dev/posts/o4JA3c774?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [13 AI Prompts Every React Developer Should Save](https://daily.dev/posts/JPfBJGMNZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Grabette: an open system to record robot-manipulation data](https://daily.dev/posts/h8hjU0I38?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A New Way to Round the Corners of CSS Shapes](https://daily.dev/posts/k0X8V1ruf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Let CSS do the work](https://daily.dev/posts/XutDyOUd8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [box: Computers for agents. Simple, full VMs, inexpensive at scale](https://daily.dev/posts/DabbbZbDr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [I Turned My Resume Into an AI You Can Interrogate](https://daily.dev/posts/p8yUDcTTN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
