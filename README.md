@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Grabette: an open system to record robot-manipulation data](https://daily.dev/posts/h8hjU0I38?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A New Way to Round the Corners of CSS Shapes](https://daily.dev/posts/k0X8V1ruf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Let CSS do the work](https://daily.dev/posts/XutDyOUd8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [box: Computers for agents. Simple, full VMs, inexpensive at scale](https://daily.dev/posts/DabbbZbDr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [I Turned My Resume Into an AI You Can Interrogate](https://daily.dev/posts/p8yUDcTTN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [#221 – Rahul Bansal on Using AI Everywhere at rtCamp](https://daily.dev/posts/KRa7jG3tM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [FastPixel vs NitroPack: Two Cloud-Based WordPress Performance Plugins Compared](https://daily.dev/posts/6FU3TJODs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [TryHackMe — Blog CTF | Full Write-Up](https://daily.dev/posts/cLubIFl5s?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Scale a WooCommerce Store &lpar;15 Pro Tips&rpar;](https://daily.dev/posts/BguZ1uPEg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [7 Best WordPress Code Snippets Plugins &lpar;I Tested Them All&rpar;](https://daily.dev/posts/Dm2ctjgVs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
