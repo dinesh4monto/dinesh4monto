@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [#221 – Rahul Bansal on Using AI Everywhere at rtCamp](https://daily.dev/posts/KRa7jG3tM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [FastPixel vs NitroPack: Two Cloud-Based WordPress Performance Plugins Compared](https://daily.dev/posts/6FU3TJODs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [TryHackMe — Blog CTF | Full Write-Up](https://daily.dev/posts/cLubIFl5s?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Scale a WooCommerce Store &lpar;15 Pro Tips&rpar;](https://daily.dev/posts/BguZ1uPEg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [7 Best WordPress Code Snippets Plugins &lpar;I Tested Them All&rpar;](https://daily.dev/posts/Dm2ctjgVs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/AuiQUyYfL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Delete AGENTS.md and CLAUDE.md files. Agents have memory and hooks.](https://daily.dev/posts/VmI0gIJ1J?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Lima v2.2: Windows guests and TPM 2.0 emulation](https://daily.dev/posts/BlTRuchOo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Building a Zero-Server Image Resizer with JavaScript](https://daily.dev/posts/Ee1iFf10r?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Frontend CI/CD in the age of AI -- Part 1](https://daily.dev/posts/fJSYJ336m?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
