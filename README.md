@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Essential GUI design principles for creating intuitive interfaces](https://daily.dev/posts/AlrQP02bO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Lead Technical Teams Without Micromanaging](https://daily.dev/posts/3jDIYv6KJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A practical guide to React error monitoring](https://daily.dev/posts/QmxIyODzB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/THn4RjH0X?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Workers, SafeAreaView, backgroundImage, WebGPU, VisionCamera, React Navigation, Canvas Kit, Nitro](https://daily.dev/posts/zP1Dg5abQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Open Knowledge Format &lpar;OKF&rpar;](https://daily.dev/posts/AwkHjc6l6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [TokTracker is a self-hosted, local-first dashboard for AI coding-agent usage. It reads the session data already on your machines, estimates or preserves reported costs, and sends the results to a gateway you control.](https://daily.dev/posts/oS5dpwww3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Removing React.js from the codebase and adapting HTMX for UI interactivity](https://daily.dev/posts/PhHZbmMaB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/26kwfxuCa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/AjS1QcJUU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
