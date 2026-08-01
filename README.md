@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/AuiQUyYfL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Delete AGENTS.md and CLAUDE.md files. Agents have memory and hooks.](https://daily.dev/posts/VmI0gIJ1J?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Lima v2.2: Windows guests and TPM 2.0 emulation](https://daily.dev/posts/BlTRuchOo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Building a Zero-Server Image Resizer with JavaScript](https://daily.dev/posts/Ee1iFf10r?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Frontend CI/CD in the age of AI -- Part 1](https://daily.dev/posts/fJSYJ336m?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Essential GUI design principles for creating intuitive interfaces](https://daily.dev/posts/AlrQP02bO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Lead Technical Teams Without Micromanaging](https://daily.dev/posts/3jDIYv6KJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A practical guide to React error monitoring](https://daily.dev/posts/QmxIyODzB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/THn4RjH0X?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Workers, SafeAreaView, backgroundImage, WebGPU, VisionCamera, React Navigation, Canvas Kit, Nitro](https://daily.dev/posts/zP1Dg5abQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
