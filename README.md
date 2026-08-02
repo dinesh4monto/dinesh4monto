@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How Websites Were Built Before Flexbox and Grid](https://daily.dev/posts/Fiqa1MyfQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Open Knowledge Format &lpar;OKF&rpar;](https://daily.dev/posts/AwkHjc6l6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [TokTracker is a self-hosted, local-first dashboard for AI coding-agent usage. It reads the session data already on your machines, estimates or preserves reported costs, and sends the results to a gateway you control.](https://daily.dev/posts/oS5dpwww3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Removing React.js from the codebase and adapting HTMX for UI interactivity](https://daily.dev/posts/PhHZbmMaB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://daily.dev/posts/26kwfxuCa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/AjS1QcJUU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
