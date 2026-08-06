@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [author filter now has the final say on post author notifications – Make WordPress Core](https://daily.dev/posts/C2qGiHN0o?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Jujutsu VCS 101](https://daily.dev/posts/T8fi750IB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Morphicons: Any stroke icon morphs into any other](https://daily.dev/posts/cEkp52xQD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Max Value Of A CSS Length Layout Unit · August 5, 2026](https://daily.dev/posts/rTvq7VHsA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [WordPress 7.1 Field Guide](https://daily.dev/posts/Dz1VkPSld?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Paprius icon set gets first update in a over year with 80+ new icons](https://daily.dev/posts/riNFw3jw6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/duxhkdjU6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/SYpYX660X?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Building a 3D Editor with React Three Fiber, WebGPU](https://daily.dev/posts/xdNwr1QVp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/Qq8Fd7Z1E?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
