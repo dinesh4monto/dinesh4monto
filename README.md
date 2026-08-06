@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Responsive block styles and configurable viewports in WordPress 7.1](https://daily.dev/posts/gBQnU0p1b?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [https://cloudflare.pay/](https://daily.dev/posts/OcR322hL5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Build an Open Source SaaS Landing Page Template with shadcn/ui](https://daily.dev/posts/sKZPT3HRD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Capptivo: Free open-source screen recorder &amp; demo editor](https://daily.dev/posts/esrBFWyQD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/S38cpFXRe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [author filter now has the final say on post author notifications – Make WordPress Core](https://daily.dev/posts/C2qGiHN0o?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Jujutsu VCS 101](https://daily.dev/posts/T8fi750IB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Morphicons: Any stroke icon morphs into any other](https://daily.dev/posts/cEkp52xQD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Max Value Of A CSS Length Layout Unit · August 5, 2026](https://daily.dev/posts/rTvq7VHsA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [WordPress 7.1 Field Guide](https://daily.dev/posts/Dz1VkPSld?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
