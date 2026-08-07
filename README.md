@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Paprius icon set gets first update in a over year with 80+ new icons](https://daily.dev/posts/riNFw3jw6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/duxhkdjU6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/SYpYX660X?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Building a 3D Editor with React Three Fiber, WebGPU](https://daily.dev/posts/xdNwr1QVp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/Qq8Fd7Z1E?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Windows Utility 2026: The Biggest Update Yet](https://daily.dev/posts/3ZpQcGRMI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [This library changes how JS and CSS work together](https://daily.dev/posts/UJcw8NQld?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [HAR: Open Source harness for multi-agent coding workflows](https://daily.dev/posts/cNZ7HfQ15?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A stock dashboard that lives in your terminal: live quotes, candles with SMA and RSI, AI-scored news with sentiment, SEC Form 4 insider trades. Rust + ratatui, MIT. 100 calls a day on the free tier, no card: cargo install alphai-tui](https://daily.dev/posts/GSEUQKLs0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [View Transitions: Careful Not To Make Stuff Unclickable – Master.dev Blog](https://daily.dev/posts/e4liFphm0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
