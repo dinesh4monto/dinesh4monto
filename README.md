@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Windows Utility 2026: The Biggest Update Yet](https://daily.dev/posts/3ZpQcGRMI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [This library changes how JS and CSS work together](https://daily.dev/posts/UJcw8NQld?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [HAR: Open Source harness for multi-agent coding workflows](https://daily.dev/posts/cNZ7HfQ15?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A stock dashboard that lives in your terminal: live quotes, candles with SMA and RSI, AI-scored news with sentiment, SEC Form 4 insider trades. Rust + ratatui, MIT. 100 calls a day on the free tier, no card: cargo install alphai-tui](https://daily.dev/posts/GSEUQKLs0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [View Transitions: Careful Not To Make Stuff Unclickable – Master.dev Blog](https://daily.dev/posts/e4liFphm0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Claude Code Full Course](https://daily.dev/posts/PCkUcVY1c?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Type-safe JSON and JSONB in StructuredQueries](https://daily.dev/posts/Zi6SDWZPY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/qgszGYnxv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Let CSS Pick Your Text Color](https://daily.dev/posts/mpvXP2kf1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [This one free open-source tool replaced three paid apps I&#39;d used for years](https://daily.dev/posts/R0BOaQNGT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
