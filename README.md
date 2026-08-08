@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Claude Code Full Course](https://daily.dev/posts/PCkUcVY1c?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Type-safe JSON and JSONB in StructuredQueries](https://daily.dev/posts/Zi6SDWZPY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/qgszGYnxv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Let CSS Pick Your Text Color](https://daily.dev/posts/mpvXP2kf1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [This one free open-source tool replaced three paid apps I&#39;d used for years](https://daily.dev/posts/R0BOaQNGT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Start.dev: A New Interactive Learning Experience](https://daily.dev/posts/eU8ZNGqEh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Validate DNI, NIE, and Passports in PHP, Laravel &amp; Symfony Projects](https://daily.dev/posts/vpwEIGNEE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Self-Host Weekly &lpar;7 August 2026&rpar;](https://daily.dev/posts/4qZgaWLMM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/L1aQtxpEu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/idlts4NhX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
