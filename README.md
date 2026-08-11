@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [A package handy for my indian friends. Generating words from number can be quite difficult and there were no solid packages out there so i created one! Now we can convert any number into words &lpar;rupees&rpar; in 12 popular indian languages!!](https://daily.dev/posts/lMgFKc6wH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://daily.dev/posts/bIKDqc5jd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://daily.dev/posts/ESgEDbyix?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Channels SDK - bring any agent into any chat platform with one codebase](https://daily.dev/posts/WhTGLLa5d?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://daily.dev/posts/s0IXKiOUC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Everything I Learned Shipping Device Bound Session Credentials](https://daily.dev/posts/cc5g3ZPDw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
