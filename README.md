@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [A package handy for my indian friends. Generating words from number can be quite difficult and there were no solid packages out there so i created one! Now we can convert any number into words &lpar;rupees&rpar; in 12 popular indian languages!!](https://daily.dev/posts/lMgFKc6wH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/bIKDqc5jd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/ESgEDbyix?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Channels SDK - bring any agent into any chat platform with one codebase](https://daily.dev/posts/WhTGLLa5d?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/s0IXKiOUC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Codename One JavaScript Port Is Now Free and Open Source](https://daily.dev/posts/R5rBkXRG9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [WordPress Hidden Costs vs Laravel CMS in 2026: The Math Businesses Keep Avoiding](https://daily.dev/posts/Zur9Vt92A?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/lc2RxJmkm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [LLM Inference Cost Optimization: Run AI Inference for Less](https://daily.dev/posts/sYqRZ0vBV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Definitive Guide to JavaScript Datagrids](https://daily.dev/posts/34Uz61jvW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
