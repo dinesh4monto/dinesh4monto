@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [The Codename One JavaScript Port Is Now Free and Open Source](https://daily.dev/posts/R5rBkXRG9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [WordPress Hidden Costs vs Laravel CMS in 2026: The Math Businesses Keep Avoiding](https://daily.dev/posts/Zur9Vt92A?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/lc2RxJmkm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [LLM Inference Cost Optimization: Run AI Inference for Less](https://daily.dev/posts/sYqRZ0vBV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The Definitive Guide to JavaScript Datagrids](https://daily.dev/posts/34Uz61jvW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [GitButler 0.22 - &quot;Catch 22&quot;](https://daily.dev/posts/hlxV8UU5e?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Sending Mass Notifications](https://daily.dev/posts/SyDKGAgiR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [free-my-arch: a Claude Code skill that cleans up your Arch install without nuking anything important](https://daily.dev/posts/kexi83iIv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/AnQylks0I?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [WebSocket vs SSE vs Long Polling: The Real Cost of 1,000 Events](https://daily.dev/posts/wIp1lZaWD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
