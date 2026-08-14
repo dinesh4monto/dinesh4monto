@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [GitButler 0.22 - &quot;Catch 22&quot;](https://daily.dev/posts/hlxV8UU5e?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Sending Mass Notifications](https://daily.dev/posts/SyDKGAgiR?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [free-my-arch: a Claude Code skill that cleans up your Arch install without nuking anything important](https://daily.dev/posts/kexi83iIv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/AnQylks0I?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [WebSocket vs SSE vs Long Polling: The Real Cost of 1,000 Events](https://daily.dev/posts/wIp1lZaWD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Laritor: Monitor Laravel Project - Requests, Queries, Jobs, Logs, ...](https://daily.dev/posts/WVrkPO4mo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/HWCVohwCC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [45 People Used Something I Built Out of Spite](https://daily.dev/posts/z0z8rHB6H?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/Gu5XZ6p7M?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/kocYkDS1M?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
