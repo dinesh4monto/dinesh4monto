@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Flare now uses OAuth for MCP, the CLI, and API](https://daily.dev/posts/foNnWDzEH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Announcing Open Knowledge Compiler: a compiler for the Open Knowledge Format](https://daily.dev/posts/PYzA0G3ae?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/r1ki0dv8J?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Issue #798: Shipping less JavaScript with Baseline — JavaScript Weekly](https://daily.dev/posts/6k6z0UIdO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Add Dynamic Features to a Static Site Without a Server](https://daily.dev/posts/5c0wC2qny?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [6 frontend techniques I wish more developers knew about.](https://daily.dev/posts/TA3TKcLGl?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/kVM6mojHs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Windows 11&#39;s Weather app uses over 1 GB of RAM because it&#39;s just a browser wrapper](https://daily.dev/posts/mUmvb0m5V?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More](https://daily.dev/posts/alg764Vfx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/K7nDZyB7U?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
