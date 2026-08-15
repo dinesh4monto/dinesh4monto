@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Flare now uses OAuth for MCP, the CLI, and API](https://daily.dev/posts/foNnWDzEH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Announcing Open Knowledge Compiler: a compiler for the Open Knowledge Format](https://daily.dev/posts/PYzA0G3ae?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://daily.dev/posts/r1ki0dv8J?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Issue #798: Shipping less JavaScript with Baseline — JavaScript Weekly](https://daily.dev/posts/6k6z0UIdO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [How to Add Dynamic Features to a Static Site Without a Server](https://daily.dev/posts/5c0wC2qny?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Laritor: Monitor Laravel Project - Requests, Queries, Jobs, Logs, ...](https://daily.dev/posts/WVrkPO4mo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
