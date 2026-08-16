@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [6 frontend techniques I wish more developers knew about.](https://daily.dev/posts/TA3TKcLGl?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/kVM6mojHs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Windows 11&#39;s Weather app uses over 1 GB of RAM because it&#39;s just a browser wrapper](https://daily.dev/posts/mUmvb0m5V?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More](https://daily.dev/posts/alg764Vfx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/K7nDZyB7U?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Python: use re.prefixmatch&lpar;&rpar; instead of re.match&lpar;&rpar; from Python 3.15](https://daily.dev/posts/BTKfOhPmx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Transition Kit: Opensource library of page and theme transitions](https://daily.dev/posts/o6d8hxCEw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/aIHAtLpY6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [I built a package so laravel/doctor checks your packages for health and maitanability not only cves. only one composer command away for install. usable ad hoc or as part of a ci helps bring more ease of mind to your projects.](https://daily.dev/posts/eH5isNzcq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/RuHnJmOGy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
