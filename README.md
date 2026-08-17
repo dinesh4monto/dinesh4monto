@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Python: use re.prefixmatch&lpar;&rpar; instead of re.match&lpar;&rpar; from Python 3.15](https://daily.dev/posts/BTKfOhPmx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Transition Kit: Opensource library of page and theme transitions](https://daily.dev/posts/o6d8hxCEw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/aIHAtLpY6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [I built a package so laravel/doctor checks your packages for health and maitanability not only cves. only one composer command away for install. usable ad hoc or as part of a ci helps bring more ease of mind to your projects.](https://daily.dev/posts/eH5isNzcq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/RuHnJmOGy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Stop burning tokens on code review](https://daily.dev/posts/kXRtlop02?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [NativePHP v4: Build Native iOS and Android UI in Blade](https://daily.dev/posts/3HYJCKr3V?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Auth0 Learning: The New Skill-Building Platform for Developers](https://daily.dev/posts/i1tL6SkKX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Laravel Lock: Distributed Locks for Models and Routes](https://daily.dev/posts/2pRsAAOT3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Dark mode toggles: two states are enough](https://daily.dev/posts/P0IWHTdTk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
