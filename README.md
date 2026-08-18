@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [The dark mode toggle fight nobody saw coming: two states or three](https://daily.dev/posts/mApjKPwJQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [claude-db: A Database for Claude That Saves Your Tokens](https://daily.dev/posts/Pvadkkycv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Stop burning tokens on code review](https://daily.dev/posts/kXRtlop02?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [NativePHP v4: Build Native iOS and Android UI in Blade](https://daily.dev/posts/3HYJCKr3V?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Auth0 Learning: The New Skill-Building Platform for Developers](https://daily.dev/posts/i1tL6SkKX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Laravel Lock: Distributed Locks for Models and Routes](https://daily.dev/posts/2pRsAAOT3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
