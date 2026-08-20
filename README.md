@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [CSS Container Queries](https://daily.dev/posts/Iq9QAjosU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Why Developers Love React Native](https://daily.dev/posts/ktciGiOYs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [My HTML boilerplate in 2026](https://daily.dev/posts/SbA9xVADE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [PHP, Photoshop and PNG format](https://daily.dev/posts/GDx8mHHGK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [I Tried NEW Debug Bar for Laravel: Modern UI and AI Agentic Future](https://daily.dev/posts/DTrM8RjCq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Can’t touch the DOM? Reach for :has&lpar;&rpar; to style any element](https://daily.dev/posts/7YalpjtNd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Run Rob Run: Building a Music-Reactive Goo with Three.js and WebGPU](https://daily.dev/posts/MrUzHhr1P?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/LHp8sjyIZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [PHP 7.4 To PHP 8.6 Benchmarks, PHP 8.6 JIT Performance](https://daily.dev/posts/rIBwVqFVN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Get Grid Information using pure CSS](https://daily.dev/posts/PFeHFXsXB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
