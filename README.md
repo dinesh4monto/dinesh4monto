@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Scroll-driven CSS animations](https://daily.dev/posts/uW6PlcLuy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/YjZHNPo3q?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [PWAs: Personal Web Apps](https://daily.dev/posts/Vhff8KDkt?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [claude-db 0.5.3: Smarter Memory, More Reliable Context](https://daily.dev/posts/6LcnSvT5L?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [The Pulse: Grok’s CLI caught uploading all your local files to the cloud](https://daily.dev/posts/fYAHyaeGK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Coding interviews have become insane](https://daily.dev/posts/Syl5ViAU6?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Day 5 Building a Short Drama app](https://daily.dev/posts/V2L4gpIpZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
