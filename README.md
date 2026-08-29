@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://daily.dev/posts/doKk5Ksb1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Pessimistic Locking in Laravel Eloquent with refreshForUpdate&lpar;&rpar;](https://daily.dev/posts/UKFzaytcA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Laravel starter kits now ship with Vite+](https://daily.dev/posts/FwuUlRGi1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [4 months ago, I posted my plan for a web studio here. Here&#39;s what actually happened.](https://daily.dev/posts/kxIPSXRyS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Feature Detecting “Undetectable” CSS Features with @supports named-feature&lpar;&rpar;](https://daily.dev/posts/f27YPGR3D?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/BJ7GbRbnh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
