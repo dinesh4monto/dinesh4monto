@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [4 months ago, I posted my plan for a web studio here. Here&#39;s what actually happened.](https://daily.dev/posts/kxIPSXRyS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Feature Detecting “Undetectable” CSS Features with @supports named-feature&lpar;&rpar;](https://daily.dev/posts/f27YPGR3D?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://daily.dev/posts/BJ7GbRbnh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Hover Proximity Using Modern CSS – Master.dev Blog](https://daily.dev/posts/wA5XJV85B?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [WordPress PHP-Only Block Registration](https://daily.dev/posts/OcQM8qogE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How PHP optimises bytecode](https://daily.dev/posts/yx3UKX0I5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
