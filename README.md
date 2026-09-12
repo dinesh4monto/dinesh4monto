@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Bespken — Meeting-to-Proposal Platform for Modern Freelancers](https://daily.dev/posts/KWS8IqHCm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [built Worker Safety to help catch potential data leaks and unbounded memory growth in PHP applications before moving to FrankenPHP, Laravel Octane, RoadRunner, or Swoole.](https://daily.dev/posts/wgrzm5P6G?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Eloquent Performance and Database Design: Evidence Before Eager Loading](https://daily.dev/posts/J4cZrk9sS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [PayZephyr: One Payment API for Stripe, Paystack, and PayPal](https://daily.dev/posts/tQzqAuEuJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/hklN4J4vp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [PHP component for Gedcom 5.5.1 and Gedcom X](https://daily.dev/posts/WmvX1P5AI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB](https://daily.dev/posts/qRpIShMwF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Nx Plugin for AWS](https://daily.dev/posts/INAi78vGi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [css custom highlight api javascript Tutorial](https://daily.dev/posts/Zer4jPPPO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Building an Infinite Liquid Glass Grid with Three.js, WebGPU, and TSL](https://daily.dev/posts/CWvx0gsr8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
