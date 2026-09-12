@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Twenty Years of jQuery: How a Little Library Rewired Web Development](https://daily.dev/posts/TfSYuwmdE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [CSS custom property value calculation timing explained](https://daily.dev/posts/MRuigKDom?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/COxNoJq3l?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/VfyFnpX6Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Get Grid Information using pure CSS II](https://daily.dev/posts/KjSIASa8y?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Bespken — Meeting-to-Proposal Platform for Modern Freelancers](https://daily.dev/posts/KWS8IqHCm?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [built Worker Safety to help catch potential data leaks and unbounded memory growth in PHP applications before moving to FrankenPHP, Laravel Octane, RoadRunner, or Swoole.](https://daily.dev/posts/wgrzm5P6G?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Eloquent Performance and Database Design: Evidence Before Eager Loading](https://daily.dev/posts/J4cZrk9sS?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [PayZephyr: One Payment API for Stripe, Paystack, and PayPal](https://daily.dev/posts/tQzqAuEuJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/hklN4J4vp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
