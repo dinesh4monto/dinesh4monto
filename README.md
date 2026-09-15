@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Public API access is now open for everyone](https://daily.dev/posts/Ljj8kH9SA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Multi-Agent Is the New Microservices. Including the Mistakes.](https://daily.dev/posts/NsZUNTz4D?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Object storage is all you need](https://daily.dev/posts/HSmXpBxSs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/Xfz42913N?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/mL2OEp7ek?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [This Opensource is a DevOps DREAM](https://daily.dev/posts/UEEWgVsI7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [What’s new for developers? &lpar;September 2026&rpar;](https://daily.dev/posts/HJ9hPDPTs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A two-month-old Rust TUI got into a curated directory in a day. The package index PRs from the same week are still in review.](https://daily.dev/posts/sw0Cf1NTs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/fsydcRJq9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/UAN6zIMIp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
