@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/IXQxRKsLQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Introducing Fast and Reliable Wireless Debugging with Android Debug Bridge &lpar;ADB&rpar; Wi-Fi 2.0](https://daily.dev/posts/yGAqPdkg1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/0CKbUgNsw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Aligning List Icons](https://daily.dev/posts/4bhBXl0C3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Why width and height Still Matter for HTML Images](https://daily.dev/posts/GfWjovmpc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/KWozcuXjo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [My HTML Boilerplate](https://daily.dev/posts/HwMlvdvzG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A &lpar;memory&rpar; friendly, easy, lazy and modular collection class.](https://daily.dev/posts/ROA21iKY1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Novamira Review: An MCP Plugin That Gives Your AI Agent Access to WordPress](https://daily.dev/posts/HsRy2YZte?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/ECCHFLHD1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
