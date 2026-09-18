@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Laravel Scalpel Scans for Filesystem Intrusion Evidence](https://daily.dev/posts/q17HYHH74?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A decent custom checkbox pattern for until ::checkmark is ready](https://daily.dev/posts/j4bey2VSd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Document-Driven WordPress](https://daily.dev/posts/O6LzcHd8T?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/pMIHC14FZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Inertia DevTools is now available for Firefox](https://daily.dev/posts/32rAYuX5t?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/IXQxRKsLQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Introducing Fast and Reliable Wireless Debugging with Android Debug Bridge &lpar;ADB&rpar; Wi-Fi 2.0](https://daily.dev/posts/yGAqPdkg1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/0CKbUgNsw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Aligning List Icons](https://daily.dev/posts/4bhBXl0C3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Why width and height Still Matter for HTML Images](https://daily.dev/posts/GfWjovmpc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
