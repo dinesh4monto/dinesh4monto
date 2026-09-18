@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/DpYmmiVlf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/CPXy0mKrG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [More Sail friction gone: trusted `.test` HTTPS, Sail Share, PHP/Node switching, Laravel logs, service dashboards and improved diagnostics.](https://daily.dev/posts/W2hZvEBxj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [This Opensource is a DevOps DREAM](https://daily.dev/posts/UEEWgVsI7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [What’s new for developers? &lpar;September 2026&rpar;](https://daily.dev/posts/HJ9hPDPTs?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Laravel Scalpel Scans for Filesystem Intrusion Evidence](https://daily.dev/posts/q17HYHH74?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A decent custom checkbox pattern for until ::checkmark is ready](https://daily.dev/posts/j4bey2VSd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Document-Driven WordPress](https://daily.dev/posts/O6LzcHd8T?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/pMIHC14FZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Inertia DevTools is now available for Firefox](https://daily.dev/posts/32rAYuX5t?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
