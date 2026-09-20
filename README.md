@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Building a Privacy-Focused Image Compressor Tool with Next.js](https://daily.dev/posts/UW0sytHDw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [the Typst typesetting engine in PHP for programmable PDF](https://daily.dev/posts/60KU6ye4f?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Understanding CSS Text-Box: Simplifying Padding Solutions](https://daily.dev/posts/JeGPs7Bip?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Laravel Pint, the zero-config code style fixer built on PHP-CS-Fixer, has shipped a feature that closes a long-standing gap: it now formats Blade templates too. Pint 1.30.0, released alongside the Laracon US 2026 announcements, adds a --blade flag that runs your .blade.php files through Prettier for consistent formatting, on top of the PHP formatting Pint already handles.
 
 https://laravelmagazine.com/laravel-pint-adds-a-blade-flag-to-format-your-blade-templates](https://daily.dev/posts/SavxfbXjD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://daily.dev/posts/a3arkwWs5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/oBQqDiEv7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [We made coding fun again!](https://daily.dev/posts/HMUfXzImL?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [TUI or GUI](https://daily.dev/posts/5aIlO3J8G?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
