@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Live Stream: Building a Social Network in PHP in 48 Hours](https://daily.dev/posts/x00koeiU8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [ACF Chat Fridays: WordPress 7.1, ACF Blocks v3, and editor customization](https://daily.dev/posts/fT3MaLD3E?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Agents Without Code: Skills, YAML, and Filesystems Replaced Python — Philipp Schmid, Google DeepMind](https://daily.dev/posts/HqXviGiCg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Motion vs GSAP in React: Which Animation Library Should You Choose?](https://daily.dev/posts/7czyTdi4y?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Community Corner Podcast: bun-php with Stanislav Khromov](https://daily.dev/posts/YkxJwgSim?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/NRPLsWWCe?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Containerizing Java, Python, and JavaScript Apps - Multi-Stage Docker Builds, Non-Root Users, and Docker Hub Tagging](https://daily.dev/posts/ANCBrG46F?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
