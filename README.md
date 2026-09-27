@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://daily.dev/posts/I8jC9YvyY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Spend Management expands to Enterprise Flexible Commitment plans](https://daily.dev/posts/gsqEaRXHZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://daily.dev/posts/ZJJ0Pgcr3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Issue #803: JavaScript desktop apps in under 10MB — JavaScript Weekly](https://daily.dev/posts/pYPzVc0Cg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [TimescaleDB Course – PostgreSQL for Time-Series Data](https://daily.dev/posts/kRsoyIsI9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Use This Claude and Novamira Tutorial to Build and Manage a WooCommerce Store](https://daily.dev/posts/knoAp7cFW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
