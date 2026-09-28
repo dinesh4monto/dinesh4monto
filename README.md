@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/3R3Fxy8E3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Animated Login Form UI using HTML &amp; CSS | Modern Login Design #shorts #html #css #webdevelopment](https://daily.dev/posts/F0SiH39Uk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/scRmtQU5t?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/6BzXBniFD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Kate is the IDE you need to replace VS Code](https://daily.dev/posts/j4duNN9S2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [AI Crash Course: WebMCP](https://daily.dev/posts/Qlg9aTJFO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [New PHP Package Sloppy: Static Analysis for Debt AI Agents Leave](https://daily.dev/posts/vQEUHQfKV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Dashboard maps without the API key headache: 74 shadcn-style Vue examples](https://daily.dev/posts/otXuzeYYW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/mKhdmVQqd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Tashil: Laravel Subscription Plans and Feature Usage Limits](https://daily.dev/posts/jKU5F91Rj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
