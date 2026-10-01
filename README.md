@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Laravel AI SDK and Laravel MCP Security Fixes: Update Now](https://daily.dev/posts/GQnAZbmXy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/z8pMEWfLJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Goodbye WordPress](https://daily.dev/posts/y1ICA44vN?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://daily.dev/posts/CWXBivIQ1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [AI Crash Course: WebMCP](https://daily.dev/posts/Qlg9aTJFO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [New PHP Package Sloppy: Static Analysis for Debt AI Agents Leave](https://daily.dev/posts/vQEUHQfKV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Dashboard maps without the API key headache: 74 shadcn-style Vue examples](https://daily.dev/posts/otXuzeYYW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/mKhdmVQqd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
