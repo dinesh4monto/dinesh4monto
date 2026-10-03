@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [LibreDB Studio: a self-hosted SQL IDE that runs in your browser, for 46 databases](https://daily.dev/posts/mbqwcAgFW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Presence API: What’s new](https://daily.dev/posts/qM43mcmN2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://daily.dev/posts/2pBrk6X8G?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://daily.dev/posts/lmnzxymN9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [How CSS content-visibility Works and How It Can Improve Rendering Performance](https://daily.dev/posts/i0fq9fMyB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [CSS animations to bring your site to life](https://daily.dev/posts/8eOv3hbFq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [A New Agentic Experience: JetBrains Air in IDEs – EAP Now Open](https://daily.dev/posts/5yoc4OSbi?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
