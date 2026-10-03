@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [LibreDB Studio: a self-hosted SQL IDE that runs in your browser, for 46 databases](https://daily.dev/posts/mbqwcAgFW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Presence API: What’s new](https://daily.dev/posts/qM43mcmN2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/2pBrk6X8G?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/lmnzxymN9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How CSS content-visibility Works and How It Can Improve Rendering Performance](https://daily.dev/posts/i0fq9fMyB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Docker Image Size](https://daily.dev/posts/hgm9rueD5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Look Mum, No Executors](https://daily.dev/posts/Ms35YgGcg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Introducing Asgard: a Thor-Based Task Runner](https://daily.dev/posts/v9O6aJ980?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [11 Laravel/PHP Tips in 10 Minutes: October 2026 Edition](https://daily.dev/posts/6XfPvZt4p?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [In this episode, Scott talks to Nick Sagona about Pop PHP, a PHP framework that removes the &quot;magic&quot; so your code is easier to understand and maintain.
+
+https://www.phparch.com/podcast/community-corner-podcast-pop-php-with-nick-sagona/](https://daily.dev/posts/UtmINvoW4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
