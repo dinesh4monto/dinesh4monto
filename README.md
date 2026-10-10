@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/ecSzqvb8e?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Laravel AI SDK 1.1 Adds Agent Skills and Cohere Chat](https://daily.dev/posts/sIioPgXl5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/ABxow4huQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/Xo5u0i4d1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Freek Van der Herten&#39;s blog on Laravel, PHP and AI](https://daily.dev/posts/pQboiWVif?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/ooyZEZNCH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Decorative Images…](https://daily.dev/posts/Ynw28AxUw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Running Laravel&#39;s Scheduler on Multiple Servers](https://daily.dev/posts/xZSjK7k8g?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Laravel Fake Assertions Now Accept Property Arrays](https://daily.dev/posts/kzQLaToPV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Best programming IDE for PHP is Jetbrain in my opinion](https://daily.dev/posts/8exy7gcnY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
