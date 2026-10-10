@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Feature Notifications: status update and plan for 0.3.0](https://daily.dev/posts/Tvbqwlt4F?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/ooyZEZNCH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Decorative Images…](https://daily.dev/posts/Ynw28AxUw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Running Laravel&#39;s Scheduler on Multiple Servers](https://daily.dev/posts/xZSjK7k8g?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Laravel Fake Assertions Now Accept Property Arrays](https://daily.dev/posts/kzQLaToPV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/911r8djNu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Skills Modern Devs Should Focus On](https://daily.dev/posts/jxY8xlIqz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Quota: Monitor your AI usage in one place.](https://daily.dev/posts/2zDakBHKo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [ABP x Vue: Introducing Lsw.Abp.VueUI](https://daily.dev/posts/fiupW7raz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [7 Game-Changing Web UI Features You Can Start Using Today](https://daily.dev/posts/LanXczIrV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
