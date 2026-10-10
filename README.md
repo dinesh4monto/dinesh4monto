@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Feature Notifications: status update and plan for 0.3.0](https://daily.dev/posts/Tvbqwlt4F?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://daily.dev/posts/ooyZEZNCH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Decorative Images…](https://daily.dev/posts/Ynw28AxUw?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Running Laravel&#39;s Scheduler on Multiple Servers](https://daily.dev/posts/xZSjK7k8g?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Laravel Fake Assertions Now Accept Property Arrays](https://daily.dev/posts/kzQLaToPV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Best programming IDE for PHP is Jetbrain in my opinion](https://daily.dev/posts/8exy7gcnY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
