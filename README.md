@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Learn PHP and web technologies](https://daily.dev/posts/jeEobIMPX?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/6bIpMM5Wp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/PhCmiDpFA?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Free and Open-Source alternative to the entire Adobe Suite &lpar;the way it used to be&rpar;](https://daily.dev/posts/S8dedaDu1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/AMNrcVRCM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Why Just Write Code When You Can Automate Your Entire SDLC?](https://daily.dev/posts/igDKdp7yf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://daily.dev/posts/UFbRQrItf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Oxynote: Self-Hosted Wiki with Live Metrics &lpar;Docker Guide&rpar;](https://daily.dev/posts/wSiIz3Non?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Karpathy’s Trick for Faster Local LLMs Finally Has Proper Tooling](https://daily.dev/posts/HEBLAc4j0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Introducing OpenFatigue](https://daily.dev/posts/FXWLOZJKE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
