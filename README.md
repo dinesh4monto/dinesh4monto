@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Why Just Write Code When You Can Automate Your Entire SDLC?](https://daily.dev/posts/igDKdp7yf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://daily.dev/posts/UFbRQrItf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Oxynote: Self-Hosted Wiki with Live Metrics &lpar;Docker Guide&rpar;](https://daily.dev/posts/wSiIz3Non?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Karpathy’s Trick for Faster Local LLMs Finally Has Proper Tooling](https://daily.dev/posts/HEBLAc4j0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Introducing OpenFatigue](https://daily.dev/posts/FXWLOZJKE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/lu502pEjg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/IcOk1iNrQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Linus Torvalds Used AI in Linux Kernel Development. The Interesting Part Wasn’t Just the Code.](https://daily.dev/posts/mri7b3yk9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Engineering Anatomy of API Vulnerabilities: A Deep Dive into the OWASP API Security Top 10](https://daily.dev/posts/0KmcwurZ4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Rust/Go Leverage in PHP](https://daily.dev/posts/10f11d6gC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
