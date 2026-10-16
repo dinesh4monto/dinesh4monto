@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/lu502pEjg?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/IcOk1iNrQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Linus Torvalds Used AI in Linux Kernel Development. The Interesting Part Wasn’t Just the Code.](https://daily.dev/posts/mri7b3yk9?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The Engineering Anatomy of API Vulnerabilities: A Deep Dive into the OWASP API Security Top 10](https://daily.dev/posts/0KmcwurZ4?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Rust/Go Leverage in PHP](https://daily.dev/posts/10f11d6gC?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Building Connected AI Agents: How RAG, MCP, and A2A Form the Modern Google AI Stack](https://daily.dev/posts/1TteKa54k?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/ZP2vy1Qbn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Cloudflare and OpenAI: making AI discovery better for everyone](https://daily.dev/posts/sAiwhfn5a?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Pi-hole is the Raspberry Pi project everyone tells beginners to build first, and I think it&#39;s the wrong one](https://daily.dev/posts/YZQODH2Mj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The AI Skills Python Developers Need to Stand Out](https://daily.dev/posts/zIuH5WJyH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
