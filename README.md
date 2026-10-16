@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Building Connected AI Agents: How RAG, MCP, and A2A Form the Modern Google AI Stack](https://daily.dev/posts/1TteKa54k?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/ZP2vy1Qbn?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Cloudflare and OpenAI: making AI discovery better for everyone](https://daily.dev/posts/sAiwhfn5a?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Pi-hole is the Raspberry Pi project everyone tells beginners to build first, and I think it&#39;s the wrong one](https://daily.dev/posts/YZQODH2Mj?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The AI Skills Python Developers Need to Stand Out](https://daily.dev/posts/zIuH5WJyH?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [GitHub - keploy/keploy: Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.](https://daily.dev/posts/xcA7wgL76?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/fXtniEMIP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/AJnEiGRsM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [HTTP1 vs HTTP2 vs HTTP3](https://daily.dev/posts/WBpqmgWlo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Apply Secure By Design Practices To Money Software](https://daily.dev/posts/F1AHRXvwa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
