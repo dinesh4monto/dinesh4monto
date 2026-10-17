@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [GitHub - keploy/keploy: Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.](https://daily.dev/posts/xcA7wgL76?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/fXtniEMIP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/AJnEiGRsM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [HTTP1 vs HTTP2 vs HTTP3](https://daily.dev/posts/WBpqmgWlo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Apply Secure By Design Practices To Money Software](https://daily.dev/posts/F1AHRXvwa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Religious Studies In Software Engineering](https://daily.dev/posts/7XOgFZ6KY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Dark Mode CSS Variables: Theme Systems with light-dark&lpar;&rpar;](https://daily.dev/posts/Jfhy7PTNk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [The Ultimate Vibe Coding Tutorial for Beginners](https://daily.dev/posts/XHjT1TwE2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Learn How to Design Software Systems Like a Senior Engineer in Our New Course](https://daily.dev/posts/esOEV78M2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [JavaScript Microtasks vs Tasks: What Runs First?](https://daily.dev/posts/zLNRvRlzG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
