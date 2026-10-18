@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Religious Studies In Software Engineering](https://daily.dev/posts/7XOgFZ6KY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Dark Mode CSS Variables: Theme Systems with light-dark&lpar;&rpar;](https://daily.dev/posts/Jfhy7PTNk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [The Ultimate Vibe Coding Tutorial for Beginners](https://daily.dev/posts/XHjT1TwE2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Learn How to Design Software Systems Like a Senior Engineer in Our New Course](https://daily.dev/posts/esOEV78M2?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [JavaScript Microtasks vs Tasks: What Runs First?](https://daily.dev/posts/zLNRvRlzG?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/YfHY6aQiQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/8sJWozD9D?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/K9EHdtUkx?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Tiny Little Office](https://daily.dev/posts/TbnSPQgkQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://daily.dev/posts/484GA1HEZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
