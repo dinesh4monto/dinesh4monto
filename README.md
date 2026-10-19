@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/scMZCeFVI?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Yarrtube Downloads YouTube Channels to Your Home Server](https://daily.dev/posts/I72WwewBc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [6 Parallelism Strategies for LLM Inference in Production](https://daily.dev/posts/8ILCZbwd8?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Cloudflare Tunnel: Self-Host Behind CGNAT and Hide Your IP](https://daily.dev/posts/oYm3UGUGE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [AI Badger 0.8.0: See Your Codebase Before Asking AI](https://daily.dev/posts/snELj4gk7?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/YeExuyydz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/TjpGrwYrb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/5x3eQXC19?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Free kanban board for teams](https://daily.dev/posts/0LvreHQmU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Sugabots: a self-hosted workspace where you and your AI agents work together](https://daily.dev/posts/0SETA7kth?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
