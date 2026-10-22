@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Building a Self-Hosted AI Code Reviewer: Repository Context, Automated Fixes, and Four LLM Providers](https://daily.dev/posts/LjC5IQ0AO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Cloudflare Pages vs Workers: which should you choose?](https://daily.dev/posts/js6QzTT4f?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/tEOcErM56?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No More Icons in Every Menu by Default](https://daily.dev/posts/OfcTU6TL3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [We benchmarked Firecracker vs. gVisor for sandboxing tool-using AI agents against indirect prompt injection](https://daily.dev/posts/vMU8mQWIZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [I replaced Obsidian, Google Keep, and OneNote with a knowledge management tool that makes all three feel outdated](https://daily.dev/posts/Q7uw3G03v?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to compare OpenCode, Claude Code, and Codex CLI](https://daily.dev/posts/87bRL1Ji1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [3D, procedurally generated and zero-asset fully playable Battle of Yavin from Star Wars](https://daily.dev/posts/pQjYnQjAY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/eDcR7qW1y?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/PvQpDZzZb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
