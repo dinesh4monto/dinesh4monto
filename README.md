@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [I replaced Obsidian, Google Keep, and OneNote with a knowledge management tool that makes all three feel outdated](https://daily.dev/posts/Q7uw3G03v?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to compare OpenCode, Claude Code, and Codex CLI](https://daily.dev/posts/87bRL1Ji1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [3D, procedurally generated and zero-asset fully playable Battle of Yavin from Star Wars](https://daily.dev/posts/pQjYnQjAY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/eDcR7qW1y?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/PvQpDZzZb?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [WordPress Contributor Toolkit 2.0: A redesigned app, in your language](https://daily.dev/posts/ou3sknLzk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [OpenAI CLI](https://daily.dev/posts/WPTQ9BGlf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [What Is Model Distillation? A Guide for Developers](https://daily.dev/posts/Q2wqGPF9t?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/CxOuec9Sz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No more clamp&lpar;&rpar; magic numbers](https://daily.dev/posts/9AuOwBDqu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
