@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [WordPress Contributor Toolkit 2.0: A redesigned app, in your language](https://daily.dev/posts/ou3sknLzk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [OpenAI CLI](https://daily.dev/posts/WPTQ9BGlf?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [What Is Model Distillation? A Guide for Developers](https://daily.dev/posts/Q2wqGPF9t?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/CxOuec9Sz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No more clamp&lpar;&rpar; magic numbers](https://daily.dev/posts/9AuOwBDqu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/iXfMoJwga?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Day 12/30 Real-World DevOps Problems](https://daily.dev/posts/ks3qj3xsY?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [From Tailwind to StyleX](https://daily.dev/posts/8hwctdvLu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Dovli: A Calm, Offline-First Workspace for Notes, Docs &amp; Whiteboards](https://daily.dev/posts/5QsoLkVE0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/GxPYvolwU?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
