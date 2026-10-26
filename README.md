@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Self-Hosted Spotify Alternatives](https://daily.dev/posts/dBgvNyAa5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Terminal Text Editor: Like VS Code But in Linux Terminal](https://daily.dev/posts/XqIgobt3u?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [KhartTool — A Lightweight Swiss Army Knife for Your Files](https://daily.dev/posts/3p5uNahxT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [AI Agent Observability: Traces, Costs and Tool Failures](https://daily.dev/posts/meTJhUL62?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Git Worktrees: Work on Multiple Branches Without Stashing](https://daily.dev/posts/rCU2lmqqk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [My Windows 11 PC can run containers without Docker Desktop, and the entire setup took one command](https://daily.dev/posts/y1CubMQYT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
