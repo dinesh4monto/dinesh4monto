@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Vector Database Comparison 2026: Pinecone vs Weaviate vs Qdrant vs OpenSearch](https://daily.dev/posts/UffORM1Ua?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [CSS-Tricks has a new owner!](https://daily.dev/posts/I9rdFvAg3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Self-Hosted Spotify Alternatives](https://daily.dev/posts/dBgvNyAa5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Terminal Text Editor: Like VS Code But in Linux Terminal](https://daily.dev/posts/XqIgobt3u?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [KhartTool — A Lightweight Swiss Army Knife for Your Files](https://daily.dev/posts/3p5uNahxT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [AI Agent Observability: Traces, Costs and Tool Failures](https://daily.dev/posts/meTJhUL62?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
