@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://daily.dev/posts/nlwapS0Aa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://daily.dev/posts/gvgF5tUTd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/Jyfy9wrXV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Every PHP server from the last decade just got owned...](https://daily.dev/posts/MM5CDhXOh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Turn Your Media Server Into a TV Station With Tunarr](https://daily.dev/posts/gtwCEQ4Gu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/m8ORWq3Dz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [I ditched 4 expensive desktop apps for free open-source alternatives, and I wish I&#39;d done it sooner](https://daily.dev/posts/AhqAoIfpy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How Noise-Cancelling Headphones Actually Remove Sound in Real Time](https://daily.dev/posts/BAukw2zwd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [WordPress Alternatives in 2026: Which Ones Are Really Worth It?](https://daily.dev/posts/xhaaom7xa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
