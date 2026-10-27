@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Vector Database Comparison 2026: Pinecone vs Weaviate vs Qdrant vs OpenSearch](https://daily.dev/posts/UffORM1Ua?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [CSS-Tricks has a new owner!](https://daily.dev/posts/I9rdFvAg3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Self-Hosted Spotify Alternatives](https://daily.dev/posts/dBgvNyAa5?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Terminal Text Editor: Like VS Code But in Linux Terminal](https://daily.dev/posts/XqIgobt3u?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [KhartTool — A Lightweight Swiss Army Knife for Your Files](https://daily.dev/posts/3p5uNahxT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Turn Your Media Server Into a TV Station With Tunarr](https://daily.dev/posts/gtwCEQ4Gu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/m8ORWq3Dz?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [I ditched 4 expensive desktop apps for free open-source alternatives, and I wish I&#39;d done it sooner](https://daily.dev/posts/AhqAoIfpy?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How Noise-Cancelling Headphones Actually Remove Sound in Real Time](https://daily.dev/posts/BAukw2zwd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [WordPress Alternatives in 2026: Which Ones Are Really Worth It?](https://daily.dev/posts/xhaaom7xa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
