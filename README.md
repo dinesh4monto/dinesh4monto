@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Frontend Performance Optimization: A Practical Guide to Faster Web Pages](https://daily.dev/posts/Zg7YBkclv?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/xesuoiv8Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [A Modern CSS Guide to Responsive Web Design](https://daily.dev/posts/W6wBZP8JP?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://daily.dev/posts/nlwapS0Aa?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://daily.dev/posts/gvgF5tUTd?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/Jyfy9wrXV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Every PHP server from the last decade just got owned...](https://daily.dev/posts/MM5CDhXOh?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Turn Your Media Server Into a TV Station With Tunarr](https://daily.dev/posts/gtwCEQ4Gu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
