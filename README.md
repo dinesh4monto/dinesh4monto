@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [OpenTubeX: Watch YouTube Without a Google Account](https://daily.dev/posts/bJYhprNTW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [I Built a Visual System Design Reference — Switch Any Architecture Between AWS, Azure, GCP &amp; Open Source](https://daily.dev/posts/tSPiXpXjo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/lF1Z916uc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Homelab Atlas: Self-Hosted Homelab Diagrams](https://daily.dev/posts/f4xuNvXJB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Agentic Engineering: A Complete Developer Guide With a Hands-On Tutorial!](https://daily.dev/posts/Rm1WfAlI3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [5 self-hosting tools that are better than their well-funded competitors](https://daily.dev/posts/mG5A13ngq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Pure PHP Doom &lpar;built-in extensions only&rpar;, powered by Vulkan API with ray tracing](https://daily.dev/posts/0y9Kpc2Sp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Train Your own Decision Model like Jev using Unsloth](https://daily.dev/posts/0w8Sl2Yca?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [How to Find and Fix Common Technical SEO Issues on Your Website](https://daily.dev/posts/5Kuaf5ZQo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Nibnib: Image compression with extreme decompression speed](https://daily.dev/posts/8BNk1gtUE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
