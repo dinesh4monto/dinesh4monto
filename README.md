@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
+- [OpenTubeX: Watch YouTube Without a Google Account](https://daily.dev/posts/bJYhprNTW?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [I Built a Visual System Design Reference — Switch Any Architecture Between AWS, Azure, GCP &amp; Open Source](https://daily.dev/posts/tSPiXpXjo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [No title](https://daily.dev/posts/lF1Z916uc?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Homelab Atlas: Self-Hosted Homelab Diagrams](https://daily.dev/posts/f4xuNvXJB?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 - [Agentic Engineering: A Complete Developer Guide With a Hands-On Tutorial!](https://daily.dev/posts/Rm1WfAlI3?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/d7LsUzfiF?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/RppBYTEdK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
