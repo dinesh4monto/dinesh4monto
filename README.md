@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [5 self-hosting tools that are better than their well-funded competitors](https://daily.dev/posts/mG5A13ngq?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Pure PHP Doom &lpar;built-in extensions only&rpar;, powered by Vulkan API with ray tracing](https://daily.dev/posts/0y9Kpc2Sp?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Train Your own Decision Model like Jev using Unsloth](https://daily.dev/posts/0w8Sl2Yca?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [How to Find and Fix Common Technical SEO Issues on Your Website](https://daily.dev/posts/5Kuaf5ZQo?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Nibnib: Image compression with extreme decompression speed](https://daily.dev/posts/8BNk1gtUE?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/moa7ETVgV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [3D Warehouse Alternatives: 8 Sites for Free SketchUp Models &lpar;2026&rpar;](https://daily.dev/posts/EunVA7TbK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/4373nkC8o?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [5 ESP32 projects that can run on batteries for a whole year](https://daily.dev/posts/gBKZGuv9E?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Nvidia Kubernetes Engine &lpar;NVKE&rpar;](https://daily.dev/posts/bpvHLINiK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
