@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/moa7ETVgV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [3D Warehouse Alternatives: 8 Sites for Free SketchUp Models &lpar;2026&rpar;](https://daily.dev/posts/EunVA7TbK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/4373nkC8o?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [5 ESP32 projects that can run on batteries for a whole year](https://daily.dev/posts/gBKZGuv9E?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Nvidia Kubernetes Engine &lpar;NVKE&rpar;](https://daily.dev/posts/bpvHLINiK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://daily.dev/posts/YLzNKkjDk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/Pt9pzZmo1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [This Skill Allows You to Turn Any Machine into an Interactive 3D Simulator via Claude Code](https://daily.dev/posts/pgTsp8ZKT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Shipping a native Android app without leaving Laravel](https://daily.dev/posts/vFdnluD8s?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [I built an offline-first workspace for notes, whiteboards, and ideas — Dovli is now on Android!](https://daily.dev/posts/iL9dnUghu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
