@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://daily.dev/posts/YLzNKkjDk?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/Pt9pzZmo1?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [This Skill Allows You to Turn Any Machine into an Interactive 3D Simulator via Claude Code](https://daily.dev/posts/pgTsp8ZKT?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Shipping a native Android app without leaving Laravel](https://daily.dev/posts/vFdnluD8s?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [I built an offline-first workspace for notes, whiteboards, and ideas — Dovli is now on Android!](https://daily.dev/posts/iL9dnUghu?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [From Full to Hybrid Attention in LLMs](https://daily.dev/posts/2VqgFRENQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Git Tutorial for Beginners: Learn Git in 25 Minutes](https://daily.dev/posts/nfXqD3hGr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Are you a student? Get Zed Pro for FREE for one year with GPT-6.1 and Claude Sonnet 5.5!](https://daily.dev/posts/PBGTO0YqD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Open-source Chrome extension translates pages using a local LLM, no account needed](https://daily.dev/posts/x7PvNLg9J?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/oKSKFDASM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
