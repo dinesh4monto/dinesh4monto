@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- daily.dev BOOKMARKS:START -->
-- [From Full to Hybrid Attention in LLMs](https://daily.dev/posts/2VqgFRENQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Git Tutorial for Beginners: Learn Git in 25 Minutes](https://daily.dev/posts/nfXqD3hGr?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Are you a student? Get Zed Pro for FREE for one year with GPT-6.1 and Claude Sonnet 5.5!](https://daily.dev/posts/PBGTO0YqD?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [Open-source Chrome extension translates pages using a local LLM, no account needed](https://daily.dev/posts/x7PvNLg9J?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
-- [No title](https://daily.dev/posts/oKSKFDASM?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Beyond 12 Columns: Designing Layouts With Personality](https://daily.dev/posts/tuT695MpV?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [No title](https://daily.dev/posts/ZDDrtQsMK?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Companies fired engineers for AI, now they want them back](https://daily.dev/posts/1TVxAeJy0?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [What Happens When You Upload a Large File &amp; Generate a Temporary Download Link](https://daily.dev/posts/o6EV8JW4P?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
+- [Getting Started Self-Hosting](https://daily.dev/posts/eLM6UpuFO?utm_source=rss&utm_medium=bookmarks&utm_campaign=PnGboN99PhXCxFrWGGg2C)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!--
